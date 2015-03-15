@@ -1,0 +1,4905 @@
+Denver:CO,London:United Kingdom,10107
+Denver:CO,Mexico City:Mexico,2295
+Denver:CO,Mazatlan:Mexico,757
+Denver:CO,Tokyo:Japan,455
+Denver:CO,Puerto Vallarta:Mexico,3908
+Denver:CO,San Jose del Cabo:Mexico,2780
+Denver:CO,Edmonton:Canada,4891
+Denver:CO,Montreal:Canada,1873
+Denver:CO,Vancouver:Canada,6748
+Denver:CO,Calgary:Canada,7601
+Dallas/Fort Worth:TX,Acapulco:Mexico,829
+Dallas/Fort Worth:TX,Cancun:Mexico,21754
+Dallas/Fort Worth:TX,Cozumel:Mexico,3887
+Dallas/Fort Worth:TX,Guadalajara:Mexico,5425
+Dallas/Fort Worth:TX,London:United Kingdom,20100
+Dallas/Fort Worth:TX,Madrid:Spain,5369
+Dallas/Fort Worth:TX,Mexico City:Mexico,16163
+Dallas/Fort Worth:TX,Monterrey:Mexico,8674
+Dallas/Fort Worth:TX,Nassau:The Bahamas,1103
+Dallas/Fort Worth:TX,Tokyo:Japan,12550
+Dallas/Fort Worth:TX,Paris:France,4905
+Dallas/Fort Worth:TX,Puerto Vallarta:Mexico,7620
+Dallas/Fort Worth:TX,Edmonton:Canada,29
+Dallas/Fort Worth:TX,Vancouver:Canada,8723
+Dallas/Fort Worth:TX,Calgary:Canada,5792
+Dallas/Fort Worth:TX,Toronto:Canada,10919
+Dallas/Fort Worth:TX,Ixtapa/Zihuatanejo:Mexico,251
+Dallas/Fort Worth:TX,Zurich:Switzerland,10
+Dakar:Senegal,New York:NY,1724
+Des Moines:IA,Toronto:Canada,6
+Detroit:MI,Acapulco:Mexico,28
+Detroit:MI,Amsterdam:Netherlands,25381
+Detroit:MI,Aruba:Aruba,6
+Detroit:MI,Hamilton:Bermuda,1
+Detroit:MI,Paris:France,5860
+Detroit:MI,Cancun:Mexico,7238
+Detroit:MI,Grand Cayman:Cayman Islands,200
+Detroit:MI,London:United Kingdom,6242
+Detroit:MI,Montego Bay:Jamaica,1667
+Detroit:MI,Nassau:The Bahamas,245
+Detroit:MI,Tokyo:Japan,9962
+Detroit:MI,Puerto Vallarta:Mexico,820
+Detroit:MI,Seoul:South Korea,2902
+Detroit:MI,Shanghai:China,6333
+Detroit:MI,Taipei:Taiwan,726
+Detroit:MI,Montreal:Canada,5178
+Detroit:MI,Toronto:Canada,8394
+Dublin:Ireland,Atlanta:GA,5199
+Dublin:Ireland,Boston:MA,7643
+Dublin:Ireland,New York:NY,19728
+Dublin:Ireland,Chicago:IL,10744
+Newark:NJ,Acapulco:Mexico,144
+Newark:NJ,Stockholm:Sweden,10043
+Newark:NJ,Aruba:Aruba,7179
+Newark:NJ,Hamilton:Bermuda,4355
+Newark:NJ,Paris:France,18137
+Newark:NJ,Copenhagen:Denmark,10396
+Newark:NJ,Cancun:Mexico,11300
+Newark:NJ,Oslo:Norway,4771
+Newark:NJ,Freeport:The Bahamas,9
+Newark:NJ,Grand Cayman:Cayman Islands,1258
+Newark:NJ,London:United Kingdom,44178
+Newark:NJ,Lisbon:Portugal,9183
+Newark:NJ,Montego Bay:Jamaica,2328
+Newark:NJ,Mexico City:Mexico,7127
+Newark:NJ,Nassau:The Bahamas,5842
+Newark:NJ,Tokyo:Japan,6626
+Newark:NJ,Puerto Plata:Dominican Republic,3739
+Newark:NJ,Port of Spain:Trinidad and Tobago,1486
+Newark:NJ,Santo Domingo:Dominican Republic,6796
+Newark:NJ,Philipsburg:Netherlands Antilles,2749
+Newark:NJ,Taipei:Taiwan,4345
+Newark:NJ,Halifax:Canada,4618
+Newark:NJ,Ottawa:Canada,3785
+Newark:NJ,Montreal:Canada,9125
+Newark:NJ,Toronto:Canada,28877
+Ezeiza:Argentina,New York:NY,6368
+Ezeiza:Argentina,Los Angeles:CA,563
+Ezeiza:Argentina,Miami:FL,23031
+Oslo:Norway,Newark:NJ,4782
+Rome:Italy,Boston:MA,6024
+Rome:Italy,New York:NY,23405
+Rome:Italy,Los Angeles:CA,3143
+Rome:Italy,Chicago:IL,9016
+Fort de France:Martinique,Miami:FL,52
+Fort de France:Martinique,San Juan:PR,1316
+Fort Lauderdale:FL,Freeport:The Bahamas,3128
+Fort Lauderdale:FL,Montego Bay:Jamaica,5496
+Fort Lauderdale:FL,Nassau:The Bahamas,17040
+Fort Lauderdale:FL,Montreal:Canada,14960
+Fort Lauderdale:FL,Ottawa:Canada,984
+Fort Lauderdale:FL,Quebec:Canada,888
+Fort Lauderdale:FL,Toronto:Canada,16117
+Freeport:The Bahamas,Boston:MA,7
+Freeport:The Bahamas,Newark:NJ,12
+Freeport:The Bahamas,Fort Lauderdale:FL,3317
+Freeport:The Bahamas,New York:NY,500
+Freeport:The Bahamas,Miami:FL,4461
+Fukuoka:Japan,Guam:TT,2742
+Fort Wayne:IN,Nassau:The Bahamas,14
+Grand Cayman:Cayman Islands,Detroit:MI,172
+Grand Cayman:Cayman Islands,Miami:FL,13094
+Grand Cayman:Cayman Islands,Chicago:IL,238
+Guadalajara:Mexico,Dallas/Fort Worth:TX,4969
+Guadalajara:Mexico,Houston:TX,8715
+Guadalajara:Mexico,Los Angeles:CA,29964
+Guadalajara:Mexico,Chicago:IL,3592
+Guadalajara:Mexico,Phoenix:AZ,6908
+Guadalajara:Mexico,San Francisco:CA,1899
+Spokane:WA,Calgary:Canada,3
+Georgetown:Guyana,New York:NY,7194
+Georgetown:Guyana,Miami:FL,711
+Governors Harbour:The Bahamas,Miami:FL,78
+Rio de Janeiro:Brazil,New York:NY,5402
+Rio de Janeiro:Brazil,Orlando:FL,24
+Rio de Janeiro:Brazil,Miami:FL,12581
+Glasgow:United Kingdom,Orlando:FL,621
+Grenada:Grenada,New York:NY,990
+Grenada:Grenada,Miami:FL,1383
+Green Bay:WI,Montreal:Canada,4
+Sao Paulo:Brazil,New York:NY,21035
+Sao Paulo:Brazil,Los Angeles:CA,1770
+Sao Paulo:Brazil,Orlando:FL,5860
+Sao Paulo:Brazil,Miami:FL,30092
+Guatemala City:Guatemala,Houston:TX,9283
+Guatemala City:Guatemala,Los Angeles:CA,7609
+Guatemala City:Guatemala,Miami:FL,11901
+Guam:TT,Fukuoka:Japan,2776
+Guam:TT,Kosrae:Federated States of Micronesia,102
+Guam:TT,Kwajalein:Marshall Islands,70
+Guam:TT,Majuro:Marshall Islands,300
+Guam:TT,Manila:Philippines,7150
+Guam:TT,Nagoya:Japan,9178
+Guam:TT,Tokyo:Japan,44438
+Guam:TT,Osaka:Japan,17059
+Guam:TT,Pohnpei:Federated States of Micronesia,802
+Guam:TT,Seoul:South Korea,10560
+Guam:TT,Chuuk:Federated States of Micronesia,840
+Guam:TT,Yap:Federated States of Micronesia,493
+Geneva:Switzerland,Washington:DC,3731
+Geneva:Switzerland,New York:NY,5549
+Guayaquil:Ecuador,New York:NY,10346
+Guayaquil:Ecuador,Miami:FL,7983
+Havana:Cuba,Miami:FL,16540
+Helsinki:Finland,New York:NY,6111
+Helsinki:Finland,Miami:FL,186
+Hong Kong:Hong Kong,New York:NY,19724
+Hong Kong:Hong Kong,Los Angeles:CA,19760
+Hong Kong:Hong Kong,Chicago:IL,8370
+Hong Kong:Hong Kong,Seattle:WA,195
+Hong Kong:Hong Kong,San Francisco:CA,32716
+Hermosillo:Mexico,Tucson:AZ,9
+Tokyo:Japan,Honolulu:HI,73966
+Honolulu:HI,Auckland:New Zealand,2020
+Honolulu:HI,Apia:Samoa,130
+Honolulu:HI,Sapporo:Japan,252
+Honolulu:HI,Christmas Island:Kiribati,37
+Honolulu:HI,Fukuoka:Japan,291
+Honolulu:HI,Hong Kong:Hong Kong,22
+Honolulu:HI,Tokyo:Japan,76934
+Honolulu:HI,Kumamoto:Japan,29
+Honolulu:HI,Kosrae:Federated States of Micronesia,93
+Honolulu:HI,Kwajalein:Marshall Islands,326
+Honolulu:HI,London:United Kingdom,68
+Honolulu:HI,Majuro:Marshall Islands,441
+Honolulu:HI,Manila:Philippines,6411
+Honolulu:HI,Nadi:Fiji,639
+Honolulu:HI,Nagoya:Japan,9775
+Honolulu:HI,Osaka:Japan,19703
+Honolulu:HI,Pohnpei:Federated States of Micronesia,251
+Honolulu:HI,Papeete:French Polynesia,648
+Honolulu:HI,Seoul:South Korea,9080
+Honolulu:HI,Sydney:Australia,10183
+Honolulu:HI,Chuuk:Federated States of Micronesia,151
+Honolulu:HI,Taipei:Taiwan,2119
+Honolulu:HI,Vancouver:Canada,9255
+Honolulu:HI,Calgary:Canada,827
+Honolulu:HI,Toronto:Canada,5
+Houston:TX,Grand Cayman:Cayman Islands,2084
+Houston:TX,Edmonton:Canada,3109
+Houston:TX,Calgary:Canada,12756
+Huntsville:AL,Ottawa:Canada,5
+Santa Cruz/Huatulco:Mexico,Houston:TX,563
+Santa Cruz/Huatulco:Mexico,Chicago:IL,292
+Washington:DC,Paris:France,19328
+Washington:DC,Cancun:Mexico,5266
+Washington:DC,Geneva:Switzerland,3781
+Washington:DC,Jeddah:Saudi Arabia,843
+Washington:DC,London:United Kingdom,37129
+Washington:DC,Mexico City:Mexico,2721
+Washington:DC,Nassau:The Bahamas,2093
+Washington:DC,Tokyo:Japan,10496
+Washington:DC,Riyadh:Saudi Arabia,854
+Washington:DC,Santo Domingo:Dominican Republic,18
+Washington:DC,Seoul:South Korea,6003
+Washington:DC,Edmonton:Canada,1
+Washington:DC,Vancouver:Canada,60
+Houston:TX,Acapulco:Mexico,2585
+Houston:TX,Amsterdam:Netherlands,11949
+Houston:TX,Aruba:Aruba,561
+Houston:TX,Belize City:Belize,5407
+Houston:TX,Caracas:Venezuela,3363
+Houston:TX,Paris:France,11286
+Houston:TX,Cancun:Mexico,27429
+Houston:TX,Cozumel:Mexico,5783
+Houston:TX,Guadalajara:Mexico,8976
+Houston:TX,Guatemala City:Guatemala,9624
+Houston:TX,London:United Kingdom,21889
+Houston:TX,Montego Bay:Jamaica,1766
+Houston:TX,Mexico City:Mexico,25687
+Houston:TX,Monterrey:Mexico,11145
+Houston:TX,Tokyo:Japan,7038
+Houston:TX,Puerto Vallarta:Mexico,7211
+Houston:TX,San Salvador:El Salvador,9146
+Houston:TX,San Pedro Sula:Honduras,3422
+Houston:TX,Tegucigalpa:Honduras,2766
+Houston:TX,Montreal:Canada,1411
+Houston:TX,Toronto:Canada,8671
+Houston:TX,Ixtapa/Zihuatanejo:Mexico,1957
+Indianapolis:IN,Acapulco:Mexico,27
+Indianapolis:IN,Cancun:Mexico,530
+Indianapolis:IN,Santa Cruz/Huatulco:Mexico,7
+Indianapolis:IN,Montreal:Canada,1
+Indianapolis:IN,Winnipeg:Canada,2
+Indianapolis:IN,Toronto:Canada,1011
+Iquitos:Peru,Miami:FL,10
+Istanbul:Turkey,New York:NY,13838
+Jacksonville:FL,Toronto:Canada,15
+Jeddah:Saudi Arabia,Washington:DC,1095
+Jeddah:Saudi Arabia,New York:NY,1307
+New York:NY,Malaga:Spain,1239
+New York:NY,Amman:Jordan,6107
+New York:NY,Amsterdam:Netherlands,21019
+New York:NY,St. Johns:Antigua and Barbuda,1058
+New York:NY,Stockholm:Sweden,2390
+New York:NY,Athens:Greece,6081
+New York:NY,Aruba:Aruba,9810
+New York:NY,Barranquilla:Colombia,327
+New York:NY,Barcelona:Spain,11519
+New York:NY,Hamilton:Bermuda,6858
+New York:NY,Barbados/Bridgetown:Barbados,7815
+New York:NY,Bogota:Colombia,6282
+New York:NY,Bonaire:Netherlands Antilles,122
+New York:NY,Brussels:Belgium,11949
+New York:NY,Budapest:Hungary,2925
+New York:NY,Cairo:Egypt,12399
+New York:NY,Caracas:Venezuela,1222
+New York:NY,Paris:France,48371
+New York:NY,Cali:Colombia,1639
+New York:NY,Casablanca:Morocco,4638
+New York:NY,Copenhagen:Denmark,2373
+New York:NY,Cartagena:Colombia,232
+New York:NY,Cancun:Mexico,14098
+New York:NY,Delhi:India,4571
+New York:NY,Dakar:Senegal,1279
+New York:NY,Dublin:Ireland,19559
+New York:NY,Ezeiza:Argentina,6219
+New York:NY,Rome:Italy,22768
+New York:NY,Freeport:The Bahamas,478
+New York:NY,Georgetown:Guyana,6925
+New York:NY,Rio de Janeiro:Brazil,5342
+New York:NY,Grenada:Grenada,1082
+New York:NY,Sao Paulo:Brazil,21439
+New York:NY,Guatemala City:Guatemala,41
+New York:NY,Geneva:Switzerland,5531
+New York:NY,Helsinki:Finland,6132
+New York:NY,Hong Kong:Hong Kong,19579
+New York:NY,Islamabad:Pakistan,15
+New York:NY,Istanbul:Turkey,13647
+New York:NY,Jeddah:Saudi Arabia,933
+New York:NY,Keflavik/Reykjavik:Iceland,4577
+New York:NY,Karachi:Pakistan,459
+New York:NY,Kingston:Jamaica,12829
+New York:NY,Kuwait:Kuwait,4525
+New York:NY,London:United Kingdom,102928
+New York:NY,Lahore:Pakistan,2569
+New York:NY,Lima:Peru,4622
+New York:NY,Lisbon:Portugal,13
+New York:NY,Madrid:Spain,28095
+New York:NY,Manchester:United Kingdom,4887
+New York:NY,Montego Bay:Jamaica,12971
+New York:NY,Medellin:Colombia,2336
+New York:NY,Mexico City:Mexico,17881
+New York:NY,Milan:Italy,12517
+New York:NY,Nassau:The Bahamas,9406
+New York:NY,Nice:France,4228
+New York:NY,Tokyo:Japan,25459
+New York:NY,Port-au-Prince:Haiti,6706
+New York:NY,Pereira:Colombia,888
+New York:NY,Beijing:China,8024
+New York:NY,Glasgow/Prestwick:United Kingdom,25
+New York:NY,Puerto Plata:Dominican Republic,4813
+New York:NY,Port of Spain:Trinidad and Tobago,13188
+New York:NY,Punta Cana:Dominican Republic,8110
+New York:NY,Riyadh:Saudi Arabia,597
+New York:NY,San Pedro Sula:Honduras,936
+New York:NY,Santiago:Chile,4530
+New York:NY,Santo Domingo:Dominican Republic,26623
+New York:NY,Seoul:South Korea,23449
+New York:NY,Shanghai:China,6299
+New York:NY,San Jose:Costa Rica,3540
+New York:NY,St. Kitts:Saint Kitts and Nevis,861
+New York:NY,Shannon:Ireland,5898
+New York:NY,Philipsburg:Netherlands Antilles,4485
+New York:NY,Tobago:Trinidad and Tobago,22
+New York:NY,Tel Aviv:Israel,25144
+New York:NY,Taipei:Taiwan,2661
+New York:NY,St. Lucia:Saint Lucia,3036
+New York:NY,Venice:Italy,4811
+New York:NY,Vienna:Austria,6415
+New York:NY,Warsaw:Poland,4832
+New York:NY,Montreal:Canada,15616
+New York:NY,Ottawa:Canada,1943
+New York:NY,Zurich:Switzerland,18352
+Acapulco:Mexico,Dallas/Fort Worth:TX,795
+Acapulco:Mexico,Detroit:MI,28
+Acapulco:Mexico,Houston:TX,2571
+Acapulco:Mexico,Las Vegas:NV,1
+Acapulco:Mexico,Chicago:IL,195
+Acapulco:Mexico,Philadelphia:PA,27
+Acapulco:Mexico,Raleigh/Durham:NC,1
+Atlantic City:NJ,Toronto:Canada,360
+San Andres Island:Colombia,Miami:FL,44
+Malaga:Spain,New York:NY,1312
+Auckland:New Zealand,Honolulu:HI,1841
+Auckland:New Zealand,Los Angeles:CA,21719
+Auckland:New Zealand,San Francisco:CA,5730
+Amman:Jordan,New York:NY,6354
+Amman:Jordan,Chicago:IL,4654
+Amsterdam:Netherlands,Atlanta:GA,13754
+Amsterdam:Netherlands,Boston:MA,8747
+Amsterdam:Netherlands,Detroit:MI,25182
+Amsterdam:Netherlands,Houston:TX,11963
+Amsterdam:Netherlands,New York:NY,20932
+Amsterdam:Netherlands,Los Angeles:CA,8959
+Amsterdam:Netherlands,Orlando:FL,3322
+Amsterdam:Netherlands,Miami:FL,91
+Amsterdam:Netherlands,Chicago:IL,10528
+Amsterdam:Netherlands,Seattle:WA,8642
+Anchorage:AK,Tokyo:Japan,104
+Anchorage:AK,Osaka:Japan,58
+Anchorage:AK,Taipei:Taiwan,757
+St. Johns:Antigua and Barbuda,New York:NY,1021
+St. Johns:Antigua and Barbuda,Miami:FL,3227
+St. Johns:Antigua and Barbuda,San Juan:PR,1501
+Apia:Samoa,Honolulu:HI,121
+Apia:Samoa,Pago Pago:TT,1862
+Stockholm:Sweden,Newark:NJ,10224
+Stockholm:Sweden,New York:NY,2425
+Stockholm:Sweden,Chicago:IL,5943
+Athens:Greece,New York:NY,6139
+Atlanta:GA,Amsterdam:Netherlands,13875
+Atlanta:GA,St. Johns:Antigua and Barbuda,394
+Atlanta:GA,Hamilton:Bermuda,2995
+Atlanta:GA,Brussels:Belgium,4579
+Atlanta:GA,Paris:France,21659
+Atlanta:GA,Cancun:Mexico,21366
+Atlanta:GA,Cozumel:Mexico,1499
+Atlanta:GA,Dublin:Ireland,5140
+Atlanta:GA,Kingston:Jamaica,1641
+Atlanta:GA,London:United Kingdom,17984
+Atlanta:GA,Montego Bay:Jamaica,15468
+Atlanta:GA,Mexico City:Mexico,11222
+Atlanta:GA,Nassau:The Bahamas,12442
+Atlanta:GA,Tokyo:Japan,7931
+Atlanta:GA,San Jose:Costa Rica,7925
+Atlanta:GA,Shannon:Ireland,20
+Atlanta:GA,Philipsburg:Netherlands Antilles,2042
+Atlanta:GA,Ottawa:Canada,3
+Atlanta:GA,Montreal:Canada,6560
+Atlanta:GA,Toronto:Canada,13999
+Atlanta:GA,Zurich:Switzerland,4811
+Aruba:Aruba,Boston:MA,4397
+Aruba:Aruba,Baltimore:MD,21
+Aruba:Aruba,Newark:NJ,7071
+Aruba:Aruba,New York:NY,9737
+Aruba:Aruba,Miami:FL,9750
+Aruba:Aruba,Philadelphia:PA,2631
+Kalamazoo:MI,Montreal:Canada,2
+Barranquilla:Colombia,New York:NY,392
+Barranquilla:Colombia,Miami:FL,3267
+Barcelona:Spain,New York:NY,11784
+Hamilton:Bermuda,Atlanta:GA,2905
+Hamilton:Bermuda,Boston:MA,4124
+Hamilton:Bermuda,Baltimore:MD,146
+Hamilton:Bermuda,Newark:NJ,4481
+Hamilton:Bermuda,New York:NY,6649
+Hamilton:Bermuda,Philadelphia:PA,2750
+Hartford:CT,Cancun:Mexico,380
+Hartford:CT,Nassau:The Bahamas,5
+Hartford:CT,Edmonton:Canada,1
+Barbados/Bridgetown:Barbados,New York:NY,7806
+Barbados/Bridgetown:Barbados,Miami:FL,8430
+Barbados/Bridgetown:Barbados,Philadelphia:PA,506
+Barbados/Bridgetown:Barbados,San Juan:PR,466
+Birmingham:AL,Montreal:Canada,5
+Bangkok:Thailand,Los Angeles:CA,5085
+Bangkok:Thailand,Seattle:WA,426
+Nashville:TN,Grand Cayman:Cayman Islands,3
+Nashville:TN,Montreal:Canada,14
+Nashville:TN,Toronto:Canada,1501
+Brisbane:Australia,Los Angeles:CA,11326
+Bogota:Colombia,Atlanta:GA,4083
+Bogota:Colombia,New York:NY,6660
+Bogota:Colombia,Los Angeles:CA,1846
+Bogota:Colombia,Miami:FL,17293
+Bonaire:Netherlands Antilles,New York:NY,103
+Bonaire:Netherlands Antilles,Miami:FL,7
+Boston:MA,Amsterdam:Netherlands,8729
+Boston:MA,Aruba:Aruba,4549
+Boston:MA,Barcelona:Spain,228
+Boston:MA,Hamilton:Bermuda,3972
+Boston:MA,Barbados/Bridgetown:Barbados,53
+Boston:MA,Brussels:Belgium,101
+Boston:MA,Paris:France,13973
+Boston:MA,Cancun:Mexico,3888
+Boston:MA,Dublin:Ireland,7553
+Boston:MA,Rome:Italy,6062
+Boston:MA,London:United Kingdom,35031
+Boston:MA,Lisbon:Portugal,352
+Boston:MA,Madrid:Spain,3361
+Boston:MA,Montego Bay:Jamaica,1143
+Boston:MA,Nassau:The Bahamas,1681
+Boston:MA,Tokyo:Japan,658
+Boston:MA,Ponta Delgada:Portugal,2473
+Boston:MA,Shanghai:China,41
+Boston:MA,San Jose:Costa Rica,94
+Boston:MA,Shannon:Ireland,2820
+Boston:MA,Philipsburg:Netherlands Antilles,242
+Boston:MA,Lajes:Portugal,242
+Boston:MA,Halifax:Canada,1936
+Boston:MA,Montreal:Canada,3758
+Boston:MA,Ottawa:Canada,1150
+Boston:MA,Toronto:Canada,14835
+Boston:MA,Zurich:Switzerland,5779
+Brussels:Belgium,Atlanta:GA,4625
+Brussels:Belgium,Boston:MA,82
+Brussels:Belgium,Detroit:MI,12
+Brussels:Belgium,New York:NY,11942
+Brussels:Belgium,Chicago:IL,8344
+Burlington:VT,Toronto:Canada,1
+Buffalo:NY,Aruba:Aruba,2
+Buffalo:NY,Ottawa:Canada,22
+Buffalo:NY,Montreal:Canada,28
+Buffalo:NY,Vancouver:Canada,4
+Buffalo:NY,Toronto:Canada,2
+Burbank:CA,Vancouver:Canada,1
+Baltimore:MD,Aruba:Aruba,4
+Baltimore:MD,Hamilton:Bermuda,141
+Baltimore:MD,Cancun:Mexico,3795
+Baltimore:MD,Freeport:The Bahamas,1
+Baltimore:MD,Grand Cayman:Cayman Islands,27
+Baltimore:MD,Kingston:Jamaica,131
+Baltimore:MD,London:United Kingdom,3984
+Baltimore:MD,Montego Bay:Jamaica,3779
+Baltimore:MD,Mexico City:Mexico,19
+Baltimore:MD,Nassau:The Bahamas,1130
+Baltimore:MD,Toronto:Canada,2716
+Belize City:Belize,Houston:TX,5435
+Belize City:Belize,Miami:FL,5233
+Belize City:Belize,Minneapolis:MN,11
+Cairo:Egypt,New York:NY,13225
+Caracas:Venezuela,Baltimore:MD,3
+Caracas:Venezuela,Houston:TX,3383
+Caracas:Venezuela,New York:NY,1328
+Caracas:Venezuela,Miami:FL,28177
+Caracas:Venezuela,San Juan:PR,2401
+Paris:France,Boston:MA,14570
+Paris:France,Detroit:MI,6049
+Paris:France,Newark:NJ,18394
+Paris:France,Houston:TX,10934
+Paris:France,Washington:DC,19663
+Paris:France,New York:NY,48508
+Paris:France,Los Angeles:CA,20941
+Paris:France,Miami:FL,17256
+Paris:France,Chicago:IL,14111
+Paris:France,Philadelphia:PA,9141
+Paris:France,Seattle:WA,4938
+Paris:France,San Francisco:CA,11095
+Chattanooga:TN,Nassau:The Bahamas,5
+Cleveland:OH,Cancun:Mexico,2548
+Cleveland:OH,Nassau:The Bahamas,99
+Cleveland:OH,Montreal:Canada,2754
+Cleveland:OH,Toronto:Canada,4000
+Cali:Colombia,New York:NY,1734
+Cali:Colombia,Miami:FL,6754
+Charlotte:NC,Cancun:Mexico,11782
+Charlotte:NC,London:United Kingdom,6274
+Charlotte:NC,Mexico City:Mexico,3580
+Charlotte:NC,Nassau:The Bahamas,6938
+Charlotte:NC,Montreal:Canada,2323
+Charlotte:NC,Toronto:Canada,8832
+Casablanca:Morocco,New York:NY,5385
+Copenhagen:Denmark,Newark:NJ,10440
+Copenhagen:Denmark,New York:NY,2366
+Copenhagen:Denmark,Orlando:FL,1
+Copenhagen:Denmark,Miami:FL,42
+Copenhagen:Denmark,Chicago:IL,5882
+Cartagena:Colombia,New York:NY,310
+Cartagena:Colombia,Miami:FL,2324
+Sapporo:Japan,Honolulu:HI,250
+Cancun:Mexico,Atlanta:GA,21897
+Cancun:Mexico,Hartford:CT,367
+Cancun:Mexico,Boston:MA,3958
+Cancun:Mexico,Baltimore:MD,3752
+Cancun:Mexico,Cleveland:OH,2642
+Cancun:Mexico,Charlotte:NC,12167
+Cancun:Mexico,Cincinnati:OH,1687
+Cancun:Mexico,Denver:CO,8201
+Cancun:Mexico,Dallas/Fort Worth:TX,21716
+Cancun:Mexico,Detroit:MI,7179
+Cancun:Mexico,Newark:NJ,11290
+Cancun:Mexico,Washington:DC,5265
+Cancun:Mexico,Houston:TX,27370
+Cancun:Mexico,Indianapolis:IN,570
+Cancun:Mexico,New York:NY,13576
+Cancun:Mexico,Los Angeles:CA,5837
+Cancun:Mexico,Kansas City:MO,901
+Cancun:Mexico,Memphis:TN,1366
+Cancun:Mexico,Miami:FL,18576
+Cancun:Mexico,Milwaukee:WI,1524
+Cancun:Mexico,Minneapolis:MN,8186
+Cancun:Mexico,New Orleans:LA,63
+Cancun:Mexico,Chicago:IL,15957
+Cancun:Mexico,Philadelphia:PA,12094
+Cancun:Mexico,Phoenix:AZ,5403
+Cancun:Mexico,Pittsburgh:PA,1040
+Cancun:Mexico,Raleigh/Durham:NC,207
+Cancun:Mexico,San Francisco:CA,554
+Cancun:Mexico,St. Louis:MO,4158
+Willemstad:Netherlands Antilles,Miami:FL,7151
+Cincinnati:OH,Cancun:Mexico,1613
+Cincinnati:OH,London:United Kingdom,53
+Christmas Island:Kiribati,Honolulu:HI,44
+Cozumel:Mexico,Atlanta:GA,1571
+Cozumel:Mexico,Denver:CO,823
+Cozumel:Mexico,Dallas/Fort Worth:TX,3943
+Cozumel:Mexico,Houston:TX,5896
+Cozumel:Mexico,Chicago:IL,533
+Daytona Beach:FL,Toronto:Canada,4
+Washington:DC,Port-au-Prince:Haiti,20
+Washington:DC,Ottawa:Canada,5163
+Washington:DC,Montreal:Canada,7318
+Washington:DC,Toronto:Canada,12393
+Delhi:India,New York:NY,4647
+Denver:CO,Cancun:Mexico,7982
+Denver:CO,Cozumel:Mexico,863
+Tokyo:Japan,Boston:MA,1058
+Tokyo:Japan,Washington:DC,11802
+Tokyo:Japan,Denver:CO,818
+Tokyo:Japan,Dallas/Fort Worth:TX,13653
+Tokyo:Japan,Detroit:MI,10536
+Tokyo:Japan,Newark:NJ,6608
+Tokyo:Japan,Guam:TT,44326
+Tokyo:Japan,Houston:TX,7601
+Tokyo:Japan,New York:NY,25733
+Tokyo:Japan,Los Angeles:CA,44284
+Tokyo:Japan,Miami:FL,20
+Tokyo:Japan,Minneapolis:MN,10233
+Tokyo:Japan,Chicago:IL,25271
+Tokyo:Japan,Portland:OR,5339
+Tokyo:Japan,Seattle:WA,12781
+Tokyo:Japan,San Francisco:CA,29008
+Tokyo:Japan,Saipan:TT,11600
+Oakland:CA,Toronto:Canada,5
+Oklahoma City:OK,Toronto:Canada,4
+Omaha:NE,Toronto:Canada,26
+Chicago:IL,Acapulco:Mexico,207
+Chicago:IL,Amman:Jordan,4563
+Chicago:IL,Amsterdam:Netherlands,10274
+Chicago:IL,Stockholm:Sweden,5569
+Chicago:IL,Hamilton:Bermuda,7
+Chicago:IL,Bangkok:Thailand,1314
+Chicago:IL,Brussels:Belgium,8124
+Chicago:IL,Paris:France,13974
+Chicago:IL,Copenhagen:Denmark,5858
+Chicago:IL,Cancun:Mexico,15791
+Chicago:IL,Cozumel:Mexico,485
+Chicago:IL,Dublin:Ireland,10473
+Chicago:IL,Rome:Italy,8860
+Chicago:IL,Grand Cayman:Cayman Islands,213
+Chicago:IL,Guadalajara:Mexico,3643
+Chicago:IL,Hong Kong:Hong Kong,7502
+Chicago:IL,Santa Cruz/Huatulco:Mexico,279
+Chicago:IL,London:United Kingdom,45509
+Chicago:IL,Madrid:Spain,6519
+Chicago:IL,Manchester:United Kingdom,4234
+Chicago:IL,Montego Bay:Jamaica,2488
+Chicago:IL,Mexico City:Mexico,12737
+Chicago:IL,Monterrey:Mexico,879
+Chicago:IL,Nassau:The Bahamas,22
+Chicago:IL,Tokyo:Japan,24839
+Chicago:IL,Puerto Plata:Dominican Republic,47
+Chicago:IL,Puerto Vallarta:Mexico,5623
+Chicago:IL,Seoul:South Korea,12660
+Chicago:IL,Shannon:Ireland,3
+Chicago:IL,Philipsburg:Netherlands Antilles,157
+Chicago:IL,Warsaw:Poland,5930
+Chicago:IL,Montreal:Canada,15527
+Chicago:IL,Vancouver:Canada,10909
+Chicago:IL,Winnipeg:Canada,5278
+Chicago:IL,Calgary:Canada,6421
+Chicago:IL,Toronto:Canada,35969
+Chicago:IL,Ixtapa/Zihuatanejo:Mexico,79
+Chicago:IL,Zurich:Switzerland,5594
+Paris:France,Atlanta:GA,21356
+Paris:France,Dallas/Fort Worth:TX,4951
+Osaka:Japan,Anchorage:AK,29
+Osaka:Japan,Guam:TT,17095
+Osaka:Japan,Honolulu:HI,20092
+Osaka:Japan,New York:NY,259
+Osaka:Japan,San Francisco:CA,5992
+Osaka:Japan,Saipan:TT,980
+Port-au-Prince:Haiti,New York:NY,6919
+Port-au-Prince:Haiti,Miami:FL,18478
+Port-au-Prince:Haiti,San Juan:PR,605
+West Palm Beach/Palm Beach:FL,Nassau:The Bahamas,48
+West Palm Beach/Palm Beach:FL,Montreal:Canada,4
+West Palm Beach/Palm Beach:FL,Toronto:Canada,1623
+Ponta Delgada:Portugal,Boston:MA,2487
+Portland:OR,London:United Kingdom,118
+Portland:OR,Mexico City:Mexico,40
+Portland:OR,Tokyo:Japan,4756
+Portland:OR,Seoul:South Korea,201
+Portland:OR,Vancouver:Canada,6560
+Pereira:Colombia,New York:NY,1014
+Pereira:Colombia,Miami:FL,1023
+Beijing:China,New York:NY,8687
+Beijing:China,San Francisco:CA,15193
+Philadelphia:PA,Acapulco:Mexico,27
+Philadelphia:PA,Aruba:Aruba,2522
+Philadelphia:PA,Hamilton:Bermuda,2709
+Philadelphia:PA,Barbados/Bridgetown:Barbados,547
+Philadelphia:PA,Paris:France,8928
+Philadelphia:PA,Cancun:Mexico,11941
+Philadelphia:PA,Guadalajara:Mexico,4
+Philadelphia:PA,Kingston:Jamaica,132
+Philadelphia:PA,London:United Kingdom,14845
+Philadelphia:PA,Montego Bay:Jamaica,7077
+Philadelphia:PA,Mexico City:Mexico,12
+Philadelphia:PA,Nassau:The Bahamas,3792
+Philadelphia:PA,Puerto Vallarta:Mexico,3
+Philadelphia:PA,San Jose:Costa Rica,295
+Philadelphia:PA,Montreal:Canada,7109
+Philadelphia:PA,Toronto:Canada,11006
+Phoenix:AZ,Cancun:Mexico,5444
+Phoenix:AZ,Mazatlan:Mexico,4106
+Phoenix:AZ,Puerto Vallarta:Mexico,10184
+Phoenix:AZ,San Jose del Cabo:Mexico,12873
+Phoenix:AZ,Edmonton:Canada,4718
+Phoenix:AZ,Regina:Canada,11
+Phoenix:AZ,Vancouver:Canada,7828
+Phoenix:AZ,Winnipeg:Canada,840
+Phoenix:AZ,Saskatoon:Canada,26
+Phoenix:AZ,Calgary:Canada,10956
+Phoenix:AZ,Toronto:Canada,4342
+St. Petersburg:FL,Toronto:Canada,480
+Pittsburgh:PA,Hamilton:Bermuda,11
+Pittsburgh:PA,Cancun:Mexico,1021
+Pittsburgh:PA,Mexico City:Mexico,1
+Pittsburgh:PA,Nassau:The Bahamas,105
+Pittsburgh:PA,Montreal:Canada,47
+Pittsburgh:PA,Toronto:Canada,1667
+Providenciales:Turks and Caicos Islands,New York:NY,3480
+Providenciales:Turks and Caicos Islands,Miami:FL,7386
+Pohnpei:Federated States of Micronesia,Guam:TT,825
+Pohnpei:Federated States of Micronesia,Honolulu:HI,253
+Puerto Plata:Dominican Republic,Newark:NJ,3833
+Puerto Plata:Dominican Republic,New York:NY,4960
+Puerto Plata:Dominican Republic,Miami:FL,3912
+Puerto Plata:Dominican Republic,San Juan:PR,362
+Port of Spain:Trinidad and Tobago,New York:NY,13468
+Port of Spain:Trinidad and Tobago,Miami:FL,13279
+Port of Spain:Trinidad and Tobago,San Juan:PR,611
+Pago Pago:TT,Apia:Samoa,1926
+Papeete:French Polynesia,Honolulu:HI,652
+Papeete:French Polynesia,Los Angeles:CA,9881
+Palm Springs:CA,Edmonton:Canada,1397
+Palm Springs:CA,Vancouver:Canada,1943
+Palm Springs:CA,Winnipeg:Canada,5
+Palm Springs:CA,Calgary:Canada,3321
+Pointe A Pitre:Guadeloupe,Miami:FL,680
+Pointe A Pitre:Guadeloupe,San Juan:PR,1169
+Panama City:Panama,Miami:FL,20633
+Punta Cana:Dominican Republic,New York:NY,7868
+Providence:RI,Cancun:Mexico,81
+Puerto Vallarta:Mexico,Denver:CO,4161
+Puerto Vallarta:Mexico,Dallas/Fort Worth:TX,7829
+Puerto Vallarta:Mexico,Detroit:MI,833
+Puerto Vallarta:Mexico,Newark:NJ,1172
+Puerto Vallarta:Mexico,Houston:TX,7488
+Puerto Vallarta:Mexico,Los Angeles:CA,7529
+Puerto Vallarta:Mexico,Minneapolis:MN,2124
+Puerto Vallarta:Mexico,Chicago:IL,5318
+Puerto Vallarta:Mexico,Phoenix:AZ,10407
+Puerto Vallarta:Mexico,San Antonio:TX,9
+Puerto Vallarta:Mexico,Seattle:WA,2796
+Puerto Vallarta:Mexico,San Francisco:CA,6783
+Puerto Vallarta:Mexico,Salt Lake City:UT,869
+Raleigh/Durham:NC,Cancun:Mexico,212
+Raleigh/Durham:NC,Mexico City:Mexico,10
+Raleigh/Durham:NC,Montreal:Canada,18
+Raleigh/Durham:NC,Toronto:Canada,2461
+Recife:Brazil,Miami:FL,2257
+Richmond:VA,Toronto:Canada,600
+Rochester:NY,Nassau:The Bahamas,4
+Rochester:NY,Toronto:Canada,209
+Fort Myers:FL,Montreal:Canada,193
+Fort Myers:FL,Toronto:Canada,4673
+Riyadh:Saudi Arabia,Washington:DC,1049
+Riyadh:Saudi Arabia,New York:NY,714
+San Salvador:El Salvador,Houston:TX,8621
+San Salvador:El Salvador,Los Angeles:CA,13805
+San Salvador:El Salvador,Miami:FL,6770
+San Salvador:El Salvador,San Francisco:CA,4588
+San Diego:CA,London:United Kingdom,107
+San Diego:CA,Madrid:Spain,47
+San Diego:CA,Mexico City:Mexico,354
+San Diego:CA,Calgary:Canada,2322
+San Diego:CA,Toronto:Canada,1604
+San Pedro Sula:Honduras,Houston:TX,3486
+San Pedro Sula:Honduras,New York:NY,819
+San Pedro Sula:Honduras,Miami:FL,9638
+San Pedro Sula:Honduras,New Orleans:LA,175
+San Antonio:TX,Mexico City:Mexico,4501
+San Antonio:TX,Monterrey:Mexico,473
+San Antonio:TX,Puerto Vallarta:Mexico,12
+San Antonio:TX,Toronto:Canada,14
+Santiago:Chile,New York:NY,4650
+Santiago:Chile,Los Angeles:CA,2527
+Santiago:Chile,Miami:FL,12739
+Santo Domingo:Dominican Republic,Newark:NJ,7058
+Santo Domingo:Dominican Republic,New York:NY,28043
+Santo Domingo:Dominican Republic,Los Angeles:CA,6
+Santo Domingo:Dominican Republic,Miami:FL,18649
+Santo Domingo:Dominican Republic,San Juan:PR,15076
+Seattle:WA,Amsterdam:Netherlands,8769
+Seattle:WA,Bangkok:Thailand,471
+Seattle:WA,Paris:France,5041
+Seattle:WA,Hong Kong:Hong Kong,137
+Seattle:WA,London:United Kingdom,6998
+Seattle:WA,Mexico City:Mexico,465
+Seattle:WA,Mazatlan:Mexico,869
+Seattle:WA,Tokyo:Japan,12619
+Seattle:WA,Puerto Vallarta:Mexico,3264
+Seattle:WA,Seoul:South Korea,9724
+Seattle:WA,Singapore:Singapore,269
+Seattle:WA,San Jose del Cabo:Mexico,2327
+Seattle:WA,Taipei:Taiwan,5427
+Seattle:WA,Vancouver:Canada,16164
+Seattle:WA,Victoria:Canada,7826
+Seattle:WA,Toronto:Canada,2664
+Seoul:South Korea,Anchorage:AK,1
+Seoul:South Korea,Washington:DC,5937
+Seoul:South Korea,Detroit:MI,2939
+Seoul:South Korea,Guam:TT,10537
+Seoul:South Korea,Honolulu:HI,8934
+Seoul:South Korea,New York:NY,23137
+Seoul:South Korea,Los Angeles:CA,36881
+Seoul:South Korea,Chicago:IL,12414
+Seoul:South Korea,Portland:OR,241
+Seoul:South Korea,Seattle:WA,9104
+Seoul:South Korea,San Francisco:CA,20775
+Seoul:South Korea,Saipan:TT,9425
+San Francisco:CA,Auckland:New Zealand,4753
+San Francisco:CA,Paris:France,11140
+Keflavik/Reykjavik:Iceland,New York:NY,4344
+Karachi:Pakistan,New York:NY,587
+Kingston:Jamaica,Atlanta:GA,1798
+Kingston:Jamaica,Boston:MA,12
+Kingston:Jamaica,Baltimore:MD,54
+Kingston:Jamaica,Washington:DC,106
+Kingston:Jamaica,New York:NY,12877
+Kingston:Jamaica,Miami:FL,10710
+Kingston:Jamaica,Philadelphia:PA,64
+Kingston:Jamaica,San Juan:PR,2
+Kosrae:Federated States of Micronesia,Guam:TT,104
+Kosrae:Federated States of Micronesia,Honolulu:HI,97
+Kuala Lumpur:Malaysia,Los Angeles:CA,1221
+Kwajalein:Marshall Islands,Guam:TT,66
+Kwajalein:Marshall Islands,Honolulu:HI,341
+Kuwait:Kuwait,New York:NY,4675
+La Paz:Mexico,Los Angeles:CA,820
+Las Vegas:NV,Guadalajara:Mexico,1797
+Las Vegas:NV,Mexico City:Mexico,7551
+Las Vegas:NV,Monterrey:Mexico,2766
+Las Vegas:NV,Edmonton:Canada,6036
+Las Vegas:NV,Kelowna:Canada,379
+Las Vegas:NV,Regina:Canada,689
+Las Vegas:NV,Montreal:Canada,5076
+Las Vegas:NV,Vancouver:Canada,11037
+Las Vegas:NV,Winnipeg:Canada,1454
+Las Vegas:NV,Saskatoon:Canada,698
+Las Vegas:NV,Calgary:Canada,9381
+Las Vegas:NV,Toronto:Canada,16533
+Los Angeles:CA,Auckland:New Zealand,19862
+Los Angeles:CA,Amsterdam:Netherlands,9025
+Los Angeles:CA,Brisbane:Australia,11557
+Los Angeles:CA,Bogota:Colombia,1900
+Los Angeles:CA,Cairo:Egypt,18
+Los Angeles:CA,Paris:France,20204
+Los Angeles:CA,Cancun:Mexico,5760
+Los Angeles:CA,Ezeiza:Argentina,550
+Los Angeles:CA,Rome:Italy,3095
+Los Angeles:CA,Guadalajara:Mexico,29910
+Los Angeles:CA,Rio de Janeiro:Brazil,76
+Los Angeles:CA,Sao Paulo:Brazil,1951
+Los Angeles:CA,Guatemala City:Guatemala,7665
+Los Angeles:CA,Hong Kong:Hong Kong,20042
+Los Angeles:CA,Kuala Lumpur:Malaysia,930
+Los Angeles:CA,La Paz:Mexico,838
+Los Angeles:CA,London:United Kingdom,58679
+Los Angeles:CA,Lima:Peru,5653
+Los Angeles:CA,Loreto:Mexico,1074
+Los Angeles:CA,Melbourne:Australia,12707
+Los Angeles:CA,Mexico City:Mexico,27314
+Los Angeles:CA,Manila:Philippines,12518
+Los Angeles:CA,Milan:Italy,10
+Los Angeles:CA,Mazatlan:Mexico,2779
+Los Angeles:CA,Nadi:Fiji,5202
+Los Angeles:CA,Tokyo:Japan,43731
+Los Angeles:CA,Papeete:French Polynesia,9202
+Los Angeles:CA,Panama City:Panama,5215
+Los Angeles:CA,Puerto Vallarta:Mexico,7514
+Los Angeles:CA,San Salvador:El Salvador,13582
+Los Angeles:CA,Santiago:Chile,2377
+Los Angeles:CA,Seoul:South Korea,38934
+Los Angeles:CA,Shanghai:China,8664
+Los Angeles:CA,Singapore:Singapore,5511
+Los Angeles:CA,San Jose del Cabo:Mexico,17000
+Los Angeles:CA,San Jose:Costa Rica,3251
+Los Angeles:CA,Sydney:Australia,36176
+Los Angeles:CA,Tel Aviv:Israel,4854
+Los Angeles:CA,Taipei:Taiwan,38090
+Los Angeles:CA,Edmonton:Canada,2984
+Los Angeles:CA,Montreal:Canada,4576
+Los Angeles:CA,Vancouver:Canada,33343
+Los Angeles:CA,Calgary:Canada,9788
+Los Angeles:CA,Toronto:Canada,19694
+Los Angeles:CA,Zacatecas:Mexico,2232
+Los Angeles:CA,Ixtapa/Zihuatanejo:Mexico,2643
+Los Angeles:CA,Manzanillo:Mexico,1687
+Los Angeles:CA,Zurich:Switzerland,6328
+New York:NY,Guayaquil:Ecuador,10700
+New York:NY,Toronto:Canada,36175
+London:United Kingdom,Atlanta:GA,17836
+London:United Kingdom,Bangor:ME,8
+London:United Kingdom,Boston:MA,35806
+London:United Kingdom,Baltimore:MD,3978
+London:United Kingdom,Charlotte:NC,5922
+London:United Kingdom,Cincinnati:OH,16
+London:United Kingdom,Denver:CO,10536
+London:United Kingdom,Dallas/Fort Worth:TX,19796
+London:United Kingdom,Detroit:MI,6331
+London:United Kingdom,Newark:NJ,44524
+London:United Kingdom,Honolulu:HI,263
+London:United Kingdom,Houston:TX,21726
+London:United Kingdom,New York:NY,103941
+London:United Kingdom,Los Angeles:CA,55325
+London:United Kingdom,Orlando:FL,28183
+London:United Kingdom,Miami:FL,32530
+London:United Kingdom,Minneapolis:MN,5397
+London:United Kingdom,San Diego:CA,156
+London:United Kingdom,San Francisco:CA,34791
+London:United Kingdom,Tampa:FL,4787
+Lahore:Pakistan,New York:NY,2358
+London:United Kingdom,Cleveland:OH,142
+London:United Kingdom,Washington:DC,37017
+London:United Kingdom,Chicago:IL,46187
+London:United Kingdom,Portland:OR,129
+London:United Kingdom,Philadelphia:PA,14493
+London:United Kingdom,Phoenix:AZ,6489
+London:United Kingdom,Seattle:WA,7154
+Lima:Peru,New York:NY,4536
+Lima:Peru,Los Angeles:CA,5885
+Lima:Peru,Miami:FL,22218
+Lisbon:Portugal,Boston:MA,361
+Lisbon:Portugal,Newark:NJ,9073
+Lisbon:Portugal,Los Angeles:CA,17
+La Paz:Bolivia,Miami:FL,2548
+Loreto:Mexico,Los Angeles:CA,1057
+Madrid:Spain,Dallas/Fort Worth:TX,5165
+Madrid:Spain,New York:NY,28224
+Madrid:Spain,Los Angeles:CA,1
+Madrid:Spain,Miami:FL,15542
+Madrid:Spain,Chicago:IL,6466
+Madrid:Spain,San Juan:PR,2361
+Majuro:Marshall Islands,Guam:TT,320
+Majuro:Marshall Islands,Honolulu:HI,496
+Manchester:United Kingdom,New York:NY,5101
+Manchester:United Kingdom,Orlando:FL,14994
+Manchester:United Kingdom,Chicago:IL,4209
+Manaus:Brazil,Miami:FL,4968
+Maracaibo:Venezuela,Miami:FL,4298
+Montego Bay:Jamaica,Atlanta:GA,15521
+Montego Bay:Jamaica,Boston:MA,1165
+Montego Bay:Jamaica,Baltimore:MD,3766
+Montego Bay:Jamaica,Detroit:MI,1670
+Montego Bay:Jamaica,Newark:NJ,2276
+Montego Bay:Jamaica,Fort Lauderdale:FL,5548
+Montego Bay:Jamaica,Washington:DC,135
+Montego Bay:Jamaica,Houston:TX,1889
+Montego Bay:Jamaica,New York:NY,13160
+Montego Bay:Jamaica,Los Angeles:CA,38
+Montego Bay:Jamaica,Orlando:FL,3364
+Montego Bay:Jamaica,Miami:FL,11550
+Montego Bay:Jamaica,Milwaukee:WI,283
+Montego Bay:Jamaica,Minneapolis:MN,969
+Montego Bay:Jamaica,Chicago:IL,2438
+Montego Bay:Jamaica,Philadelphia:PA,7425
+Montego Bay:Jamaica,St. Louis:MO,656
+Montego Bay:Jamaica,Tampa:FL,17
+Kansas City:MO,Cancun:Mexico,858
+Kansas City:MO,Grand Cayman:Cayman Islands,12
+Kansas City:MO,Toronto:Canada,645
+Orlando:FL,Amsterdam:Netherlands,3462
+Orlando:FL,Copenhagen:Denmark,2
+Orlando:FL,Rio de Janeiro:Brazil,26
+Orlando:FL,Glasgow:United Kingdom,587
+Orlando:FL,Sao Paulo:Brazil,6286
+Orlando:FL,London:United Kingdom,27728
+Orlando:FL,Manchester:United Kingdom,15023
+Orlando:FL,Mexico City:Mexico,4515
+Orlando:FL,Nassau:The Bahamas,5726
+Orlando:FL,Providenciales:Turks and Caicos Islands,11
+Orlando:FL,Edmonton:Canada,15
+Orlando:FL,Ottawa:Canada,1465
+Orlando:FL,Quebec:Canada,227
+Orlando:FL,Montreal:Canada,6577
+Orlando:FL,Winnipeg:Canada,598
+Orlando:FL,London:Canada,216
+Orlando:FL,Toronto:Canada,19527
+Medellin:Colombia,New York:NY,2409
+Medellin:Colombia,Miami:FL,9416
+Melbourne:Australia,Los Angeles:CA,13231
+Memphis:TN,Cancun:Mexico,1306
+Memphis:TN,Cozumel:Mexico,87
+Memphis:TN,Mexico City:Mexico,13
+Memphis:TN,Montreal:Canada,2
+Mexico City:Mexico,Albuquerque:NM,9
+Mexico City:Mexico,Atlanta:GA,11207
+Mexico City:Mexico,Denver:CO,2376
+Mexico City:Mexico,Dallas/Fort Worth:TX,15880
+Mexico City:Mexico,Detroit:MI,2674
+Mexico City:Mexico,Newark:NJ,6847
+Mexico City:Mexico,Washington:DC,2893
+Mexico City:Mexico,Houston:TX,25321
+Mexico City:Mexico,New York:NY,16924
+Mexico City:Mexico,Los Angeles:CA,26358
+Mexico City:Mexico,Orlando:FL,4728
+Mexico City:Mexico,Miami:FL,22385
+Mexico City:Mexico,Chicago:IL,12639
+Mexico City:Mexico,Portland:OR,40
+Mexico City:Mexico,Philadelphia:PA,9
+Mexico City:Mexico,Providence:RI,1
+Mexico City:Mexico,San Diego:CA,349
+Mexico City:Mexico,San Antonio:TX,4525
+Mexico City:Mexico,Seattle:WA,321
+Mexico City:Mexico,San Francisco:CA,9437
+Mexico City:Mexico,Tampa:FL,12
+Managua:Nicaragua,Miami:FL,13040
+Miami:FL,San Andres Island:Colombia,38
+Miami:FL,Amsterdam:Netherlands,68
+Miami:FL,St. Johns:Antigua and Barbuda,3557
+Miami:FL,Aruba:Aruba,9349
+Miami:FL,Barranquilla:Colombia,3179
+Miami:FL,Barbados/Bridgetown:Barbados,8595
+Miami:FL,Bogota:Colombia,17723
+Miami:FL,Belize City:Belize,4463
+Miami:FL,Caracas:Venezuela,27813
+Miami:FL,Paris:France,17646
+Miami:FL,Cali:Colombia,6679
+Miami:FL,Copenhagen:Denmark,14
+Miami:FL,Cartagena:Colombia,2275
+Miami:FL,Cancun:Mexico,18079
+Miami:FL,Willemstad:Netherlands Antilles,7109
+Miami:FL,Cozumel:Mexico,4
+Miami:FL,Ezeiza:Argentina,22993
+Miami:FL,Fort de France:Martinique,40
+Miami:FL,Freeport:The Bahamas,4468
+Miami:FL,Grand Cayman:Cayman Islands,13073
+Miami:FL,Georgetown:Guyana,892
+Miami:FL,Governors Harbour:The Bahamas,70
+Miami:FL,Rio de Janeiro:Brazil,12814
+Miami:FL,Grenada:Grenada,1389
+Miami:FL,Sao Paulo:Brazil,30154
+Miami:FL,Guatemala City:Guatemala,12765
+Miami:FL,Guayaquil:Ecuador,7978
+Miami:FL,Havana:Cuba,15785
+Miami:FL,Helsinki:Finland,211
+Miami:FL,Iquitos:Peru,12
+Miami:FL,Kingston:Jamaica,10587
+Miami:FL,London:United Kingdom,33918
+Miami:FL,Lima:Peru,22224
+Miami:FL,La Paz:Bolivia,3137
+Miami:FL,Lyon:France,36
+Miami:FL,Madrid:Spain,16265
+Miami:FL,Manaus:Brazil,4899
+Miami:FL,Maracaibo:Venezuela,4314
+Miami:FL,Montego Bay:Jamaica,11469
+Miami:FL,Medellin:Colombia,9496
+Miami:FL,Mexico City:Mexico,22686
+Miami:FL,Managua:Nicaragua,13091
+Miami:FL,Merida:Mexico,500
+Miami:FL,Nassau:The Bahamas,18675
+Miami:FL,Tokyo:Japan,38
+Miami:FL,Port-au-Prince:Haiti,18219
+Miami:FL,Pereira:Colombia,994
+Miami:FL,Providenciales:Turks and Caicos Islands,7370
+Miami:FL,Puerto Plata:Dominican Republic,3834
+Miami:FL,Port of Spain:Trinidad and Tobago,13130
+Miami:FL,Pointe A Pitre:Guadeloupe,728
+Miami:FL,Panama City:Panama,21046
+Miami:FL,Recife:Brazil,2100
+Miami:FL,Roatan Island:Honduras,9
+Miami:FL,San Salvador:El Salvador,7230
+Miami:FL,San Pedro Sula:Honduras,9869
+Miami:FL,Santiago:Chile,12623
+Miami:FL,Santo Domingo:Dominican Republic,18106
+Miami:FL,San Jose:Costa Rica,19211
+Miami:FL,St. Kitts:Saint Kitts and Nevis,3085
+Miami:FL,Salvador:Brazil,1934
+Miami:FL,Philipsburg:Netherlands Antilles,4765
+Miami:FL,Tegucigalpa:Honduras,4121
+Miami:FL,Tel Aviv:Israel,109
+Miami:FL,Quito:Ecuador,14176
+Miami:FL,St. Lucia:Saint Lucia,4851
+Miami:FL,Santa Cruz:Bolivia,5050
+Miami:FL,Montreal:Canada,9968
+Miami:FL,Toronto:Canada,19810
+Miami:FL,Zurich:Switzerland,6020
+Merida:Mexico,Miami:FL,486
+Milwaukee:WI,Cancun:Mexico,1560
+Milwaukee:WI,Montego Bay:Jamaica,282
+Milwaukee:WI,Winnipeg:Canada,2
+Milwaukee:WI,Toronto:Canada,590
+Manila:Philippines,Guam:TT,7883
+Manila:Philippines,Honolulu:HI,6829
+Manila:Philippines,New York:NY,915
+Manila:Philippines,Los Angeles:CA,12970
+Manila:Philippines,San Francisco:CA,10709
+Madison:WI,Winnipeg:Canada,1
+Minneapolis:MN,Acapulco:Mexico,17
+Minneapolis:MN,Cancun:Mexico,8367
+Minneapolis:MN,London:United Kingdom,5540
+Minneapolis:MN,Montego Bay:Jamaica,1027
+Minneapolis:MN,Mazatlan:Mexico,801
+Minneapolis:MN,Tokyo:Japan,9421
+Minneapolis:MN,Providenciales:Turks and Caicos Islands,15
+Minneapolis:MN,Puerto Vallarta:Mexico,2237
+Minneapolis:MN,Singapore:Singapore,389
+Minneapolis:MN,San Jose del Cabo:Mexico,925
+Minneapolis:MN,Edmonton:Canada,5299
+Minneapolis:MN,Regina:Canada,2640
+Minneapolis:MN,Vancouver:Canada,6051
+Minneapolis:MN,Winnipeg:Canada,6813
+Minneapolis:MN,Saskatoon:Canada,2880
+Minneapolis:MN,Calgary:Canada,5821
+Minneapolis:MN,Toronto:Canada,6772
+Minneapolis:MN,Ixtapa/Zihuatanejo:Mexico,614
+Minneapolis:MN,Manzanillo:Mexico,72
+New Orleans:LA,Belize City:Belize,9
+New Orleans:LA,Cancun:Mexico,40
+New Orleans:LA,Guatemala City:Guatemala,5
+New Orleans:LA,San Pedro Sula:Honduras,282
+New Orleans:LA,Calgary:Canada,4
+New Orleans:LA,Toronto:Canada,339
+Monterrey:Mexico,Dallas/Fort Worth:TX,8650
+Monterrey:Mexico,Houston:TX,11396
+Monterrey:Mexico,Las Vegas:NV,2754
+Monterrey:Mexico,Chicago:IL,924
+Monterrey:Mexico,San Antonio:TX,447
+Milan:Italy,New York:NY,12566
+Milan:Italy,Los Angeles:CA,7
+Milan:Italy,San Francisco:CA,29
+Mazatlan:Mexico,Denver:CO,748
+Mazatlan:Mexico,Los Angeles:CA,2854
+Mazatlan:Mexico,Minneapolis:MN,782
+Mazatlan:Mexico,Phoenix:AZ,4351
+Mazatlan:Mexico,Seattle:WA,601
+Mazatlan:Mexico,San Francisco:CA,46
+Nadi:Fiji,Honolulu:HI,725
+Nadi:Fiji,Los Angeles:CA,5757
+Nassau:The Bahamas,Atlanta:GA,12750
+Nassau:The Bahamas,Hartford:CT,10
+Nassau:The Bahamas,Boston:MA,1669
+Nassau:The Bahamas,Baltimore:MD,1147
+Nassau:The Bahamas,Cleveland:OH,82
+Nassau:The Bahamas,Charlotte:NC,7008
+Nassau:The Bahamas,Cincinnati:OH,7
+Nassau:The Bahamas,Washington:DC,2105
+Nassau:The Bahamas,Dallas/Fort Worth:TX,1177
+Nassau:The Bahamas,Detroit:MI,246
+Nassau:The Bahamas,Newark:NJ,5844
+Nassau:The Bahamas,Fort Lauderdale:FL,17308
+Nassau:The Bahamas,Fort Wayne:IN,24
+Nassau:The Bahamas,New York:NY,9440
+Nassau:The Bahamas,Orlando:FL,5508
+Nassau:The Bahamas,Chicago:IL,44
+Nassau:The Bahamas,Miami:FL,18469
+Nassau:The Bahamas,Norfolk:VA,12
+Nassau:The Bahamas,West Palm Beach/Palm Beach:FL,58
+Nassau:The Bahamas,Philadelphia:PA,3859
+Nassau:The Bahamas,Pittsburgh:PA,408
+Nassau:The Bahamas,St. Louis:MO,7
+Nice:France,New York:NY,4364
+Nagoya:Japan,Guam:TT,9102
+Nagoya:Japan,Honolulu:HI,9846
+Nagoya:Japan,Saipan:TT,1844
+Tokyo:Japan,Anchorage:AK,120
+Tokyo:Japan,Atlanta:GA,8595
+Orlando:FL,Aruba:Aruba,432
+Orlando:FL,Cancun:Mexico,2746
+Orlando:FL,Montego Bay:Jamaica,3234
+Orlando:FL,Hamilton:Canada,231
+Orlando:FL,Halifax:Canada,971
+Mexico City:Mexico,San Jose:CA,7
+Minneapolis:MN,Grand Cayman:Cayman Islands,171
+New Orleans:LA,Montego Bay:Jamaica,23
+Nassau:The Bahamas,Indianapolis:IN,61
+Nassau:The Bahamas,Syracuse:NY,3
+Chicago:IL,Aruba:Aruba,766
+Portland:OR,Ixtapa/Zihuatanejo:Mexico,60
+Grand Cayman:Cayman Islands,Minneapolis:MN,167
+Guadalajara:Mexico,Philadelphia:PA,3
+Guadalajara:Mexico,San Jose:CA,4773
+Rio de Janeiro:Brazil,Washington:DC,1296
+Honolulu:HI,Komatsu:Japan,47
+Houston:TX,Roatan Island:Honduras,1739
+Houston:TX,Manzanillo:Mexico,714
+Indianapolis:IN,Grand Cayman:Cayman Islands,11
+Indianapolis:IN,Nassau:The Bahamas,60
+New York:NY,Providenciales:Turks and Caicos Islands,3487
+New York:NY,Panama City:Panama,3758
+New York:NY,Quito:Ecuador,265
+Komatsu:Japan,Honolulu:HI,47
+Las Vegas:NV,Cancun:Mexico,1
+San Francisco:CA,Cancun:Mexico,508
+San Francisco:CA,Guadalajara:Mexico,1748
+San Francisco:CA,Hong Kong:Hong Kong,31829
+San Francisco:CA,Tokyo:Japan,27656
+San Francisco:CA,London:United Kingdom,35342
+San Francisco:CA,Melbourne:Australia,28
+San Francisco:CA,Mexico City:Mexico,9745
+San Francisco:CA,Manila:Philippines,9778
+San Francisco:CA,Milan:Italy,41
+San Francisco:CA,Osaka:Japan,5647
+San Francisco:CA,Beijing:China,14735
+San Francisco:CA,Puerto Vallarta:Mexico,6334
+San Francisco:CA,San Salvador:El Salvador,4669
+San Francisco:CA,Seoul:South Korea,20514
+San Francisco:CA,Shanghai:China,8209
+San Francisco:CA,Singapore:Singapore,7285
+San Francisco:CA,San Jose del Cabo:Mexico,5541
+San Francisco:CA,Sydney:Australia,12226
+San Francisco:CA,Taipei:Taiwan,22432
+San Francisco:CA,Montreal:Canada,1347
+San Francisco:CA,Vancouver:Canada,20081
+San Francisco:CA,Calgary:Canada,9063
+San Francisco:CA,Toronto:Canada,17062
+San Francisco:CA,Ixtapa/Zihuatanejo:Mexico,6
+San Francisco:CA,Zurich:Switzerland,3050
+Shanghai:China,Boston:MA,43
+Shanghai:China,Detroit:MI,6422
+Shanghai:China,New York:NY,6666
+Shanghai:China,Los Angeles:CA,8867
+Shanghai:China,San Francisco:CA,9007
+Singapore:Singapore,Los Angeles:CA,5459
+Singapore:Singapore,Minneapolis:MN,405
+Singapore:Singapore,Seattle:WA,233
+Singapore:Singapore,San Francisco:CA,7203
+San Jose:CA,Vancouver:Canada,17
+San Jose del Cabo:Mexico,Anchorage:AK,1
+San Jose del Cabo:Mexico,Denver:CO,2966
+San Jose del Cabo:Mexico,Los Angeles:CA,16132
+San Jose del Cabo:Mexico,Minneapolis:MN,926
+San Jose del Cabo:Mexico,Phoenix:AZ,13065
+San Jose del Cabo:Mexico,Seattle:WA,2291
+San Jose del Cabo:Mexico,San Francisco:CA,6002
+San Jose:Costa Rica,New York:NY,3390
+San Jose:Costa Rica,Los Angeles:CA,2986
+San Jose:Costa Rica,Miami:FL,18873
+San Jose:Costa Rica,New Orleans:LA,8
+San Jose:Costa Rica,Philadelphia:PA,230
+San Juan:PR,St. Johns:Antigua and Barbuda,1359
+San Juan:PR,Barbados/Bridgetown:Barbados,360
+San Juan:PR,Caracas:Venezuela,2642
+San Juan:PR,Fort de France:Martinique,1316
+San Juan:PR,Kingston:Jamaica,16
+San Juan:PR,Madrid:Spain,2520
+San Juan:PR,Port-au-Prince:Haiti,529
+San Juan:PR,Puerto Plata:Dominican Republic,364
+San Juan:PR,Port of Spain:Trinidad and Tobago,584
+San Juan:PR,Santo Domingo:Dominican Republic,14689
+San Juan:PR,Philipsburg:Netherlands Antilles,1502
+San Juan:PR,St. Lucia:Saint Lucia,1112
+St. Kitts:Saint Kitts and Nevis,New York:NY,868
+St. Kitts:Saint Kitts and Nevis,Miami:FL,3071
+Salt Lake City:UT,Puerto Vallarta:Mexico,840
+Salt Lake City:UT,Edmonton:Canada,15
+Salt Lake City:UT,Vancouver:Canada,3395
+Salt Lake City:UT,Calgary:Canada,2449
+Salt Lake City:UT,Toronto:Canada,2
+Sacramento:CA,Vancouver:Canada,8
+Shannon:Ireland,Atlanta:GA,20
+Shannon:Ireland,Boston:MA,2921
+Shannon:Ireland,New York:NY,6141
+Shannon:Ireland,Chicago:IL,3
+Saipan:TT,Nagoya:Japan,1883
+Saipan:TT,Tokyo:Japan,11585
+Saipan:TT,Osaka:Japan,1010
+Saipan:TT,Seoul:South Korea,9738
+Sarasota/Bradenton:FL,Toronto:Canada,938
+Salvador:Brazil,Miami:FL,1488
+St. Louis:MO,Cancun:Mexico,4199
+St. Louis:MO,Cozumel:Mexico,1
+St. Louis:MO,Montego Bay:Jamaica,636
+St. Louis:MO,Nassau:The Bahamas,1
+Sun Valley/Hailey/Ketchum:ID,Vancouver:Canada,2
+Philipsburg:Netherlands Antilles,Boston:MA,252
+Philipsburg:Netherlands Antilles,Newark:NJ,2868
+Philipsburg:Netherlands Antilles,New York:NY,4687
+Philipsburg:Netherlands Antilles,Miami:FL,4697
+Philipsburg:Netherlands Antilles,Chicago:IL,134
+Philipsburg:Netherlands Antilles,San Juan:PR,1853
+Sydney:Australia,Honolulu:HI,9948
+Sydney:Australia,Los Angeles:CA,37200
+Sydney:Australia,San Francisco:CA,12889
+Syracuse:NY,Ottawa:Canada,9
+Tobago:Trinidad and Tobago,New York:NY,7
+Lajes:Portugal,Boston:MA,230
+Tegucigalpa:Honduras,Houston:TX,2619
+Tegucigalpa:Honduras,Miami:FL,3995
+Chuuk:Federated States of Micronesia,Guam:TT,867
+Chuuk:Federated States of Micronesia,Honolulu:HI,168
+Tel Aviv:Israel,New York:NY,24395
+Tel Aviv:Israel,Los Angeles:CA,4430
+Tel Aviv:Israel,Miami:FL,182
+Tel Aviv:Israel,Chicago:IL,17
+Tampa:FL,London:United Kingdom,4809
+Tampa:FL,Montego Bay:Jamaica,13
+Tampa:FL,Mexico City:Mexico,36
+Tampa:FL,Montreal:Canada,315
+Tampa:FL,Vancouver:Canada,8
+Tampa:FL,Toronto:Canada,8508
+Taipei:Taiwan,Anchorage:AK,994
+Taipei:Taiwan,Detroit:MI,669
+Taipei:Taiwan,Newark:NJ,4446
+Taipei:Taiwan,Honolulu:HI,2102
+Taipei:Taiwan,New York:NY,2409
+Taipei:Taiwan,Los Angeles:CA,39952
+Taipei:Taiwan,Seattle:WA,5770
+Taipei:Taiwan,San Francisco:CA,23160
+Tulsa:OK,Toronto:Canada,6
+Tucson:AZ,Hermosillo:Mexico,7
+Tucson:AZ,Mexico City:Mexico,1580
+Tucson:AZ,Mazatlan:Mexico,5
+Tucson:AZ,San Jose del Cabo:Mexico,8
+Quito:Ecuador,Miami:FL,14324
+Quito:Ecuador,San Juan:PR,4
+St. Lucia:Saint Lucia,New York:NY,2906
+St. Lucia:Saint Lucia,Miami:FL,4739
+St. Lucia:Saint Lucia,San Juan:PR,1327
+Venice:Italy,New York:NY,4975
+Vienna:Austria,New York:NY,6576
+Santa Cruz:Bolivia,Miami:FL,5538
+Warsaw:Poland,New York:NY,4919
+Warsaw:Poland,Chicago:IL,6215
+Yap:Federated States of Micronesia,Guam:TT,507
+Edmonton:Canada,Dallas/Fort Worth:TX,34
+Edmonton:Canada,Houston:TX,3136
+Edmonton:Canada,Las Vegas:NV,6009
+Edmonton:Canada,Los Angeles:CA,2996
+Edmonton:Canada,Minneapolis:MN,5349
+Edmonton:Canada,Phoenix:AZ,4713
+Edmonton:Canada,Pittsburgh:PA,1
+Edmonton:Canada,Palm Springs:CA,1406
+Edmonton:Canada,San Francisco:CA,3877
+Edmonton:Canada,Salt Lake City:UT,9
+Halifax:Canada,Boston:MA,2058
+Halifax:Canada,Newark:NJ,4746
+Kelowna:Canada,Las Vegas:NV,416
+Montreal:Canada,Boston:MA,3829
+Montreal:Canada,Fort Lauderdale:FL,14776
+Montreal:Canada,New York:NY,15475
+Montreal:Canada,Miami:FL,10057
+Montreal:Canada,Chicago:IL,15682
+Montreal:Canada,Philadelphia:PA,6185
+Ottawa:Canada,Atlanta:GA,7
+Ottawa:Canada,Nashville:TN,4
+Ottawa:Canada,Boston:MA,1081
+Ottawa:Canada,Charleston:SC,12
+Ottawa:Canada,Columbus:OH,3
+Ottawa:Canada,Washington:DC,5314
+Ottawa:Canada,Fort Lauderdale:FL,1043
+Ottawa:Canada,New York:NY,1823
+Ottawa:Canada,Orlando:FL,1449
+Ottawa:Canada,Philadelphia:PA,2827
+Ottawa:Canada,Pittsburgh:PA,30
+Quebec:Canada,Fort Lauderdale:FL,898
+Quebec:Canada,Orlando:FL,236
+Regina:Canada,Las Vegas:NV,676
+Regina:Canada,Minneapolis:MN,2598
+Regina:Canada,Phoenix:AZ,19
+Regina:Canada,Palm Springs:CA,1
+Gander:Canada,New York:NY,10
+Montreal:Canada,Albany:NY,16
+Montreal:Canada,Atlanta:GA,6434
+Montreal:Canada,Birmingham:AL,2
+Montreal:Canada,Buffalo:NY,26
+Montreal:Canada,Baltimore:MD,10
+Montreal:Canada,Cleveland:OH,2830
+Montreal:Canada,Cincinnati:OH,600
+Montreal:Canada,Washington:DC,7522
+Montreal:Canada,Denver:CO,1784
+Montreal:Canada,Dallas/Fort Worth:TX,3490
+Montreal:Canada,Detroit:MI,5181
+Montreal:Canada,Newark:NJ,8800
+Montreal:Canada,Grand Rapids:MI,11
+Montreal:Canada,Houston:TX,1408
+Montreal:Canada,Indianapolis:IN,3
+Montreal:Canada,Las Vegas:NV,4951
+Montreal:Canada,Los Angeles:CA,4484
+Montreal:Canada,Kansas City:MO,2
+Montreal:Canada,Orlando:FL,6710
+Montreal:Canada,Memphis:TN,5
+Montreal:Canada,New Orleans:LA,24
+Montreal:Canada,West Palm Beach/Palm Beach:FL,19
+Montreal:Canada,Phoenix:AZ,83
+Montreal:Canada,Pittsburgh:PA,36
+Montreal:Canada,Rochester:NY,6
+Montreal:Canada,Fort Myers:FL,183
+Montreal:Canada,Louisville:KY,9
+Montreal:Canada,Salt Lake City:UT,14
+Montreal:Canada,Tampa:FL,377
+Vancouver:Canada,Albuquerque:NM,7
+Vancouver:Canada,Anchorage:AK,890
+Vancouver:Canada,Denver:CO,6289
+Vancouver:Canada,Dallas/Fort Worth:TX,8331
+Vancouver:Canada,Honolulu:HI,9323
+Vancouver:Canada,Washington:DC,107
+Vancouver:Canada,Houston:TX,6260
+Vancouver:Canada,Las Vegas:NV,11250
+Vancouver:Canada,Los Angeles:CA,33132
+Vancouver:Canada,Madison:WI,1
+Vancouver:Canada,Oakland:CA,3
+Vancouver:Canada,Chicago:IL,11060
+Vancouver:Canada,Portland:OR,6623
+Vancouver:Canada,Phoenix:AZ,7595
+Vancouver:Canada,Palm Springs:CA,1902
+Vancouver:Canada,San Diego:CA,2219
+Vancouver:Canada,Seattle:WA,15965
+Vancouver:Canada,San Francisco:CA,19900
+Vancouver:Canada,San Jose:CA,16
+Vancouver:Canada,Sun Valley/Hailey/Ketchum:ID,1
+Vancouver:Canada,Tampa:FL,3
+Winnipeg:Canada,Las Vegas:NV,1458
+Winnipeg:Canada,Orlando:FL,644
+Winnipeg:Canada,Minneapolis:MN,6751
+Winnipeg:Canada,Chicago:IL,5320
+Winnipeg:Canada,Phoenix:AZ,849
+Saskatoon:Canada,Las Vegas:NV,725
+Saskatoon:Canada,Minneapolis:MN,2800
+Saskatoon:Canada,Phoenix:AZ,29
+London:Canada,Orlando:FL,208
+Calgary:Canada,Buffalo:NY,4
+Calgary:Canada,Denver:CO,7598
+Calgary:Canada,Dallas/Fort Worth:TX,5533
+Calgary:Canada,Honolulu:HI,783
+Calgary:Canada,Houston:TX,12725
+Calgary:Canada,Las Vegas:NV,9906
+Calgary:Canada,Los Angeles:CA,9980
+Calgary:Canada,Minneapolis:MN,6238
+Calgary:Canada,Chicago:IL,6774
+Calgary:Canada,Phoenix:AZ,10982
+Calgary:Canada,Palm Springs:CA,3349
+Calgary:Canada,Reno:NV,1
+Calgary:Canada,San Francisco:CA,9089
+Calgary:Canada,Salt Lake City:UT,2566
+Victoria:Canada,Seattle:WA,7799
+Toronto:Canada,Atlanta:GA,13949
+Toronto:Canada,Nashville:TN,1492
+Toronto:Canada,Boston:MA,14484
+Toronto:Canada,Buffalo:NY,12
+Toronto:Canada,Baltimore:MD,2812
+Toronto:Canada,Cleveland:OH,4274
+Toronto:Canada,Cincinnati:OH,3196
+Toronto:Canada,Washington:DC,11916
+Toronto:Canada,Dallas/Fort Worth:TX,10426
+Toronto:Canada,Des Moines:IA,11
+Toronto:Canada,Detroit:MI,8061
+Toronto:Canada,El Paso:TX,1
+Toronto:Canada,Newark:NJ,28136
+Toronto:Canada,Fort Lauderdale:FL,16196
+Toronto:Canada,Houston:TX,8571
+Toronto:Canada,Indianapolis:IN,1144
+Toronto:Canada,Las Vegas:NV,16543
+Toronto:Canada,Los Angeles:CA,19517
+Toronto:Canada,New York:NY,35194
+Toronto:Canada,Kansas City:MO,794
+Toronto:Canada,Orlando:FL,19793
+Toronto:Canada,Chicago:IL,36272
+Toronto:Canada,Memphis:TN,1465
+Toronto:Canada,Miami:FL,19666
+Toronto:Canada,Milwaukee:WI,1147
+Toronto:Canada,Minneapolis:MN,7211
+Toronto:Canada,New Orleans:LA,371
+Toronto:Canada,Omaha:NE,17
+Toronto:Canada,West Palm Beach/Palm Beach:FL,1518
+Toronto:Canada,Portland:OR,954
+Toronto:Canada,Philadelphia:PA,10344
+Toronto:Canada,Phoenix:AZ,4412
+Toronto:Canada,St. Petersburg:FL,475
+Toronto:Canada,Pittsburgh:PA,1791
+Toronto:Canada,Raleigh/Durham:NC,2663
+Toronto:Canada,Rochester:NY,213
+Toronto:Canada,Fort Myers:FL,4752
+Toronto:Canada,Louisville:KY,11
+Toronto:Canada,Seattle:WA,2671
+Toronto:Canada,Salt Lake City:UT,3
+Toronto:Canada,Sarasota/Bradenton:FL,1008
+Toronto:Canada,St. Louis:MO,1519
+Toronto:Canada,Syracuse:NY,225
+Toronto:Canada,Tampa:FL,8432
+Toronto:Canada,Knoxville:TN,3
+Zacatecas:Mexico,Los Angeles:CA,2294
+Ixtapa/Zihuatanejo:Mexico,Dallas/Fort Worth:TX,299
+Ixtapa/Zihuatanejo:Mexico,Houston:TX,2004
+Ixtapa/Zihuatanejo:Mexico,Los Angeles:CA,2497
+Ixtapa/Zihuatanejo:Mexico,Minneapolis:MN,596
+Ixtapa/Zihuatanejo:Mexico,Chicago:IL,91
+Manzanillo:Mexico,Los Angeles:CA,1656
+Manzanillo:Mexico,Minneapolis:MN,75
+Zurich:Switzerland,Atlanta:GA,4994
+Zurich:Switzerland,Boston:MA,5734
+Zurich:Switzerland,Dallas/Fort Worth:TX,10
+Zurich:Switzerland,New York:NY,18393
+Zurich:Switzerland,Los Angeles:CA,6432
+Zurich:Switzerland,Miami:FL,5907
+Zurich:Switzerland,Chicago:IL,5788
+Zurich:Switzerland,San Francisco:CA,3063
+Acapulco:Mexico,Newark:NJ,144
+Acapulco:Mexico,Indianapolis:IN,27
+Acapulco:Mexico,Minneapolis:MN,10
+Aruba:Aruba,Dallas/Fort Worth:TX,52
+Austin:TX,Nassau:The Bahamas,29
+Barbados/Bridgetown:Barbados,Boston:MA,48
+Hamilton:Canada,Orlando:FL,209
+Halifax:Canada,Orlando:FL,1000
+Halifax:Canada,St. Petersburg:FL,139
+Halifax:Canada,Tampa:FL,101
+Ottawa:Canada,Detroit:MI,3332
+Montreal:Canada,Austin:TX,2
+Montreal:Canada,Charlotte:NC,2240
+Montreal:Canada,Columbus:OH,6
+Montreal:Canada,Raleigh/Durham:NC,14
+Toronto:Canada,Atlantic City:NJ,342
+Toronto:Canada,Burlington:VT,1
+Toronto:Canada,Charlotte:NC,8541
+Toronto:Canada,Colorado Springs:CO,24
+Toronto:Canada,Grand Rapids:MI,310
+Toronto:Canada,Greensboro/High Point:NC,2
+Toronto:Canada,San Diego:CA,1526
+Toronto:Canada,Savannah:GA,7
+Toronto:Canada,San Francisco:CA,16671
+Toronto:Canada,San Juan:PR,497
+Ixtapa/Zihuatanejo:Mexico,Portland:OR,80
+Ixtapa/Zihuatanejo:Mexico,San Francisco:CA,4
+Atlantic City:NJ,Montreal:Canada,34
+Aruba:Aruba,Chicago:IL,789
+Leon/Guanajuato:Mexico,Los Angeles:CA,2211
+Brussels:Belgium,Houston:TX,234
+Paris:France,Bangor:ME,18
+Cancun:Mexico,Columbus:OH,86
+Philadelphia:PA,Santo Domingo:Dominican Republic,1369
+St. Petersburg:FL,Halifax:Canada,154
+Pittsburgh:PA,Vancouver:Canada,4
+Panama City:Panama,Los Angeles:CA,5166
+Puerto Vallarta:Mexico,Indianapolis:IN,2
+Puerto Vallarta:Mexico,St. Louis:MO,225
+Portland:ME,Cancun:Mexico,8
+San Diego:CA,Vancouver:Canada,2332
+Santo Domingo:Dominican Republic,Boston:MA,3502
+San Jose:CA,Guadalajara:Mexico,4729
+San Jose:CA,Mexico City:Mexico,33
+San Juan:PR,Toronto:Canada,475
+St. Louis:MO,Montreal:Canada,4
+Syracuse:NY,Nassau:The Bahamas,5
+Tampa:FL,Caracas:Venezuela,10
+Tampa:FL,Halifax:Canada,104
+Cancun:Mexico,Las Vegas:NV,8
+Detroit:MI,St. Johns:Antigua and Barbuda,8
+Detroit:MI,Calgary:Canada,3
+Newark:NJ,Guatemala City:Guatemala,727
+Fort Lauderdale:FL,Cancun:Mexico,6587
+Nassau:The Bahamas,Columbus:OH,10
+Nassau:The Bahamas,Los Angeles:CA,13
+Tokyo:Japan,San Antonio:TX,82
+Philadelphia:PA,Grand Cayman:Cayman Islands,594
+Phoenix:AZ,Guaymas:Mexico,298
+Pittsburgh:PA,Calgary:Canada,4
+Punta Cana:Dominican Republic,Fort Lauderdale:FL,1067
+San Diego:CA,Edmonton:Canada,12
+Dayton:OH,Toronto:Canada,220
+Newark:NJ,Brussels:Belgium,9482
+Fort Lauderdale:FL,Punta Cana:Dominican Republic,1112
+Fukuoka:Japan,Honolulu:HI,287
+Grand Cayman:Cayman Islands,Philadelphia:PA,624
+Rio de Janeiro:Brazil,Chicago:IL,3
+Guaymas:Mexico,Phoenix:AZ,277
+Hakodate:Japan,Honolulu:HI,19
+Honolulu:HI,Hakodate:Japan,19
+Houston:TX,Panama City:Panama,7754
+Indianapolis:IN,San Jose del Cabo:Mexico,1
+New York:NY,Osaka:Japan,309
+Kumamoto:Japan,Honolulu:HI,29
+Los Angeles:CA,Leon/Guanajuato:Mexico,2563
+Los Angeles:CA,Bangkok:Thailand,4972
+Los Angeles:CA,Cali:Colombia,170
+London:United Kingdom,Kansas City:MO,18
+Mexico City:Mexico,Salt Lake City:UT,1535
+Miami:FL,Guantanamo:Cuba,5
+Merida:Mexico,Houston:TX,2614
+Phoenix:AZ,Manzanillo:Mexico,124
+Puerto Plata:Dominican Republic,Chicago:IL,61
+Savannah:GA,Toronto:Canada,3
+San Francisco:CA,Amsterdam:Netherlands,8879
+Santa Ana:CA,Vancouver:Canada,1
+Tampa:FL,Puerto Vallarta:Mexico,3
+Quito:Ecuador,Atlanta:GA,3032
+Warsaw:Poland,Newark:NJ,2984
+Ottawa:Canada,Newark:NJ,3796
+Montreal:Canada,Atlantic City:NJ,33
+Montreal:Canada,St. Louis:MO,2
+Calgary:Canada,Hartford:CT,7
+Calgary:Canada,Portland:OR,848
+Toronto:Canada,Camp Springs:MD,5
+Toronto:Canada,Denver:CO,9164
+Toronto:Canada,Myrtle Beach:SC,102
+Toronto:Canada,Norfolk:VA,2
+Toronto:Canada,Tulsa:OK,8
+Toronto:Canada,Tucson:AZ,12
+Manzanillo:Mexico,Phoenix:AZ,122
+Amsterdam:Netherlands,Minneapolis:MN,18746
+Amsterdam:Netherlands,San Francisco:CA,8925
+St. Johns:Antigua and Barbuda,Newark:NJ,2356
+Atlanta:GA,Guayaquil:Ecuador,1126
+Hartford:CT,Vancouver:Canada,7
+Birmingham:AL,Toronto:Canada,13
+Nashville:TN,Nassau:The Bahamas,14
+Boston:MA,Glasgow:United Kingdom,101
+Boston:MA,Mexico City:Mexico,125
+Brussels:Belgium,Newark:NJ,9126
+Budapest:Hungary,New York:NY,3046
+Caracas:Venezuela,Hartford:CT,13
+Caracas:Venezuela,Orlando:FL,121
+Paris:France,Orlando:FL,58
+Charleston:SC,Montreal:Canada,2
+Columbus:OH,Freeport:The Bahamas,3
+Seattle:WA,Edmonton:Canada,4649
+St. Kitts:Saint Kitts and Nevis,San Juan:PR,1072
+Syracuse:NY,Toronto:Canada,227
+Tulsa:OK,Montreal:Canada,2
+Edmonton:Canada,Seattle:WA,4534
+Quebec:Canada,Newark:NJ,3770
+Montreal:Canada,Jacksonville:FL,3
+Vancouver:Canada,New York:NY,4114
+Vancouver:Canada,Salt Lake City:UT,3153
+Camp Springs:MD,Toronto:Canada,5
+Atlanta:GA,Quito:Ecuador,2986
+Hamilton:Bermuda,Detroit:MI,5
+Newark:NJ,Warsaw:Poland,2959
+Orlando:FL,Paris:France,227
+Miami:FL,Montevideo:Uruguay,3532
+Nassau:The Bahamas,Nashville:TN,12
+Nassau:The Bahamas,New Orleans:LA,16
+Houston:TX,Merida:Mexico,2685
+Lima:Peru,Newark:NJ,3623
+Chicago:IL,Edmonton:Canada,3432
+Portland:OR,Toronto:Canada,1000
+Philadelphia:PA,Ottawa:Canada,3097
+Phoenix:AZ,Hermosillo:Mexico,1527
+Panama City:Panama,Houston:TX,7997
+Providence:RI,Nassau:The Bahamas,7
+Louisville:KY,Toronto:Canada,12
+San Francisco:CA,Brussels:Belgium,201
+San Francisco:CA,Lyon:France,23
+Caracas:Venezuela,Boston:MA,59
+Paris:France,Las Vegas:NV,756
+Cincinnati:OH,Guadalajara:Mexico,5
+Washington:DC,Panama City:Panama,2331
+Denver:CO,Toronto:Canada,8624
+Dallas/Fort Worth:TX,Guatemala City:Guatemala,3475
+Dallas/Fort Worth:TX,Montego Bay:Jamaica,2656
+Dallas/Fort Worth:TX,Panama City:Panama,696
+Dallas/Fort Worth:TX,San Jose:Costa Rica,5168
+Dallas/Fort Worth:TX,Montreal:Canada,3661
+Detroit:MI,Rome:Italy,1943
+Detroit:MI,Vancouver:Canada,548
+Newark:NJ,Amsterdam:Netherlands,11775
+Newark:NJ,Rome:Italy,9506
+Newark:NJ,Glasgow:United Kingdom,4344
+Newark:NJ,Tel Aviv:Israel,20986
+Newark:NJ,Calgary:Canada,4034
+Newark:NJ,Zurich:Switzerland,5159
+Rome:Italy,Newark:NJ,9737
+Los Angeles:CA,Manchester:United Kingdom,5
+New York:NY,Glasgow:United Kingdom,122
+Madrid:Spain,Boston:MA,3462
+Manchester:United Kingdom,Los Angeles:CA,1
+Montego Bay:Jamaica,Dallas/Fort Worth:TX,2747
+Orlando:FL,Caracas:Venezuela,98
+Chicago:IL,Hamilton:Canada,3
+Memphis:TN,Toronto:Canada,1696
+Miami:FL,Belo Horizonte:Brazil,2788
+Minneapolis:MN,Amsterdam:Netherlands,17919
+Santo Domingo:Dominican Republic,Washington:DC,10
+San Jose:Costa Rica,Fort Lauderdale:FL,4893
+San Jose:Costa Rica,Houston:TX,12596
+San Jose:Costa Rica,Chicago:IL,9
+San Juan:PR,Grenada:Grenada,611
+Shannon:Ireland,Denver:CO,1
+St. Louis:MO,Calgary:Canada,8
+Tulsa:OK,Vancouver:Canada,10
+San Juan:PR,Cancun:Mexico,3
+Venice:Italy,Philadelphia:PA,2091
+Edmonton:Canada,Chicago:IL,3531
+Ottawa:Canada,St. Louis:MO,7
+Winnipeg:Canada,Cleveland:OH,2
+Toronto:Canada,Charleston:SC,3
+Toronto:Canada,Jacksonville:FL,8
+Toronto:Canada,Toledo:OH,1
+Albuquerque:NM,Vancouver:Canada,2
+Acapulco:Mexico,Atlanta:GA,67
+Albany:NY,Toronto:Canada,370
+Amsterdam:Netherlands,Newark:NJ,11913
+Atlanta:GA,Acapulco:Mexico,75
+Atlanta:GA,Copenhagen:Denmark,3361
+Bucaramanga:Colombia,Miami:FL,170
+Birmingham:AL,Nassau:The Bahamas,7
+Quito:Ecuador,New York:NY,274
+Montreal:Canada,Hartford:CT,509
+Montreal:Canada,Minneapolis:MN,2495
+Vancouver:Canada,Detroit:MI,601
+Vancouver:Canada,Ontario:CA,4
+Vancouver:Canada,Santa Ana:CA,1
+Winnipeg:Canada,Milwaukee:WI,3
+Calgary:Canada,Newark:NJ,4385
+Toronto:Canada,Wichita:KS,34
+Toronto:Canada,Santa Ana:CA,926
+Zurich:Switzerland,Newark:NJ,5150
+Aguascalientes:Mexico,Los Angeles:CA,158
+Albany:NY,Grand Cayman:Cayman Islands,1
+Atlanta:GA,Freeport:The Bahamas,790
+The Valley:Anguilla,San Juan:PR,454
+Belo Horizonte:Brazil,Miami:FL,2947
+Sapporo:Japan,Guam:TT,1088
+Sapporo:Japan,Saipan:TT,29
+Cancun:Mexico,Fort Lauderdale:FL,6551
+Cancun:Mexico,Orlando:FL,2724
+Cancun:Mexico,Salt Lake City:UT,2115
+Cincinnati:OH,Paris:France,4747
+New York:NY,Manila:Philippines,743
+New York:NY,Palermo:Italy,350
+New York:NY,Gander:Canada,10
+Kingston:Jamaica,Chicago:IL,26
+Los Angeles:CA,Aguascalientes:Mexico,155
+New York:NY,Vancouver:Canada,4123
+Lima:Peru,Dallas/Fort Worth:TX,3
+La Romana:Dominican Republic,San Juan:PR,707
+Madrid:Spain,Newark:NJ,5248
+Orlando:FL,Monterrey:Mexico,98
+Mexico City:Mexico,Boston:MA,98
+Mexico City:Mexico,Las Vegas:NV,7705
+Managua:Nicaragua,Houston:TX,5357
+Miami:FL,Hamilton:Bermuda,3013
+Miami:FL,Natal:Brazil,34
+Miami:FL,Punta Cana:Dominican Republic,10048
+Madison:WI,Montreal:Canada,6
+Minneapolis:MN,Mexico City:Mexico,124
+Minneapolis:MN,Montreal:Canada,2466
+Glasgow:United Kingdom,Boston:MA,98
+Glasgow:United Kingdom,Newark:NJ,4408
+Glasgow:United Kingdom,New York:NY,74
+Grenada:Grenada,San Juan:PR,708
+Guatemala City:Guatemala,Dallas/Fort Worth:TX,3585
+Guatemala City:Guatemala,Washington:DC,18
+Hong Kong:Hong Kong,Honolulu:HI,39
+Honolulu:HI,Obihiro:Japan,13
+Washington:DC,St. Johns:Antigua and Barbuda,10
+Houston:TX,San Jose:Costa Rica,12561
+Los Angeles:CA,Glasgow:United Kingdom,45
+Montego Bay:Jamaica,Phoenix:AZ,892
+San Francisco:CA,Edmonton:Canada,4007
+San Jose del Cabo:Mexico,Dallas/Fort Worth:TX,8994
+San Jose:Costa Rica,Dallas/Fort Worth:TX,5305
+San Jose:Costa Rica,Newark:NJ,7413
+San Juan:PR,The Valley:Anguilla,460
+San Juan:PR,Road Town:British Virgin Islands,7649
+San Juan:PR,La Romana:Dominican Republic,739
+San Juan:PR,Pointe A Pitre:Guadeloupe,1144
+San Juan:PR,Punta Cana:Dominican Republic,4405
+San Juan:PR,St. Kitts:Saint Kitts and Nevis,1003
+Salt Lake City:UT,Cancun:Mexico,2225
+Saipan:TT,Sapporo:Japan,30
+Toulouse:France,New York:NY,39
+Venice:Italy,Boston:MA,17
+Edmonton:Canada,Ontario:CA,5
+Ottawa:Canada,Charlotte:NC,680
+Montreal:Canada,Greer:SC,6
+Vancouver:Canada,Newark:NJ,3823
+Toronto:Canada,Oklahoma City:OK,10
+Anchorage:AK,Nagoya:Japan,46
+Atlanta:GA,Rome:Italy,6852
+Miami:FL,Cordoba:Argentina,18
+Monterrey:Mexico,Orlando:FL,97
+Monterrey:Mexico,San Diego:CA,2
+Milan:Italy,Boston:MA,1
+Nassau:The Bahamas,Raleigh/Durham:NC,19
+Obihiro:Japan,Honolulu:HI,13
+Portland:OR,Guadalajara:Mexico,7
+Philadelphia:PA,Shannon:Ireland,29
+Phoenix:AZ,London:United Kingdom,6019
+Orlando:FL,Panama City:Panama,7976
+Miami:FL,Brasilia:Brazil,448
+Nassau:The Bahamas,Houston:TX,748
+Nagoya:Japan,Anchorage:AK,77
+Ontario:CA,Edmonton:Canada,4
+Ontario:CA,Vancouver:Canada,8
+Chicago:IL,Kingston:Jamaica,16
+Paris:France,Cincinnati:OH,4647
+Philadelphia:PA,Zurich:Switzerland,3008
+Boston:MA,Caracas:Venezuela,10
+Paris:France,Cleveland:OH,2
+Rome:Italy,Atlanta:GA,6864
+Rome:Italy,Detroit:MI,2019
+Rome:Italy,New Orleans:LA,4
+Washington:DC,Guatemala City:Guatemala,11
+Denver:CO,Paris:France,1
+Dallas/Fort Worth:TX,Grand Cayman:Cayman Islands,1
+Dallas/Fort Worth:TX,San Jose del Cabo:Mexico,9010
+Dallas/Fort Worth:TX,St. Kitts:Saint Kitts and Nevis,20
+Road Town:British Virgin Islands,San Juan:PR,7528
+Newark:NJ,Madrid:Spain,5108
+Freeport:The Bahamas,Atlanta:GA,874
+Freeport:The Bahamas,Birmingham:AL,1
+Freeport:The Bahamas,Columbus:OH,4
+Spokane:WA,Toronto:Canada,9
+Toronto:Canada,Teterboro:NJ,19
+Zurich:Switzerland,Philadelphia:PA,3047
+Anchorage:AK,Vancouver:Canada,924
+Aruba:Aruba,Houston:TX,533
+Boston:MA,Vancouver:Canada,51
+Columbus:OH,Montreal:Canada,14
+Chicago:IL,Sao Paulo:Brazil,5101
+Palermo:Italy,New York:NY,364
+Panama City:Panama,Dallas/Fort Worth:TX,697
+Punta Cana:Dominican Republic,San Juan:PR,4306
+San Antonio:TX,Grand Cayman:Cayman Islands,6
+Santiago:Chile,Dallas/Fort Worth:TX,4674
+Sendai:Japan,Guam:TT,1001
+Seattle:WA,Guadalajara:Mexico,42
+Denver:CO,Ottawa:Canada,464
+Guadalajara:Mexico,Las Vegas:NV,1746
+Grand Rapids:MI,Montreal:Canada,12
+Grand Rapids:MI,Toronto:Canada,294
+Guatemala City:Guatemala,Newark:NJ,731
+Guam:TT,Sapporo:Japan,1087
+Guam:TT,Niigata:Japan,577
+Guam:TT,Sendai:Japan,1007
+Guam:TT,Takamatsu:Japan,10
+Hermosillo:Mexico,Las Vegas:NV,381
+Houston:TX,Managua:Nicaragua,5287
+Houston:TX,Nassau:The Bahamas,734
+Wichita:KS,Toronto:Canada,21
+Houston:TX,Torreon:Mexico,993
+Houston:TX,Vancouver:Canada,6105
+Indianapolis:IN,Calgary:Canada,13
+New York:NY,Bucaramanga:Colombia,113
+New York:NY,Bordeaux:France,20
+Niigata:Japan,Guam:TT,587
+Panama City:Panama,Washington:DC,2825
+Punta Cana:Dominican Republic,Miami:FL,10126
+San Jose del Cabo:Mexico,Oakland:CA,1
+San Francisco:CA,Monterrey:Mexico,3
+San Jose del Cabo:Mexico,San Diego:CA,3335
+San Juan:PR,Panama City:Panama,4299
+Sacramento:CA,Toronto:Canada,3
+Takamatsu:Japan,Guam:TT,29
+Ottawa:Canada,Buffalo:NY,21
+Ottawa:Canada,Denver:CO,551
+Ottawa:Canada,Raleigh/Durham:NC,18
+Montreal:Canada,Traverse City:MI,1
+Calgary:Canada,Nashville:TN,9
+Calgary:Canada,Orlando:FL,1027
+Toronto:Canada,Birmingham:AL,5
+Manzanillo:Mexico,Houston:TX,725
+Atlanta:GA,Frankfurt:Germany,11900
+Atlanta:GA,Munich:Germany,5653
+Mazatlan:Mexico,Las Vegas:NV,4
+Chicago:IL,Guatemala City:Guatemala,1646
+Chicago:IL,San Jose:Costa Rica,11
+Port-au-Prince:Haiti,Orlando:FL,81
+Panama City:Panama,San Juan:PR,4232
+Raleigh/Durham:NC,Calgary:Canada,2
+San Diego:CA,San Jose del Cabo:Mexico,3102
+Houston:TX,Halifax:Canada,1
+Grand Cayman:Cayman Islands,New York:NY,1193
+Geneva:Switzerland,San Francisco:CA,205
+Atlanta:GA,Stuttgart:Germany,4878
+Hartford:CT,Montreal:Canada,550
+Bangkok:Thailand,Boston:MA,33
+Bangkok:Thailand,Chicago:IL,1392
+Boston:MA,Frankfurt:Germany,10356
+Boston:MA,Munich:Germany,5843
+Boston:MA,Providenciales:Turks and Caicos Islands,410
+Cleveland:OH,Frankfurt:Germany,228
+Charlotte:NC,Frankfurt:Germany,7298
+Dallas/Fort Worth:TX,Frankfurt:Germany,11985
+Detroit:MI,Frankfurt:Germany,10390
+Dusseldorf:Germany,New York:NY,3947
+Dusseldorf:Germany,Los Angeles:CA,1473
+Dusseldorf:Germany,Miami:FL,6596
+Dusseldorf:Germany,Chicago:IL,4422
+Dusseldorf:Germany,San Francisco:CA,1006
+Las Vegas:NV,Hermosillo:Mexico,361
+Las Vegas:NV,Mazatlan:Mexico,1
+Las Vegas:NV,Puerto Vallarta:Mexico,94
+Mexico City:Mexico,Phoenix:AZ,6961
+Miami:FL,Monterrey:Mexico,441
+Milwaukee:WI,Vancouver:Canada,10
+Washington:DC,Amsterdam:Netherlands,11450
+Washington:DC,Singapore:Singapore,464
+Newark:NJ,Hamburg:Germany,4293
+Newark:NJ,Berlin:Germany,3893
+Rome:Italy,Miami:FL,5809
+Fort Lauderdale:FL,Frankfurt:Germany,980
+Fort Lauderdale:FL,Oslo:Norway,2
+Fort Lauderdale:FL,Calgary:Canada,3
+Frankfurt:Germany,Atlanta:GA,12048
+Frankfurt:Germany,Boston:MA,10376
+Frankfurt:Germany,Charlotte:NC,6868
+Frankfurt:Germany,Denver:CO,8530
+Frankfurt:Germany,Dallas/Fort Worth:TX,12265
+Frankfurt:Germany,Detroit:MI,10710
+Frankfurt:Germany,Fort Lauderdale:FL,934
+Frankfurt:Germany,Washington:DC,26693
+Frankfurt:Germany,Houston:TX,13917
+Frankfurt:Germany,New York:NY,26781
+Frankfurt:Germany,Los Angeles:CA,13482
+Frankfurt:Germany,Orlando:FL,6899
+Frankfurt:Germany,Miami:FL,8466
+Frankfurt:Germany,Minneapolis:MN,74
+Frankfurt:Germany,Chicago:IL,31627
+Frankfurt:Germany,Pittsburgh:PA,64
+Frankfurt:Germany,Seattle:WA,5736
+Frankfurt:Germany,San Francisco:CA,22264
+Grand Cayman:Cayman Islands,Atlanta:GA,2997
+Grand Cayman:Cayman Islands,Houston:TX,2003
+Grand Cayman:Cayman Islands,Tampa:FL,1520
+Oslo:Norway,Fort Lauderdale:FL,2
+Guam:TT,Hiroshima:Japan,700
+Guam:TT,Okayama:Japan,661
+Guam:TT,Taipei:Taiwan,2835
+Hamburg:Germany,Newark:NJ,4204
+Hiroshima:Japan,Guam:TT,690
+Washington:DC,Frankfurt:Germany,27437
+Houston:TX,Frankfurt:Germany,13874
+Houston:TX,Mazatlan:Mexico,1835
+Phoenix:AZ,Guadalajara:Mexico,7187
+Pittsburgh:PA,Frankfurt:Germany,75
+Punta Cana:Dominican Republic,Boston:MA,1320
+Richmond:VA,Nassau:The Bahamas,4
+San Diego:CA,Frankfurt:Germany,318
+Seattle:WA,Frankfurt:Germany,5774
+San Francisco:CA,Dusseldorf:Germany,1009
+San Francisco:CA,Frankfurt:Germany,22144
+San Francisco:CA,Munich:Germany,7802
+Stuttgart:Germany,Atlanta:GA,4988
+Berlin:Germany,Newark:NJ,3764
+New York:NY,Dusseldorf:Germany,3826
+New York:NY,Frankfurt:Germany,26718
+New York:NY,Grand Cayman:Cayman Islands,1137
+New York:NY,Munich:Germany,6423
+New York:NY,Berlin:Germany,4530
+Las Vegas:NV,Leon/Guanajuato:Mexico,10
+Las Vegas:NV,Victoria:Canada,897
+Los Angeles:CA,Dusseldorf:Germany,1510
+Los Angeles:CA,Frankfurt:Germany,13861
+Los Angeles:CA,Munich:Germany,6726
+Saginaw/Bay City/Midland:MI,Toronto:Canada,3
+Orlando:FL,Frankfurt:Germany,6739
+Harrisburg:PA,Toronto:Canada,335
+Miami:FL,Dusseldorf:Germany,6685
+Miami:FL,Rome:Italy,6271
+Miami:FL,Frankfurt:Germany,8880
+Miami:FL,Munich:Germany,1999
+Manila:Philippines,Washington:DC,2
+Minneapolis:MN,Frankfurt:Germany,147
+Monterrey:Mexico,New York:NY,838
+Munich:Germany,Atlanta:GA,5901
+Munich:Germany,Boston:MA,6043
+Munich:Germany,New York:NY,6609
+Munich:Germany,Los Angeles:CA,7130
+Munich:Germany,Miami:FL,1885
+Munich:Germany,Chicago:IL,13746
+Milan:Italy,Miami:FL,1202
+Mazatlan:Mexico,Houston:TX,1894
+Nassau:The Bahamas,Richmond:VA,22
+Caracas:Venezuela,Raleigh/Durham:NC,4
+Columbus:OH,Toronto:Canada,1345
+Cozumel:Mexico,Detroit:MI,213
+Detroit:MI,Cozumel:Mexico,208
+Newark:NJ,San Jose:Costa Rica,7732
+Newark:NJ,Quebec:Canada,3836
+Frankfurt:Germany,Philadelphia:PA,14982
+Miami:FL,Brussels:Belgium,35
+Munich:Germany,San Francisco:CA,8001
+Oaxaca:Mexico,Houston:TX,802
+Chicago:IL,Dusseldorf:Germany,4236
+Chicago:IL,Oslo:Norway,58
+Chicago:IL,Frankfurt:Germany,30891
+Chicago:IL,Munich:Germany,13116
+Newark:NJ,Frankfurt:Germany,17247
+Frankfurt:Germany,Cleveland:OH,250
+Frankfurt:Germany,Newark:NJ,16583
+Hamburg:Germany,Miami:FL,24
+Washington:DC,Rome:Italy,5389
+Kingston:Jamaica,Fort Lauderdale:FL,10611
+Las Vegas:NV,Ottawa:Canada,55
+Okayama:Japan,Guam:TT,668
+Philadelphia:PA,Frankfurt:Germany,14501
+Avarua:Cook Islands,Los Angeles:CA,933
+Singapore:Singapore,Washington:DC,477
+San Jose:Costa Rica,Denver:CO,2435
+Tampa:FL,Grand Cayman:Cayman Islands,1445
+Taipei:Taiwan,Guam:TT,2831
+Berlin:Germany,New York:NY,4670
+Berlin:Germany,Los Angeles:CA,17
+Vancouver:Canada,Tucson:AZ,1
+Calgary:Canada,Fort Lauderdale:FL,6
+Calgary:Canada,New York:NY,20
+Toronto:Canada,Sacramento:CA,8
+Acapulco:Mexico,San Diego:CA,1
+Albany:NY,Montreal:Canada,12
+Amsterdam:Netherlands,Portland:OR,4677
+Atlanta:GA,Grand Cayman:Cayman Islands,2871
+Atlanta:GA,Monterrey:Mexico,2317
+Bogota:Colombia,Chicago:IL,97
+Orlando:FL,Calgary:Canada,953
+Mexico City:Mexico,New Orleans:LA,180
+Monterrey:Mexico,Salt Lake City:UT,3
+Omaha:NE,Calgary:Canada,2
+Port-au-Prince:Haiti,Newark:NJ,5
+Portland:OR,Puerto Vallarta:Mexico,239
+Philipsburg:Netherlands Antilles,Philadelphia:PA,1590
+Takamatsu:Japan,Honolulu:HI,20
+Tampa:FL,San Jose:Costa Rica,11
+Quebec:Canada,New York:NY,3
+Montreal:Canada,Reno:NV,7
+Vancouver:Canada,Orlando:FL,42
+Calgary:Canada,Ontario:CA,3
+Toronto:Canada,Providence:RI,361
+Edmonton:Canada,Nashville:TN,3
+Vancouver:Canada,Grand Rapids:MI,11
+Calgary:Canada,Burbank:CA,1
+Victoria:Canada,Las Vegas:NV,971
+Toronto:Canada,Albany:NY,377
+Philadelphia:PA,Winnipeg:Canada,4
+Providenciales:Turks and Caicos Islands,Boston:MA,417
+Panama City:Panama,New York:NY,3650
+Puerto Vallarta:Mexico,San Diego:CA,296
+Raleigh/Durham:NC,Nassau:The Bahamas,17
+Raleigh/Durham:NC,Philipsburg:Netherlands Antilles,5
+San Diego:CA,Puerto Vallarta:Mexico,354
+Seoul:South Korea,Atlanta:GA,9696
+San Jose del Cabo:Mexico,Portland:OR,1086
+San Jose:Costa Rica,Boston:MA,151
+St. Louis:MO,Toronto:Canada,1421
+Sao Paulo:Brazil,Newark:NJ,4229
+Guatemala City:Guatemala,Chicago:IL,1581
+Honolulu:HI,Takamatsu:Japan,20
+Washington:DC,Munich:Germany,10145
+Washington:DC,St. Lucia:Saint Lucia,2
+Kingston:Jamaica,Orlando:FL,11
+Kingston:Jamaica,New Orleans:LA,4
+Los Angeles:CA,Avarua:Cook Islands,1006
+Little Rock:AR,Toronto:Canada,1
+Koror:Palau,Guam:TT,2417
+Guam:TT,Koror:Palau,2399
+Acapulco:Mexico,Baltimore:MD,14
+Acapulco:Mexico,Phoenix:AZ,421
+Amsterdam:Netherlands,Washington:DC,11541
+Amsterdam:Netherlands,Denver:CO,342
+Atlanta:GA,Barcelona:Spain,4748
+Atlanta:GA,Bonaire:Netherlands Antilles,533
+Atlanta:GA,Caracas:Venezuela,4024
+Atlanta:GA,Willemstad:Netherlands Antilles,235
+Atlanta:GA,Rio de Janeiro:Brazil,5206
+Atlanta:GA,Sao Paulo:Brazil,6223
+Atlanta:GA,Madrid:Spain,4661
+Atlanta:GA,Manchester:United Kingdom,4929
+Atlanta:GA,Prague:Czech Republic,1044
+Atlanta:GA,Seoul:South Korea,9632
+Atlanta:GA,Vancouver:Canada,391
+Aruba:Aruba,Atlanta:GA,6055
+Aruba:Aruba,Fort Lauderdale:FL,436
+Aruba:Aruba,Los Angeles:CA,26
+Aruba:Aruba,Orlando:FL,483
+Abu Dhabi:United Arab Emirates,New York:NY,6491
+Austin:TX,Vancouver:Canada,1
+Asheville:NC,Toronto:Canada,2
+Armenia:Colombia,New York:NY,272
+Armenia:Colombia,Miami:FL,59
+Barcelona:Spain,Atlanta:GA,4784
+Hamilton:Bermuda,Charlotte:NC,786
+Hartford:CT,Philipsburg:Netherlands Antilles,2
+Hartford:CT,Toronto:Canada,1057
+Leon/Guanajuato:Mexico,Dallas/Fort Worth:TX,3047
+Leon/Guanajuato:Mexico,Houston:TX,6077
+Leon/Guanajuato:Mexico,Oakland:CA,167
+Leon/Guanajuato:Mexico,Chicago:IL,1088
+Nashville:TN,Cancun:Mexico,205
+Nashville:TN,Monterrey:Mexico,4
+Bogota:Colombia,Newark:NJ,3025
+Bogota:Colombia,Houston:TX,5565
+Boise:ID,Mazatlan:Mexico,4
+Bonaire:Netherlands Antilles,Atlanta:GA,580
+Boston:MA,Santo Domingo:Dominican Republic,3415
+Boston:MA,San Jose del Cabo:Mexico,1
+Boston:MA,Quebec:Canada,2
+Aguadilla:PR,Santo Domingo:Dominican Republic,98
+Brussels:Belgium,Washington:DC,5073
+Brussels:Belgium,Los Angeles:CA,149
+Brussels:Belgium,Miami:FL,39
+Brasilia:Brazil,Miami:FL,585
+Baltimore:MD,Acapulco:Mexico,14
+Baltimore:MD,Puerto Vallarta:Mexico,14
+Belize City:Belize,Dallas/Fort Worth:TX,2305
+Paris:France,Minneapolis:MN,3897
+Washington:DC,Brussels:Belgium,5098
+Washington:DC,Brasilia:Brazil,9
+Washington:DC,Sao Paulo:Brazil,4673
+Washington:DC,Hong Kong:Hong Kong,194
+Washington:DC,Johannesburg:South Africa,5051
+Washington:DC,Madrid:Spain,5180
+Washington:DC,Managua:Nicaragua,44
+Washington:DC,San Salvador:El Salvador,8234
+Washington:DC,Moscow:Russia,3881
+Washington:DC,Zurich:Switzerland,4185
+Houston:TX,Leon/Guanajuato:Mexico,6341
+Houston:TX,Bogota:Colombia,5667
+Houston:TX,Santa Cruz/Huatulco:Mexico,553
+Houston:TX,San Jose del Cabo:Mexico,7033
+Houston:TX,Quito:Ecuador,3087
+Houston:TX,Veracruz:Mexico,1416
+New York:NY,Accra:Ghana,3075
+New York:NY,Abu Dhabi:United Arab Emirates,6297
+New York:NY,Doha:Qatar,7461
+New York:NY,Dubai:United Arab Emirates,18225
+New York:NY,Guadalajara:Mexico,287
+New York:NY,Johannesburg:South Africa,5185
+New York:NY,Kiev:Ukraine,5063
+New York:NY,Prague:Czech Republic,4507
+New York:NY,Puerto Vallarta:Mexico,158
+New York:NY,San Salvador:El Salvador,7227
+New York:NY,Singapore:Singapore,2988
+New York:NY,Moscow:Russia,12584
+Johannesburg:South Africa,Washington:DC,5533
+Johannesburg:South Africa,New York:NY,4810
+Kiev:Ukraine,New York:NY,5337
+Niigata:Japan,Saipan:TT,11
+Osaka:Japan,Seattle:WA,2416
+Kona:HI,Vancouver:Canada,783
+Las Vegas:NV,Manchester:United Kingdom,1146
+Los Angeles:CA,Brussels:Belgium,181
+Los Angeles:CA,Hermosillo:Mexico,1025
+Los Angeles:CA,Khabarovsk:Russia,1
+Los Angeles:CA,Morelia:Mexico,3267
+Los Angeles:CA,Nagoya:Japan,340
+Los Angeles:CA,Oaxaca:Mexico,31
+Los Angeles:CA,Beijing:China,7760
+Los Angeles:CA,Moscow:Russia,2858
+London:United Kingdom,New Orleans:LA,139
+London:United Kingdom,Raleigh/Durham:NC,4331
+Madrid:Spain,Atlanta:GA,4683
+Madrid:Spain,Washington:DC,5227
+Manchester:United Kingdom,Atlanta:GA,5150
+Manchester:United Kingdom,Fort Lauderdale:FL,2
+Manchester:United Kingdom,Las Vegas:NV,1106
+Montego Bay:Jamaica,Hartford:CT,10
+Montego Bay:Jamaica,Charlotte:NC,11004
+Kansas City:MO,Mexico City:Mexico,11
+Orlando:FL,Barbados/Bridgetown:Barbados,31
+Orlando:FL,Dusseldorf:Germany,27
+Orlando:FL,Guadalajara:Mexico,71
+Orlando:FL,Kingston:Jamaica,4
+Orlando:FL,Merida:Mexico,36
+Orlando:FL,Tokyo:Japan,196
+Orlando:FL,San Jose:Costa Rica,3248
+Orlando:FL,Vancouver:Canada,4
+Mexico City:Mexico,Austin:TX,9
+Mexico City:Mexico,Charlotte:NC,3550
+Mexico City:Mexico,Raleigh/Durham:NC,3
+Marsh Harbour:The Bahamas,Miami:FL,1198
+Miami:FL,Bucaramanga:Colombia,197
+Fort Myers:FL,Dusseldorf:Germany,3768
+Roatan Island:Honduras,Houston:TX,1750
+San Salvador:El Salvador,Washington:DC,8004
+San Salvador:El Salvador,New York:NY,7096
+San Salvador:El Salvador,Chicago:IL,438
+San Diego:CA,Tokyo:Japan,60
+San Antonio:TX,Guatemala City:Guatemala,63
+San Antonio:TX,Montego Bay:Jamaica,1
+Sendai:Japan,Honolulu:HI,43
+Santo Domingo:Dominican Republic,Orlando:FL,3647
+Santo Domingo:Dominican Republic,Philadelphia:PA,1517
+Seattle:WA,Cancun:Mexico,943
+Seattle:WA,Osaka:Japan,2580
+Seattle:WA,Moscow:Russia,62
+San Francisco:CA,Caracas:Venezuela,7
+San Francisco:CA,Rio de Janeiro:Brazil,4
+San Francisco:CA,Sao Paulo:Brazil,142
+San Francisco:CA,San Jose:Costa Rica,42
+Singapore:Singapore,New York:NY,2874
+San Jose del Cabo:Mexico,Boston:MA,1
+San Jose del Cabo:Mexico,Houston:TX,7336
+San Jose del Cabo:Mexico,Philadelphia:PA,26
+San Jose del Cabo:Mexico,Salt Lake City:UT,728
+San Jose:Costa Rica,Atlanta:GA,7979
+San Jose:Costa Rica,Orlando:FL,3340
+San Juan:PR,Montreal:Canada,144
+St. Kitts:Saint Kitts and Nevis,Providence:RI,10
+Salt Lake City:UT,San Jose del Cabo:Mexico,802
+Santa Ana:CA,Mexico City:Mexico,11
+Santa Ana:CA,Montreal:Canada,39
+Santa Ana:CA,Toronto:Canada,897
+Shannon:Ireland,Bangor:ME,3
+St. Louis:MO,Monterrey:Mexico,4
+St. Louis:MO,Puerto Vallarta:Mexico,235
+Moscow:Russia,Washington:DC,4149
+Moscow:Russia,New York:NY,12837
+Moscow:Russia,Los Angeles:CA,2886
+Moscow:Russia,Seattle:WA,8
+Philipsburg:Netherlands Antilles,Baltimore:MD,10
+Philipsburg:Netherlands Antilles,Washington:DC,437
+Philipsburg:Netherlands Antilles,Minneapolis:MN,106
+Treasure Cay:The Bahamas,Miami:FL,475
+Tel Aviv:Israel,Newark:NJ,21270
+Quito:Ecuador,Houston:TX,2885
+Veracruz:Mexico,Houston:TX,1440
+Edmonton:Canada,Indianapolis:IN,14
+Detroit:MI,Mexico City:Mexico,2875
+Quebec:Canada,Boston:MA,2
+Moncton:Canada,Newark:NJ,1229
+Montreal:Canada,San Juan:PR,138
+Vancouver:Canada,Columbus:OH,4
+Vancouver:Canada,Kona:HI,797
+Vancouver:Canada,Minneapolis:MN,5817
+Vancouver:Canada,Kahului:HI,7031
+Vancouver:Canada,San Antonio:TX,1
+Calgary:Canada,New Orleans:LA,2
+Calgary:Canada,Kahului:HI,1187
+Calgary:Canada,Philadelphia:PA,16
+Calgary:Canada,Seattle:WA,5999
+Calgary:Canada,Tampa:FL,6
+Victoria:Canada,Honolulu:HI,188
+St. John's:Canada,Newark:NJ,1488
+Toronto:Canada,Hartford:CT,1115
+Toronto:Canada,Dayton:OH,202
+Zacatecas:Mexico,Oakland:CA,54
+Zacatecas:Mexico,Chicago:IL,598
+Ixtapa/Zihuatanejo:Mexico,Phoenix:AZ,869
+Zurich:Switzerland,Washington:DC,3954
+Accra:Ghana,New York:NY,3124
+Amsterdam:Netherlands,Philadelphia:PA,3455
+Anchorage:AK,Anadyr:Russia,6
+Miami:FL,Marsh Harbour:The Bahamas,1228
+Miami:FL,Milan:Italy,1281
+Miami:FL,Treasure Cay:The Bahamas,482
+Miami:FL,Vancouver:Canada,234
+Morelia:Mexico,Los Angeles:CA,3358
+Morelia:Mexico,Chicago:IL,1885
+Minneapolis:MN,Paris:France,4080
+Minneapolis:MN,Cozumel:Mexico,764
+Minneapolis:MN,Punta Cana:Dominican Republic,366
+Minneapolis:MN,Philipsburg:Netherlands Antilles,109
+New Orleans:LA,London:United Kingdom,149
+New Orleans:LA,Mexico City:Mexico,176
+New Orleans:LA,Paris:France,97
+Monterrey:Mexico,Atlanta:GA,2361
+Monterrey:Mexico,Detroit:MI,1370
+Monterrey:Mexico,New Orleans:LA,1
+Montevideo:Uruguay,Miami:FL,3476
+Milan:Italy,Newark:NJ,3780
+Manizales:Colombia,New York:NY,128
+Manizales:Colombia,Miami:FL,75
+Nassau:The Bahamas,Milwaukee:WI,4
+Nassau:The Bahamas,Minneapolis:MN,20
+Guantanamo:Cuba,Fort Lauderdale:FL,72
+Tokyo:Japan,Orlando:FL,133
+Tokyo:Japan,San Diego:CA,228
+Oakland:CA,Leon/Guanajuato:Mexico,213
+Oakland:CA,Mazatlan:Mexico,5
+Oakland:CA,Zacatecas:Mexico,69
+Kahului:HI,Vancouver:Canada,7186
+Kahului:HI,Calgary:Canada,1188
+Chicago:IL,Leon/Guanajuato:Mexico,1057
+Chicago:IL,Durango:Mexico,154
+Chicago:IL,Morelia:Mexico,1685
+Chicago:IL,San Salvador:El Salvador,447
+Chicago:IL,Singapore:Singapore,1822
+Chicago:IL,Zacatecas:Mexico,630
+Paris:France,New Orleans:LA,67
+Port-au-Prince:Haiti,Fort Lauderdale:FL,7804
+Port-au-Prince:Haiti,Fayetteville:NC,35
+West Palm Beach/Palm Beach:FL,Freeport:The Bahamas,28
+Portland:OR,Frankfurt:Germany,17
+Portland:OR,San Jose del Cabo:Mexico,1218
+Beijing:China,Los Angeles:CA,7475
+Philadelphia:PA,St. Lucia:Saint Lucia,157
+Philadelphia:PA,Vancouver:Canada,88
+Philadelphia:PA,Calgary:Canada,4
+Phoenix:AZ,Mexico City:Mexico,7067
+Phoenix:AZ,San Jose:Costa Rica,1253
+Phoenix:AZ,Montreal:Canada,90
+Pittsburgh:PA,Grand Cayman:Cayman Islands,1
+Pittsburgh:PA,Ottawa:Canada,35
+Prague:Czech Republic,Atlanta:GA,1090
+Prague:Czech Republic,New York:NY,4634
+Providence:RI,St. Kitts:Saint Kitts and Nevis,10
+Puerto Vallarta:Mexico,Boston:MA,1
+Puerto Vallarta:Mexico,Baltimore:MD,14
+Puerto Vallarta:Mexico,New York:NY,153
+Raleigh/Durham:NC,London:United Kingdom,4464
+Raleigh/Durham:NC,Vancouver:Canada,20
+Reno:NV,Guadalajara:Mexico,5
+Atlanta:GA,Panama City:Panama,3822
+Bucaramanga:Colombia,New York:NY,131
+Leon/Guanajuato:Mexico,Las Vegas:NV,10
+Charlotte:NC,Grand Cayman:Cayman Islands,4188
+Charlotte:NC,Montego Bay:Jamaica,11152
+Columbus:OH,Cancun:Mexico,84
+Columbus:OH,Edmonton:Canada,6
+Culiacan:Mexico,Los Angeles:CA,5
+Cancun:Mexico,Nashville:TN,206
+Cancun:Mexico,Spokane:WA,13
+Cancun:Mexico,Seattle:WA,930
+Willemstad:Netherlands Antilles,Atlanta:GA,255
+Cincinnati:OH,Montreal:Canada,610
+Cincinnati:OH,Calgary:Canada,2
+Cayman Brac:Cayman Islands,Miami:FL,72
+Cozumel:Mexico,Minneapolis:MN,726
+Dallas:TX,Winnipeg:Canada,6
+Washington:DC,Barbados/Bridgetown:Barbados,3
+Denver:CO,Amsterdam:Netherlands,338
+Denver:CO,Caracas:Venezuela,3
+Dallas/Fort Worth:TX,Leon/Guanajuato:Mexico,3224
+Dallas/Fort Worth:TX,Ezeiza:Argentina,5933
+Dallas/Fort Worth:TX,Santiago:Chile,4774
+Dallas/Fort Worth:TX,Seoul:South Korea,3080
+Durango:Mexico,Chicago:IL,165
+Doha:Qatar,New York:NY,8176
+Marigot:Dominica,San Juan:PR,1381
+Detroit:MI,Hong Kong:Hong Kong,2669
+Detroit:MI,Monterrey:Mexico,1356
+London:United Kingdom,Las Vegas:NV,18884
+Kansas City:MO,Monterrey:Mexico,5
+Orlando:FL,Lima:Peru,66
+Memphis:TN,Monterrey:Mexico,3
+Mexico City:Mexico,Pittsburgh:PA,4
+Monteria:Colombia,New York:NY,27
+Myrtle Beach:SC,Toronto:Canada,101
+Nassau:The Bahamas,Buffalo:NY,1
+Guantanamo:Cuba,Miami:FL,5
+Oklahoma City:OK,Mexico City:Mexico,2
+Chicago:IL,San Jose del Cabo:Mexico,3307
+Dallas:TX,Guatemala City:Guatemala,23
+Detroit:MI,St. Kitts:Saint Kitts and Nevis,3
+Dusseldorf:Germany,Fort Myers:FL,3709
+Dubai:United Arab Emirates,New York:NY,19021
+Anadyr:Russia,Anchorage:AK,1
+Newark:NJ,St. Johns:Antigua and Barbuda,2380
+Newark:NJ,Bogota:Colombia,3004
+Newark:NJ,Guadalajara:Mexico,7
+Newark:NJ,Lima:Peru,3496
+Newark:NJ,Puerto Vallarta:Mexico,1242
+Newark:NJ,Moncton:Canada,1276
+Newark:NJ,Vancouver:Canada,3638
+Newark:NJ,St. John's:Canada,1442
+Ezeiza:Argentina,Dallas/Fort Worth:TX,6286
+Ezeiza:Argentina,Chicago:IL,14
+Rome:Italy,Washington:DC,5436
+Fort Lauderdale:FL,Amsterdam:Netherlands,22
+Fort Lauderdale:FL,Aruba:Aruba,431
+Fort Lauderdale:FL,London:United Kingdom,1
+Fort Lauderdale:FL,Manchester:United Kingdom,3
+Fort Lauderdale:FL,Panama City:Panama,1396
+Freeport:The Bahamas,West Palm Beach/Palm Beach:FL,28
+Frankfurt:Germany,San Diego:CA,273
+East Farmingdale:NY,Ottawa:Canada,10
+Grand Cayman:Cayman Islands,Charlotte:NC,4233
+Guadalajara:Mexico,New York:NY,384
+Guadalajara:Mexico,St. Louis:MO,9
+Georgetown:Guyana,San Juan:PR,28
+Rio de Janeiro:Brazil,Atlanta:GA,5482
+Rio de Janeiro:Brazil,San Francisco:CA,5
+Green Bay:WI,Winnipeg:Canada,7
+Sao Paulo:Brazil,Atlanta:GA,6017
+Sao Paulo:Brazil,Washington:DC,4740
+Guatemala City:Guatemala,Orlando:FL,418
+Guam:TT,Hong Kong:Hong Kong,668
+Guam:TT,Matsuyama:Japan,11
+Hiroshima:Japan,Honolulu:HI,27
+Hong Kong:Hong Kong,Detroit:MI,2794
+Hong Kong:Hong Kong,Guam:TT,724
+Hermosillo:Mexico,Los Angeles:CA,988
+Honolulu:HI,Hiroshima:Japan,50
+Honolulu:HI,Sendai:Japan,43
+Honolulu:HI,Victoria:Canada,219
+Washington:DC,Vienna:Austria,4914
+Dusseldorf:Germany,Orlando:FL,37
+Newark:NJ,Punta Cana:Dominican Republic,6712
+Newark:NJ,St. Kitts:Saint Kitts and Nevis,13
+Ezeiza:Argentina,Newark:NJ,18
+Fairbanks:AK,Tokyo:Japan,170
+Grand Cayman:Cayman Islands,Cleveland:OH,6
+Guadalajara:Mexico,Orlando:FL,72
+Guam:TT,Busan:South Korea,162
+Guam:TT,Toyama:Japan,54
+San Jose:CA,Edmonton:Canada,3
+San Jose:CA,Calgary:Canada,9
+San Jose del Cabo:Mexico,Detroit:MI,278
+Syracuse:NY,Montego Bay:Jamaica,7
+Tallahassee:FL,Toronto:Canada,1
+Tulsa:OK,Cancun:Mexico,29
+St. Lucia:Saint Lucia,Atlanta:GA,3440
+Vienna:Austria,Washington:DC,4861
+Ottawa:Canada,East Farmingdale:NY,11
+Montreal:Canada,White Plains:NY,5
+Montreal:Canada,Oklahoma City:OK,2
+Vancouver:Canada,Boston:MA,101
+Vancouver:Canada,Memphis:TN,90
+Winnipeg:Canada,Indianapolis:IN,8
+Toronto:Canada,Greer:SC,19
+Atlantic City:NJ,Nassau:The Bahamas,7
+Atlanta:GA,Tel Aviv:Israel,5339
+Hamilton:Bermuda,Miami:FL,3001
+Toyama:Japan,Guam:TT,56
+Ottawa:Canada,Bedford:MA,7
+Vancouver:Canada,St. Louis:MO,8
+Toronto:Canada,Bedford:MA,10
+Atlanta:GA,Aruba:Aruba,5845
+Atlanta:GA,St. Lucia:Saint Lucia,3374
+Burbank:CA,Toronto:Canada,1
+Charleston:SC,Toronto:Canada,1
+Charlotte:NC,Ottawa:Canada,677
+Columbus:OH,Montego Bay:Jamaica,3
+New York:NY,Hyderabad:India,813
+Montego Bay:Jamaica,Syracuse:NY,7
+Miami:FL,Moscow:Russia,66
+Madison:WI,Cancun:Mexico,1
+Matsuyama:Japan,Guam:TT,10
+Puerto Plata:Dominican Republic,Houston:TX,8
+Panama City:Panama,Atlanta:GA,3830
+Raleigh/Durham:NC,Montego Bay:Jamaica,74
+Raleigh/Durham:NC,Ottawa:Canada,10
+Roatan Island:Honduras,Miami:FL,5
+Seattle:WA,Calgary:Canada,6135
+Seoul:South Korea,Dallas/Fort Worth:TX,3325
+San Francisco:CA,Moscow:Russia,61
+Nassau:The Bahamas,Atlantic City:NJ,14
+Panama City:Panama,Newark:NJ,5055
+Panama City:Panama,Orlando:FL,8152
+Cucuta:Colombia,New York:NY,48
+Cancun:Mexico,Austin:TX,211
+Fort Lauderdale:FL,Cozumel:Mexico,2
+Fort Lauderdale:FL,Guantanamo:Cuba,67
+Fort Lauderdale:FL,Port-au-Prince:Haiti,7424
+Fort Lauderdale:FL,Vancouver:Canada,4
+Spokane:WA,Mazatlan:Mexico,6
+San Jose del Cabo:Mexico,Newark:NJ,2132
+Tel Aviv:Israel,Atlanta:GA,5680
+Quito:Ecuador,Newark:NJ,20
+Winnipeg:Canada,New York:NY,17
+Calgary:Canada,Detroit:MI,11
+Anchorage:AK,Frankfurt:Germany,829
+Atlanta:GA,Guadalajara:Mexico,4055
+Aruba:Aruba,Charlotte:NC,5481
+Hamilton:Bermuda,Washington:DC,701
+Bedford:MA,Montreal:Canada,9
+Nashville:TN,Ottawa:Canada,4
+Nashville:TN,Vancouver:Canada,4
+Cleveland:OH,Quebec:Canada,32
+Charlotte:NC,Aruba:Aruba,5578
+Charlotte:NC,Hamilton:Bermuda,750
+Copenhagen:Denmark,Atlanta:GA,3461
+Cincinnati:OH,Grand Cayman:Cayman Islands,1
+Denver:CO,Frankfurt:Germany,8036
+Dallas/Fort Worth:TX,Sao Paulo:Brazil,7092
+Detroit:MI,Halifax:Canada,1065
+Detroit:MI,Ottawa:Canada,3000
+Dusseldorf:Germany,Tampa:FL,10
+Newark:NJ,Panama City:Panama,4388
+Newark:NJ,San Salvador:El Salvador,626
+Newark:NJ,Quito:Ecuador,36
+Newark:NJ,Hamilton:Canada,9
+Fort Lauderdale:FL,St. Kitts:Saint Kitts and Nevis,4
+Frankfurt:Germany,Anchorage:AK,821
+Grand Rapids:MI,Edmonton:Canada,5
+Sao Paulo:Brazil,Dallas/Fort Worth:TX,7478
+Sao Paulo:Brazil,San Francisco:CA,90
+Guatemala City:Guatemala,Nashville:TN,5
+Washington:DC,San Pedro Sula:Honduras,33
+Washington:DC,Philipsburg:Netherlands Antilles,406
+New York:NY,Tashkent:Uzbekistan,575
+Las Vegas:NV,San Jose del Cabo:Mexico,195
+Kansas City:MO,Vancouver:Canada,6
+Kansas City:MO,Calgary:Canada,4
+Orlando:FL,Bristol:United Kingdom,141
+Beijing:China,Anchorage:AK,1
+Punta Cana:Dominican Republic,Newark:NJ,6617
+Santo Domingo:Dominican Republic,Ponce:PR,18
+St. Kitts:Saint Kitts and Nevis,Newark:NJ,13
+Santa Marta:Colombia,New York:NY,54
+Saipan:TT,Niigata:Japan,12
+Houston:TX,Puerto Plata:Dominican Republic,9
+Indianapolis:IN,Edmonton:Canada,14
+Jacksonville:FL,Vancouver:Canada,1
+Kansas City:MO,Puerto Vallarta:Mexico,269
+Mexico City:Mexico,Minneapolis:MN,90
+Newark:NJ,Milan:Italy,3812
+Newark:NJ,Porto:Portugal,2096
+Fort Lauderdale:FL,Kingston:Jamaica,10631
+Sioux Falls:SD,Montreal:Canada,1
+Guadalajara:Mexico,Albuquerque:NM,1
+Washington:DC,Aruba:Aruba,1201
+New York:NY,Edmonton:Canada,4
+New York:NY,Halifax:Canada,2529
+Baltimore:MD,Guatemala City:Guatemala,8
+Cleveland:OH,Winnipeg:Canada,2
+Cancun:Mexico,Brownsville:TX,1
+Washington:DC,Manila:Philippines,72
+Orlando:FL,Santo Domingo:Dominican Republic,3622
+Mexico City:Mexico,Kansas City:MO,16
+Guantanamo:Cuba,Jacksonville:FL,29
+Jacksonville:FL,Guantanamo:Cuba,24
+Chicago:IL,Providenciales:Turks and Caicos Islands,8
+Chicago:IL,Ottawa:Canada,8082
+Philadelphia:PA,Philipsburg:Netherlands Antilles,1482
+Puerto Vallarta:Mexico,New Orleans:LA,1
+Puerto Vallarta:Mexico,Portland:OR,127
+Roanoke:VA,Ottawa:Canada,2
+San Salvador:El Salvador,Dallas/Fort Worth:TX,2176
+San Jose:CA,Morelia:Mexico,546
+San Jose del Cabo:Mexico,Las Vegas:NV,10
+St. Louis:MO,Edmonton:Canada,7
+Edmonton:Canada,Newark:NJ,3
+Edmonton:Canada,St. Louis:MO,9
+Halifax:Canada,Detroit:MI,1069
+Ottawa:Canada,Chicago:IL,7003
+Regina:Canada,Des Moines:IA,1
+Montreal:Canada,San Francisco:CA,1296
+Vancouver:Canada,Atlanta:GA,532
+Vancouver:Canada,Philadelphia:PA,17
+Winnipeg:Canada,Nashville:TN,4
+Winnipeg:Canada,Philadelphia:PA,4
+Calgary:Canada,Austin:TX,10
+Calgary:Canada,San Jose:CA,3
+Calgary:Canada,Tucson:AZ,2
+Amman:Jordan,Detroit:MI,1099
+Amsterdam:Netherlands,Memphis:TN,5137
+Anchorage:AK,Petropavlovsk-Kamchatsky:Russia,3
+Anchorage:AK,Toronto:Canada,2
+Atlanta:GA,San Salvador:El Salvador,3315
+Atlanta:GA,St. Kitts:Saint Kitts and Nevis,353
+Boston:MA,Calgary:Canada,40
+Columbia:SC,Nassau:The Bahamas,6
+Cleveland:OH,London:United Kingdom,213
+Denver:CO,Saskatoon:Canada,2421
+Dallas/Fort Worth:TX,Providenciales:Turks and Caicos Islands,318
+Detroit:MI,Amman:Jordan,1153
+New York:NY,Tegucigalpa:Honduras,18
+Lima:Peru,Washington:DC,146
+La Romana:Dominican Republic,Miami:FL,819
+Madrid:Spain,Orlando:FL,90
+Manchester:United Kingdom,Newark:NJ,8292
+Kansas City:MO,Edmonton:Canada,3
+Orlando:FL,Madrid:Spain,104
+Orlando:FL,Port of Spain:Trinidad and Tobago,29
+Orlando:FL,San Pedro Sula:Honduras,11
+Memphis:TN,Amsterdam:Netherlands,5137
+Miami:FL,La Romana:Dominican Republic,773
+Minneapolis:MN,Nassau:The Bahamas,21
+New Orleans:LA,Hamilton:Bermuda,2
+Myrtle Beach:SC,Nassau:The Bahamas,95
+Memphis:TN,Calgary:Canada,3
+Mexico City:Mexico,Nashville:TN,5
+Nassau:The Bahamas,Columbia:SC,13
+Halifax:Canada,New York:NY,2468
+Ottawa:Canada,Fort Wayne:IN,1
+Ottawa:Canada,Minneapolis:MN,5
+Saskatoon:Canada,Denver:CO,2363
+Calgary:Canada,Baltimore:MD,8
+Calgary:Canada,Memphis:TN,5
+Calgary:Canada,St. Louis:MO,10
+Toronto:Canada,Oakland:CA,4
+Toronto:Canada,San Antonio:TX,3
+St. Louis:MO,Mexico City:Mexico,4
+Tashkent:Uzbekistan,New York:NY,772
+Tucson:AZ,Vancouver:Canada,1
+Edmonton:Canada,Oakland:CA,4
+Thunder Bay:Canada,Minneapolis:MN,635
+Winnipeg:Canada,Pittsburgh:PA,1
+Anchorage:AK,Fukuoka:Japan,20
+Atlanta:GA,Athens:Greece,2573
+Boston:MA,Guadalajara:Mexico,13
+Caracas:Venezuela,Philadelphia:PA,10
+Portland:OR,Calgary:Canada,926
+Petropavlovsk-Kamchatsky:Russia,Anchorage:AK,4
+Providenciales:Turks and Caicos Islands,Dallas/Fort Worth:TX,297
+Fayetteville:NC,Port-au-Prince:Haiti,27
+Port of Spain:Trinidad and Tobago,Newark:NJ,1417
+Puerto Vallarta:Mexico,Spokane:WA,1
+Puerto Vallarta:Mexico,Las Vegas:NV,168
+Raleigh/Durham:NC,San Salvador:El Salvador,5
+San Pedro Sula:Honduras,Atlanta:GA,2397
+San Jose:CA,Puerto Vallarta:Mexico,3
+St. Kitts:Saint Kitts and Nevis,Atlanta:GA,386
+Sacramento:CA,Cancun:Mexico,2
+St. Louis:MO,Ottawa:Canada,4
+Oakland:CA,San Jose del Cabo:Mexico,10
+Oklahoma City:OK,Montreal:Canada,3
+Porto:Portugal,Newark:NJ,2115
+Philadelphia:PA,Caracas:Venezuela,22
+Puerto Plata:Dominican Republic,Atlanta:GA,895
+Busan:South Korea,Guam:TT,159
+Nassau:The Bahamas,Myrtle Beach:SC,98
+Port of Spain:Trinidad and Tobago,Orlando:FL,21
+Cucuta:Colombia,Miami:FL,138
+Dallas/Fort Worth:TX,Caracas:Venezuela,532
+Newark:NJ,Manchester:United Kingdom,8249
+Hyderabad:India,New York:NY,801
+Santa Marta:Colombia,Miami:FL,18
+Tijuana:Mexico,Los Angeles:CA,22
+Regina:Canada,Denver:CO,2087
+Vancouver:Canada,Buffalo:NY,36
+Atlanta:GA,Puerto Vallarta:Mexico,1644
+Bedford:MA,Ottawa:Canada,7
+Nashville:TN,Winnipeg:Canada,1
+Boston:MA,Hong Kong:Hong Kong,139
+Denver:CO,Regina:Canada,2136
+Fukuoka:Japan,Anchorage:AK,45
+Kansas City:MO,Winnipeg:Canada,6
+Mexico City:Mexico,St. Louis:MO,4
+Akron:OH,Toronto:Canada,2
+Caracas:Venezuela,Newark:NJ,56
+Charleston:SC,Hamilton:Bermuda,8
+Monterrey:Mexico,Louisville:KY,3
+Nassau:The Bahamas,San Antonio:TX,11
+Puerto Vallarta:Mexico,Washington:DC,1
+Louisville:KY,Cancun:Mexico,48
+Hong Kong:Hong Kong,Boston:MA,123
+Washington:DC,Hamilton:Bermuda,635
+Jacksonville:FL,Guadalajara:Mexico,1
+Las Vegas:NV,Culiacan:Mexico,13
+Montego Bay:Jamaica,Bangor:ME,14
+Culiacan:Mexico,Las Vegas:NV,13
+Grand Rapids:MI,Calgary:Canada,8
+Liberia:Costa Rica,Miami:FL,3424
+Miami:FL,Liberia:Costa Rica,3130
+Morelia:Mexico,San Jose:CA,537
+Kahului:HI,Edmonton:Canada,76
+Oklahoma City:OK,Monterrey:Mexico,1
+Denver:CO,Winnipeg:Canada,4430
+El Paso:TX,Calgary:Canada,7
+Newark:NJ,Belfast:United Kingdom,3856
+Indianapolis:IN,Punta Cana:Dominican Republic,11
+Chicago:IL,St. Lucia:Saint Lucia,12
+Portland:OR,Mazatlan:Mexico,23
+Phoenix:AZ,Ixtapa/Zihuatanejo:Mexico,834
+Punta Cana:Dominican Republic,Indianapolis:IN,11
+Richmond:VA,Montreal:Canada,2
+Fort Myers:FL,Frankfurt:Germany,15
+San Juan:PR,Marigot:Dominica,1370
+Tel Aviv:Israel,Camp Springs:MD,12
+Washington:DC,Kingston:Jamaica,12
+Washington:DC,Montego Bay:Jamaica,267
+Denver:CO,Guadalajara:Mexico,28
+Dallas/Fort Worth:TX,Belize City:Belize,2796
+Detroit:MI,Providenciales:Turks and Caicos Islands,22
+Newark:NJ,Dusseldorf:Germany,5295
+East Farmingdale:NY,Montreal:Canada,7
+Guadalajara:Mexico,Denver:CO,29
+Guadalajara:Mexico,Tucson:AZ,4
+Sao Paulo:Brazil,Chicago:IL,5436
+Guatemala City:Guatemala,Atlanta:GA,4631
+Washington:DC,Grenada:Grenada,5
+Washington:DC,Calgary:Canada,42
+Edmonton:Canada,Denver:CO,5511
+Edmonton:Canada,Kahului:HI,63
+Edmonton:Canada,Raleigh/Durham:NC,1
+Montreal:Canada,East Farmingdale:NY,12
+Montreal:Canada,Greensboro/High Point:NC,2
+Montreal:Canada,Richmond:VA,12
+Winnipeg:Canada,White Plains:NY,1
+Saskatoon:Canada,Chicago:IL,622
+Calgary:Canada,Boston:MA,1
+Albuquerque:NM,Mexico City:Mexico,1
+Albuquerque:NM,San Jose del Cabo:Mexico,41
+Athens:Greece,Atlanta:GA,2572
+Austin:TX,Cancun:Mexico,211
+Hartford:CT,Santo Domingo:Dominican Republic,5
+Bedford:MA,Toronto:Canada,20
+Columbus:OH,Winnipeg:Canada,1
+Venice:Italy,San Francisco:CA,1
+Ottawa:Canada,Tampa:FL,609
+Vancouver:Canada,Pittsburgh:PA,4
+Nagoya:Japan,Los Angeles:CA,325
+Puerto Vallarta:Mexico,Milwaukee:WI,299
+Santa Ana:CA,Edmonton:Canada,8
+Montreal:Canada,Madison:WI,3
+Vancouver:Canada,Lihue:HI,485
+East Farmingdale:NY,Toronto:Canada,3
+White Plains:NY,Toronto:Canada,140
+Toronto:Canada,East Farmingdale:NY,4
+Toronto:Canada,White Plains:NY,144
+Camp Springs:MD,Tel Aviv:Israel,15
+Belfast:United Kingdom,Newark:NJ,3745
+Lihue:HI,Vancouver:Canada,417
+Milwaukee:WI,Puerto Vallarta:Mexico,227
+Addis Ababa:Ethiopia,Washington:DC,5229
+Auckland:New Zealand,New York:NY,421
+Amsterdam:Netherlands,Cincinnati:OH,22
+Apia:Samoa,Los Angeles:CA,1029
+Atlanta:GA,Belize City:Belize,1480
+Atlanta:GA,Ezeiza:Argentina,5457
+Atlanta:GA,Guatemala City:Guatemala,4152
+Atlanta:GA,Istanbul:Turkey,56
+Atlanta:GA,Lima:Peru,5730
+Atlanta:GA,Milan:Italy,3103
+Atlanta:GA,Nice:France,17
+Atlanta:GA,Providenciales:Turks and Caicos Islands,1897
+Austin:TX,Calgary:Canada,20
+Scranton/Wilkes-Barre:PA,Freeport:The Bahamas,1
+Belfast:United Kingdom,Sanford:FL,186
+Birmingham:United Kingdom,Newark:NJ,4208
+Birmingham:United Kingdom,Sanford:FL,487
+Leon/Guanajuato:Mexico,San Jose:CA,105
+Bangkok:Thailand,Denver:CO,5
+Bogota:Colombia,Orlando:FL,3393
+Boise:ID,Cancun:Mexico,17
+Mumbai:India,Atlanta:GA,180
+Mumbai:India,Newark:NJ,9198
+Mumbai:India,New York:NY,3997
+Mumbai:India,Chicago:IL,3132
+Bonaire:Netherlands Antilles,Newark:NJ,288
+Boston:MA,Rio de Janeiro:Brazil,48
+Boston:MA,Sao Paulo:Brazil,364
+Boston:MA,Keflavik/Reykjavik:Iceland,5012
+Boston:MA,Lima:Peru,25
+Boston:MA,Punta Cana:Dominican Republic,1334
+Boston:MA,Seoul:South Korea,59
+Boston:MA,Singapore:Singapore,1
+Baltimore:MD,Caracas:Venezuela,14
+Baltimore:MD,Punta Cana:Dominican Republic,738
+Guangzhou:China,Los Angeles:CA,3956
+Caracas:Venezuela,Atlanta:GA,4122
+Caracas:Venezuela,Dallas/Fort Worth:TX,596
+Paris:France,Charlotte:NC,3524
+Paris:France,Pittsburgh:PA,1922
+Cleveland:OH,Punta Cana:Dominican Republic,805
+Charlotte:NC,Philipsburg:Netherlands Antilles,3586
+Cairns:Australia,Guam:TT,1439
+Chihuahua:Mexico,Houston:TX,905
+Cincinnati:OH,Punta Cana:Dominican Republic,742
+Cincinnati:OH,Toronto:Canada,3304
+Cozumel:Mexico,Newark:NJ,141
+Delhi:India,Washington:DC,239
+Delhi:India,Chicago:IL,7169
+Dallas/Fort Worth:TX,Osaka:Japan,18
+Dallas/Fort Worth:TX,Lima:Peru,55
+Detroit:MI,Sao Paulo:Brazil,448
+Detroit:MI,Liberia:Costa Rica,12
+Detroit:MI,Manila:Philippines,4774
+Detroit:MI,Milan:Italy,23
+Detroit:MI,Nagoya:Japan,3215
+Detroit:MI,Punta Cana:Dominican Republic,722
+Detroit:MI,San Jose del Cabo:Mexico,321
+Detroit:MI,London:Canada,1909
+Dublin:Ireland,Newark:NJ,7343
+Dublin:Ireland,Los Angeles:CA,9
+Dusseldorf:Germany,Newark:NJ,5421
+Chicago:IL,Sydney:Australia,728
+Beijing:China,Newark:NJ,6830
+Beijing:China,Chicago:IL,10209
+Philadelphia:PA,Rome:Italy,6702
+Philadelphia:PA,Madrid:Spain,6465
+Philadelphia:PA,Manchester:United Kingdom,6802
+Philadelphia:PA,Munich:Germany,5657
+Philadelphia:PA,Punta Cana:Dominican Republic,4304
+Phoenix:AZ,Acapulco:Mexico,434
+Phoenix:AZ,Amsterdam:Netherlands,79
+Peoria:IL,Toronto:Canada,4
+Pittsburgh:PA,Paris:France,2043
+Pittsburgh:PA,Punta Cana:Dominican Republic,772
+Providenciales:Turks and Caicos Islands,Atlanta:GA,1941
+Popayan:Colombia,New York:NY,5
+Popayan:Colombia,Miami:FL,2
+Punta Cana:Dominican Republic,Baltimore:MD,731
+Punta Cana:Dominican Republic,Cleveland:OH,809
+Punta Cana:Dominican Republic,Cincinnati:OH,704
+Punta Cana:Dominican Republic,Detroit:MI,718
+Punta Cana:Dominican Republic,Orlando:FL,22
+Punta Cana:Dominican Republic,Minneapolis:MN,341
+Punta Cana:Dominican Republic,Chicago:IL,1890
+Punta Cana:Dominican Republic,Philadelphia:PA,4383
+Punta Cana:Dominican Republic,Pittsburgh:PA,773
+Punta Cana:Dominican Republic,St. Louis:MO,876
+Shanghai:China,Newark:NJ,6996
+Puerto Vallarta:Mexico,Kansas City:MO,267
+Raleigh/Durham:NC,Guadalajara:Mexico,1
+San Salvador:El Salvador,Atlanta:GA,3510
+San Salvador:El Salvador,Newark:NJ,618
+San Salvador:El Salvador,Orlando:FL,923
+San Diego:CA,Amsterdam:Netherlands,25
+San Antonio:TX,San Pedro Sula:Honduras,93
+Santo Domingo:Dominican Republic,Fort Lauderdale:FL,9108
+Seattle:WA,Kelowna:Canada,4123
+Seoul:South Korea,Boston:MA,33
+Sanford:FL,Birmingham:United Kingdom,606
+Sanford:FL,Cardiff:United Kingdom,42
+Sanford:FL,Glasgow:United Kingdom,1714
+Sanford:FL,London:United Kingdom,4608
+Sanford:FL,Manchester:United Kingdom,5297
+Sanford:FL,Newcastle:United Kingdom,397
+San Francisco:CA,Ezeiza:Argentina,26
+San Francisco:CA,Lima:Peru,1479
+San Francisco:CA,Madrid:Spain,14
+Singapore:Singapore,Boston:MA,1
+Singapore:Singapore,Newark:NJ,2060
+San Jose:CA,Leon/Guanajuato:Mexico,69
+San Jose:CA,San Jose del Cabo:Mexico,90
+San Jose del Cabo:Mexico,Chicago:IL,3314
+San Jose del Cabo:Mexico,San Jose:CA,73
+San Juan:PR,Santiago:Dominican Republic,724
+St. Kitts:Saint Kitts and Nevis,Charlotte Amalie:VI,9
+Salt Lake City:UT,Guadalajara:Mexico,1407
+Saltillo:Mexico,Houston:TX,675
+Shannon:Ireland,Newark:NJ,5050
+Saipan:TT,Busan:South Korea,1524
+Santiago:Dominican Republic,San Juan:PR,806
+Columbus:OH,Vancouver:Canada,5
+Washington:DC,Belize City:Belize,20
+Washington:DC,Grand Cayman:Cayman Islands,25
+Newark:NJ,Birmingham:United Kingdom,4105
+Newark:NJ,Mumbai:India,9064
+Newark:NJ,Mulhouse:France,5
+Newark:NJ,Belize City:Belize,242
+Newark:NJ,Caracas:Venezuela,69
+Newark:NJ,Cozumel:Mexico,141
+Newark:NJ,Dublin:Ireland,7521
+Newark:NJ,Sao Paulo:Brazil,4190
+Newark:NJ,Krakow:Poland,222
+Newark:NJ,Munich:Germany,10981
+Newark:NJ,Beijing:China,6908
+Newark:NJ,Shanghai:China,6738
+Newark:NJ,Santiago:Chile,17
+Newark:NJ,Singapore:Singapore,2306
+Newark:NJ,Shannon:Ireland,5073
+Ezeiza:Argentina,Atlanta:GA,5613
+Ezeiza:Argentina,San Francisco:CA,32
+Rome:Italy,Orlando:FL,70
+Rome:Italy,Philadelphia:PA,6849
+Fort Lauderdale:FL,Philipsburg:Netherlands Antilles,362
+Frankfurt:Germany,Las Vegas:NV,2150
+Grand Cayman:Cayman Islands,Washington:DC,76
+Guadalajara:Mexico,Atlanta:GA,4164
+Guadalajara:Mexico,Oakland:CA,8170
+Moss Town:The Bahamas,Miami:FL,996
+Rio de Janeiro:Brazil,Boston:MA,40
+Glasgow:United Kingdom,Sanford:FL,1671
+Sao Paulo:Brazil,Boston:MA,424
+Sao Paulo:Brazil,Detroit:MI,405
+Sao Paulo:Brazil,Houston:TX,4217
+Guam:TT,Cairns:Australia,1409
+Guayaquil:Ecuador,Atlanta:GA,1351
+Hong Kong:Hong Kong,Washington:DC,157
+Hermosillo:Mexico,Phoenix:AZ,1542
+Honolulu:HI,Niigata:Japan,34
+Holguin:Cuba,Miami:FL,1653
+Houston:TX,Lima:Peru,4726
+Miami:FL,Santa Marta:Colombia,24
+Miami:FL,San Salvador:The Bahamas,29
+Merida:Mexico,Orlando:FL,33
+Milwaukee:WI,Ixtapa/Zihuatanejo:Mexico,76
+Manila:Philippines,Detroit:MI,5319
+Minneapolis:MN,Keflavik/Reykjavik:Iceland,1318
+Minneapolis:MN,Thunder Bay:Canada,656
+Monterrey:Mexico,Phoenix:AZ,4
+Munich:Germany,Newark:NJ,10982
+Munich:Germany,Washington:DC,10322
+Munich:Germany,Philadelphia:PA,6069
+Nassau:The Bahamas,Knoxville:TN,8
+Newcastle:United Kingdom,Sanford:FL,336
+Nagoya:Japan,Detroit:MI,3196
+Tokyo:Japan,Kona:HI,4708
+Oakland:CA,Guadalajara:Mexico,7852
+Oakland:CA,Mexico City:Mexico,15
+Oakland:CA,Morelia:Mexico,11
+Chicago:IL,Mumbai:India,2623
+Chicago:IL,Delhi:India,7240
+Chicago:IL,Istanbul:Turkey,6336
+Chicago:IL,Osaka:Japan,212
+Chicago:IL,Krakow:Poland,1939
+Chicago:IL,Beijing:China,9756
+Chicago:IL,Punta Cana:Dominican Republic,1924
+Philadelphia:PA,Providenciales:Turks and Caicos Islands,438
+Providenciales:Turks and Caicos Islands,Philadelphia:PA,428
+Punta Cana:Dominican Republic,Sanford:FL,14
+New York:NY,Calgary:Canada,80
+London:United Kingdom,Sanford:FL,4417
+Lima:Peru,Atlanta:GA,5875
+Lima:Peru,Boston:MA,15
+Lima:Peru,Houston:TX,4600
+Lima:Peru,San Francisco:CA,1508
+Liberia:Costa Rica,Chicago:IL,163
+Madrid:Spain,Cincinnati:OH,12
+Madrid:Spain,Houston:TX,274
+Madrid:Spain,Philadelphia:PA,6486
+Madrid:Spain,San Francisco:CA,19
+Manchester:United Kingdom,Philadelphia:PA,6938
+Manchester:United Kingdom,Sanford:FL,5492
+Montego Bay:Jamaica,Memphis:TN,1451
+Orlando:FL,Rome:Italy,62
+Orlando:FL,Guatemala City:Guatemala,411
+Orlando:FL,Port-au-Prince:Haiti,11
+Melbourne:Australia,New York:NY,989
+Memphis:TN,Montego Bay:Jamaica,1371
+Mexico City:Mexico,Oakland:CA,21
+Manchester:NH,Nassau:The Bahamas,3
+Miami:FL,Cucuta:Colombia,138
+Miami:FL,Cayman Brac:Cayman Islands,139
+Miami:FL,Moss Town:The Bahamas,1023
+Miami:FL,Holguin:Cuba,1517
+Miami:FL,Monteria:Colombia,32
+Madison:WI,Mexico City:Mexico,1
+Munich:Germany,Charlotte:NC,5969
+San Antonio:TX,Tokyo:Japan,84
+Santo Domingo:Dominican Republic,Baltimore:MD,145
+San Jose:CA,Mazatlan:Mexico,5
+St. Louis:MO,Punta Cana:Dominican Republic,883
+Philipsburg:Netherlands Antilles,Charlotte:NC,3627
+Sydney:Australia,New York:NY,3225
+Sydney:Australia,Chicago:IL,776
+Tampico:Mexico,Houston:TX,1151
+Tampa:FL,Guatemala City:Guatemala,33
+Tampa:FL,Ottawa:Canada,611
+Torreon:Mexico,Houston:TX,1003
+St. Lucia:Saint Lucia,St. Louis:MO,6
+Villahermosa:Mexico,Houston:TX,1197
+Kelowna:Canada,Seattle:WA,3915
+Vancouver:Canada,Charlotte:NC,73
+Winnipeg:Canada,Denver:CO,4325
+London:Canada,Detroit:MI,1922
+Calgary:Canada,Grand Rapids:MI,6
+Toronto:Canada,Cedar Rapids/Iowa City:IA,3
+Toronto:Canada,Fargo:ND,1
+Toronto:Canada,Melbourne:FL,6
+Toronto:Canada,Madison:WI,3
+Ixtapa/Zihuatanejo:Mexico,Milwaukee:WI,74
+San Salvador:The Bahamas,Miami:FL,24
+San Andres Island:Colombia,New York:NY,29
+Atlanta:GA,Johannesburg:South Africa,7711
+Rome:Italy,Pittsburgh:PA,24
+Washington:DC,Addis Ababa:Ethiopia,4816
+Washington:DC,Delhi:India,176
+Houston:TX,Chihuahua:Mexico,872
+Houston:TX,Rome:Italy,65
+Houston:TX,Sao Paulo:Brazil,4202
+Houston:TX,Madrid:Spain,552
+Houston:TX,Saltillo:Mexico,685
+Houston:TX,Tampico:Mexico,1140
+Houston:TX,Villahermosa:Mexico,1213
+Istanbul:Turkey,Chicago:IL,6490
+New York:NY,Auckland:New Zealand,316
+New York:NY,Mumbai:India,3855
+New York:NY,Melbourne:Australia,998
+New York:NY,Sydney:Australia,3325
+Johannesburg:South Africa,Atlanta:GA,7882
+Keflavik/Reykjavik:Iceland,Boston:MA,4399
+Keflavik/Reykjavik:Iceland,Minneapolis:MN,1270
+Niigata:Japan,Honolulu:HI,34
+Osaka:Japan,Chicago:IL,245
+Kona:HI,Tokyo:Japan,4228
+Krakow:Poland,Newark:NJ,203
+Krakow:Poland,New York:NY,28
+Krakow:Poland,Chicago:IL,1820
+Las Vegas:NV,Amsterdam:Netherlands,11
+Las Vegas:NV,Frankfurt:Germany,2192
+Las Vegas:NV,London:United Kingdom,18399
+Los Angeles:CA,Apia:Samoa,1004
+Los Angeles:CA,Barranquilla:Colombia,46
+Los Angeles:CA,Bucaramanga:Colombia,54
+Los Angeles:CA,Guangzhou:China,3895
+Los Angeles:CA,Cartagena:Colombia,52
+Los Angeles:CA,Dublin:Ireland,41
+Los Angeles:CA,Medellin:Colombia,192
+Los Angeles:CA,Pereira:Colombia,64
+Barcelona:Spain,San Juan:PR,156
+Hamilton:Bermuda,Jacksonville:FL,2
+Hartford:CT,Montego Bay:Jamaica,6
+Buffalo:NY,Montego Bay:Jamaica,2
+Charleston:SC,Nassau:The Bahamas,3
+Cozumel:Mexico,Memphis:TN,78
+Dallas/Fort Worth:TX,Liberia:Costa Rica,885
+Dallas/Fort Worth:TX,San Salvador:El Salvador,2242
+Grand Forks:ND,Toronto:Canada,1
+Washington:DC,Guadalajara:Mexico,3
+Houston:TX,San Luis Potosi:Mexico,1272
+Lansing:MI,Montreal:Canada,1
+Teterboro:NJ,Toronto:Canada,18
+Tampa:FL,St. Lucia:Saint Lucia,5
+Halifax:Canada,Fort Lauderdale:FL,138
+Acapulco:Mexico,Sacramento:CA,24
+St. Johns:Antigua and Barbuda,Dallas/Fort Worth:TX,6
+Barcelona:Spain,Miami:FL,610
+Boston:MA,Panama City:Panama,46
+Brussels:Belgium,Las Vegas:NV,31
+Brussels:Belgium,San Francisco:CA,271
+Charlotte:NC,Paris:France,3655
+Liberia:Costa Rica,Dallas/Fort Worth:TX,941
+Montego Bay:Jamaica,Rochester:NY,1
+Mexico City:Mexico,Ontario:CA,21
+Chicago:IL,Liberia:Costa Rica,149
+Miami:FL,Manizales:Colombia,85
+Miami:FL,Pasto:Colombia,15
+Omaha:NE,Montreal:Canada,1
+Philadelphia:PA,Amsterdam:Netherlands,3516
+Philadelphia:PA,Guatemala City:Guatemala,11
+Puerto Vallarta:Mexico,Oakland:CA,14
+San Pedro Sula:Honduras,Philadelphia:PA,5
+South Bend:IN,Toronto:Canada,2
+Sanford:FL,Belfast:United Kingdom,192
+San Juan:PR,Barcelona:Spain,130
+San Luis Potosi:Mexico,Houston:TX,1291
+Veracruz:Mexico,Orlando:FL,9
+Calgary:Canada,Washington:DC,61
+Toronto:Canada,Valparaiso:FL,5
+Raleigh/Durham:NC,Edmonton:Canada,5
+Atlanta:GA,Liberia:Costa Rica,4213
+Columbus:OH,Ottawa:Canada,4
+Camaguey:Cuba,Miami:FL,1494
+Cozumel:Mexico,San Antonio:TX,8
+Washington:DC,Nagoya:Japan,16
+Dallas/Fort Worth:TX,Amsterdam:Netherlands,3547
+Dallas/Fort Worth:TX,Rio de Janeiro:Brazil,87
+Los Angeles:CA,Nassau:The Bahamas,1
+Liberia:Costa Rica,Atlanta:GA,4499
+Orlando:FL,Dublin:Ireland,3289
+Orlando:FL,Shannon:Ireland,2
+Mexico City:Mexico,Birmingham:AL,2
+Managua:Nicaragua,Newark:NJ,27
+Manchester:NH,Toronto:Canada,289
+Miami:FL,Camaguey:Cuba,1432
+Miami:FL,Santiago:Cuba,742
+Nassau:The Bahamas,Greer:SC,11
+Oakland:CA,Puerto Vallarta:Mexico,24
+Dublin:Ireland,Orlando:FL,3342
+Fort Lauderdale:FL,Halifax:Canada,144
+Rio de Janeiro:Brazil,Dallas/Fort Worth:TX,121
+Omaha:NE,Vancouver:Canada,2
+Puebla:Mexico,Houston:TX,1279
+Busan:South Korea,Saipan:TT,1252
+San Antonio:TX,Cozumel:Mexico,7
+Santiago:Cuba,Miami:FL,773
+Santo Domingo:Dominican Republic,Atlanta:GA,2765
+Sanford:FL,Derby:United Kingdom,572
+San Jose del Cabo:Mexico,Albuquerque:NM,3
+Moscow:Russia,Atlanta:GA,2009
+Tampa:FL,Panama City:Panama,45
+Knoxville:TN,Nassau:The Bahamas,4
+Valledupar:Colombia,Miami:FL,15
+Winnipeg:Canada,Houston:TX,5
+Calgary:Canada,Pittsburgh:PA,9
+Ixtapa/Zihuatanejo:Mexico,Oakland:CA,49
+Belize City:Belize,Atlanta:GA,1517
+Charlotte:NC,Liberia:Costa Rica,342
+Columbus:OH,Calgary:Canada,3
+Duluth:MN,Montreal:Canada,1
+Detroit:MI,Belize City:Belize,12
+Dublin:Ireland,Sanford:FL,23
+Edinburgh:United Kingdom,Orlando:FL,285
+Detroit:MI,Madrid:Spain,26
+Derby:United Kingdom,Sanford:FL,561
+Greer:SC,Toronto:Canada,2
+Houston:TX,Puebla:Mexico,1310
+Las Vegas:NV,Brussels:Belgium,34
+Las Vegas:NV,Paris:France,1074
+Grand Cayman:Cayman Islands,Boston:MA,156
+Glasgow:United Kingdom,Las Vegas:NV,27
+Houston:TX,Aguascalientes:Mexico,1181
+Indianapolis:IN,Monterrey:Mexico,13
+Liberia:Costa Rica,Charlotte:NC,352
+Puerto Vallarta:Mexico,Sacramento:CA,7
+San Pedro Sula:Honduras,Newark:NJ,535
+Sanford:FL,Gander:Canada,15
+San Jose del Cabo:Mexico,San Antonio:TX,50
+Edmonton:Canada,Columbus:OH,10
+Montreal:Canada,Myrtle Beach:SC,1
+Winnipeg:Canada,Boston:MA,2
+Calgary:Canada,Omaha:NE,5
+Toronto:Canada,Allentown/Bethlehem/Easton:PA,174
+Toronto:Canada,Sioux Falls:SD,5
+Toronto:Canada,Portland:ME,408
+Alexandria:LA,Kingston:Jamaica,45
+Aguascalientes:Mexico,Houston:TX,1204
+Atlanta:GA,San Pedro Sula:Honduras,2357
+Bismarck/Mandan:ND,Toronto:Canada,3
+Leon/Guanajuato:Mexico,Orlando:FL,24
+Nashville:TN,Liberia:Costa Rica,1
+Boston:MA,Grand Cayman:Cayman Islands,155
+Charlotte:NC,Manchester:United Kingdom,89
+Jeddah:Saudi Arabia,Boston:MA,1
+Orlando:FL,Veracruz:Mexico,12
+Miami:FL,Barcelona:Spain,617
+Monterrey:Mexico,Richmond:VA,1
+Munich:Germany,Denver:CO,254
+Nassau:The Bahamas,Oklahoma City:OK,12
+Phoenix:AZ,Montego Bay:Jamaica,822
+Fort Myers:FL,Zurich:Switzerland,2
+Dallas:TX,Montreal:Canada,4
+Fort Lauderdale:FL,Guatemala City:Guatemala,2250
+Fort Lauderdale:FL,San Jose:Costa Rica,5041
+Houston:TX,Ottawa:Canada,1
+Villahermosa:Mexico,Orlando:FL,15
+Quebec:Canada,Birmingham:AL,1
+Toronto:Canada,Fort Wayne:IN,2
+Toronto:Canada,Harrisburg:PA,336
+Shanghai:China,Honolulu:HI,67
+San Salvador:El Salvador,Alexandria:LA,8
+Edmonton:Canada,Grand Rapids:MI,4
+Edmonton:Canada,Memphis:TN,2
+Toronto:Canada,Bismarck/Mandan:ND,1
+Dallas:TX,Toronto:Canada,5
+Fresno:CA,Mexico City:Mexico,7
+Kingston:Jamaica,Alexandria:LA,5
+Las Vegas:NV,Glasgow:United Kingdom,41
+Orlando:FL,Leon/Guanajuato:Mexico,30
+Orlando:FL,Edinburgh:United Kingdom,216
+Orlando:FL,Villahermosa:Mexico,23
+Memphis:TN,Vancouver:Canada,77
+Montreal:Canada,Lansing:MI,1
+Saskatoon:Canada,Pittsburgh:PA,1
+Aruba:Aruba,Washington:DC,1203
+Bogota:Colombia,Fort Lauderdale:FL,9819
+Mumbai:India,Detroit:MI,267
+Buffalo:NY,Nassau:The Bahamas,10
+Cancun:Mexico,Oakland:CA,37
+Atlanta:GA,Punta Cana:Dominican Republic,4200
+Manchester:United Kingdom,Charlotte:NC,48
+Mazatlan:Mexico,San Jose:CA,3
+Memphis:TN,Winnipeg:Canada,11
+Madison:WI,Edmonton:Canada,1
+Miami:FL,Varadero:Cuba,10
+Munich:Germany,Detroit:MI,14
+Phoenix:AZ,Guatemala City:Guatemala,460
+Punta Cana:Dominican Republic,Atlanta:GA,4318
+Guadalajara:Mexico,Ontario:CA,535
+Bullhead City:AZ,Edmonton:Canada,11
+Bullhead City:AZ,Calgary:Canada,21
+New York:NY,Bournemouth:United Kingdom,19
+Barbados/Bridgetown:Barbados,Dallas/Fort Worth:TX,95
+Bournemouth:United Kingdom,New York:NY,19
+Buffalo:NY,Calgary:Canada,7
+Charlotte:NC,Punta Cana:Dominican Republic,5728
+Detroit:MI,Mumbai:India,343
+New York:NY,Havana:Cuba,400
+Louisville:KY,Punta Cana:Dominican Republic,4
+Knoxville:TN,Toronto:Canada,8
+St. Lucia:Saint Lucia,Philadelphia:PA,117
+Edmonton:Canada,Orlando:FL,22
+Punta Cana:Dominican Republic,Charlotte:NC,5746
+Santiago:Chile,Atlanta:GA,4658
+Louisville:KY,Winnipeg:Canada,1
+San Jose del Cabo:Mexico,Atlanta:GA,2177
+San Jose del Cabo:Mexico,Washington:DC,14
+Moscow:Russia,Boston:MA,3
+Edmonton:Canada,Colorado Springs:CO,14
+Edmonton:Canada,Bullhead City:AZ,27
+Calgary:Canada,Columbus:OH,4
+Calgary:Canada,Bullhead City:AZ,11
+Toronto:Canada,Columbus:OH,1453
+Atlanta:GA,Bogota:Colombia,4068
+Atlanta:GA,Santiago:Chile,4577
+Atlanta:GA,San Jose del Cabo:Mexico,2028
+Austin:TX,San Jose del Cabo:Mexico,13
+Milan:Italy,Dallas/Fort Worth:TX,14
+Nassau:The Bahamas,Huntsville:AL,12
+Oakland:CA,Acapulco:Mexico,84
+Oakland:CA,Ixtapa/Zihuatanejo:Mexico,51
+Oakland:CA,Manzanillo:Mexico,7
+Ontario:CA,Guadalajara:Mexico,572
+Ontario:CA,Mexico City:Mexico,13
+Newark:NJ,San Jose del Cabo:Mexico,2173
+Grand Cayman:Cayman Islands,Newark:NJ,1268
+Fort Lauderdale:FL,Bogota:Colombia,9775
+Sao Paulo:Brazil,Las Vegas:NV,49
+Guatemala City:Guatemala,Fort Lauderdale:FL,2171
+Houston:TX,Moss Town:The Bahamas,7
+Toronto:Canada,Lansing:MI,1
+Manzanillo:Mexico,San Diego:CA,1
+Portsmouth:NH,Keflavik/Reykjavik:Iceland,81
+San Jose:Costa Rica,Phoenix:AZ,1266
+Montreal:Canada,Norfolk:VA,1
+Houston:TX,Liberia:Costa Rica,5196
+Istanbul:Turkey,Atlanta:GA,118
+Las Vegas:NV,San Jose:Costa Rica,22
+Orlando:FL,San Salvador:El Salvador,911
+New York:NY,San Andres Island:Colombia,22
+West Palm Beach/Palm Beach:FL,Marsh Harbour:The Bahamas,1248
+Ho Chi Minh City:Vietnam,San Francisco:CA,1516
+Manizales:Colombia,Fort Lauderdale:FL,10
+Dallas/Fort Worth:TX,Santo Domingo:Dominican Republic,54
+Toronto:Canada,Dallas:TX,5
+New York:NY,Monterrey:Mexico,783
+Manchester:NH,Punta Cana:Dominican Republic,1
+Milan:Italy,Atlanta:GA,3248
+Fort Lauderdale:FL,San Salvador:The Bahamas,362
+Armenia:Colombia,Fort Lauderdale:FL,1061
+Allentown/Bethlehem/Easton:PA,Toronto:Canada,193
+Newark:NJ,Edinburgh:United Kingdom,6294
+Fort Lauderdale:FL,Andros Town:The Bahamas,54
+Teterboro:NJ,Madrid:Spain,2
+Providenciales:Turks and Caicos Islands,Charlotte:NC,3838
+Melbourne:FL,Freeport:The Bahamas,1
+Morelia:Mexico,Sacramento:CA,10
+Governors Harbour:The Bahamas,Fort Lauderdale:FL,240
+Toluca:Mexico,Houston:TX,1142
+Miami:FL,Cienfuegos:Cuba,138
+Atlanta:GA,Santo Domingo:Dominican Republic,2873
+Dallas/Fort Worth:TX,Punta Cana:Dominican Republic,1
+New Orleans:LA,St. Lucia:Saint Lucia,2
+Moss Town:The Bahamas,Fort Lauderdale:FL,559
+Ahmedabad:India,Newark:NJ,4162
+Dallas/Fort Worth:TX,San Luis Potosi:Mexico,1496
+Philadelphia:PA,Moss Town:The Bahamas,16
+Nassau:The Bahamas,Salt Lake City:UT,1
+Washington:DC,Providenciales:Turks and Caicos Islands,40
+Oakland:CA,Cancun:Mexico,38
+Rome:Italy,San Francisco:CA,16
+San Jose del Cabo:Mexico,Sacramento:CA,1132
+Nome:AK,Anadyr:Russia,13
+Pereira:Colombia,Fort Lauderdale:FL,51
+Chicago:IL,Islamabad:Pakistan,206
+Ezeiza:Argentina,Washington:DC,4094
+Barcelona:Spain,Los Angeles:CA,9
+Edmonton:Canada,Tucson:AZ,6
+Teterboro:NJ,Zurich:Switzerland,3
+Quebec:Canada,Detroit:MI,1953
+Fort Lauderdale:FL,Barranquilla:Colombia,1608
+Islamabad:Pakistan,Chicago:IL,111
+Nome:AK,Provideniya:Russia,8
+Fort Lauderdale:FL,Marsh Harbour:The Bahamas,624
+Sacramento:CA,Guadalajara:Mexico,1949
+Guadalajara:Mexico,Sacramento:CA,1980
+Barranquilla:Colombia,Fort Lauderdale:FL,1964
+Liberia:Costa Rica,Houston:TX,5487
+Glasgow:United Kingdom,Philadelphia:PA,1731
+Nassau:The Bahamas,Augusta:GA,1
+New York:NY,Manizales:Colombia,122
+Washington:DC,Beijing:China,4049
+Port of Spain:Trinidad and Tobago,Fort Lauderdale:FL,3832
+Frankfurt:Germany,Fairbanks:AK,115
+Knoxville:TN,Winnipeg:Canada,3
+Chicago:IL,Shanghai:China,12247
+Fort Lauderdale:FL,Bucaramanga:Colombia,100
+San Jose del Cabo:Mexico,Kansas City:MO,5
+Luanda:Angola,Houston:TX,747
+Miami:FL,Barrancabermeja:Colombia,5
+Cancun:Mexico,San Diego:CA,5
+Chicago:IL,Regina:Canada,415
+Fort Lauderdale:FL,Governors Harbour:The Bahamas,234
+Newark:NJ,Ahmedabad:India,3639
+Fort Lauderdale:FL,Bimini:The Bahamas,275
+San Luis Potosi:Mexico,Dallas/Fort Worth:TX,1413
+Appleton:WI,Montreal:Canada,1
+Minneapolis:MN,Aruba:Aruba,23
+New York:NY,Winnipeg:Canada,13
+Fairbanks:AK,Dawson City:Canada,14
+Teterboro:NJ,Paris:France,5
+Fort Lauderdale:FL,Cartagena:Colombia,2797
+Newark:NJ,Liberia:Costa Rica,611
+Providence:RI,Montego Bay:Jamaica,1
+Punta Cana:Dominican Republic,Washington:DC,152
+Whitehorse:Canada,Fairbanks:AK,15
+Cucuta:Colombia,Fort Lauderdale:FL,8
+Ciudad del Carmen:Mexico,Houston:TX,867
+Cozumel:Mexico,Charlotte:NC,1045
+Newark:NJ,Hong Kong:Hong Kong,7537
+Cienfuegos:Cuba,Miami:FL,182
+Durango:Mexico,Houston:TX,373
+Las Vegas:NV,Lima:Peru,1
+Torreon:Mexico,Dallas/Fort Worth:TX,815
+Fairbanks:AK,Whitehorse:Canada,9
+Washington:DC,Cozumel:Mexico,10
+Pontiac:MI,Toronto:Canada,9
+Fort Lauderdale:FL,New Bight:The Bahamas,37
+Keflavik/Reykjavik:Iceland,Portsmouth:NH,106
+Boise:ID,Puerto Vallarta:Mexico,16
+Singapore:Singapore,Chicago:IL,1688
+Houston:TX,Luanda:Angola,894
+San Jose del Cabo:Mexico,Santa Ana:CA,25
+Queretaro:Mexico,Houston:TX,1631
+Miami:FL,Armenia:Colombia,57
+Denver:CO,Munich:Germany,292
+Boston:MA,Bangkok:Thailand,39
+Chicago:IL,Lahore:Pakistan,277
+Medellin:Colombia,Fort Lauderdale:FL,3338
+Chihuahua:Mexico,Dallas/Fort Worth:TX,1261
+Pinehurst/Southern Pines:NC,Toronto:Canada,1
+Newark:NJ,Edmonton:Canada,43
+Beijing:China,Washington:DC,4139
+San Salvador:The Bahamas,Fort Lauderdale:FL,344
+Monterrey:Mexico,El Paso:TX,1
+Syracuse:NY,Punta Cana:Dominican Republic,8
+Newark:NJ,Moscow:Russia,6
+San Jose del Cabo:Mexico,Charlotte:NC,728
+Anadyr:Russia,Nome:AK,13
+Toronto:Canada,Morristown:NJ,1
+Pasto:Colombia,New York:NY,12
+Hartford:CT,St. Kitts:Saint Kitts and Nevis,19
+Miami:FL,North Eleuthera:The Bahamas,1082
+Newark:NJ,San Pedro Sula:Honduras,559
+Toronto:Canada,Pontiac:MI,13
+Boston:MA,Tegucigalpa:Honduras,16
+Fort Lauderdale:FL,Santo Domingo:Dominican Republic,8172
+Morristown:NJ,Toronto:Canada,1
+Charlotte:NC,Barbados/Bridgetown:Barbados,427
+Belize City:Belize,Charlotte:NC,632
+Sacramento:CA,San Jose del Cabo:Mexico,820
+Quebec:Canada,Cincinnati:OH,3
+Manila:Philippines,Las Vegas:NV,1498
+Guatemala City:Guatemala,Phoenix:AZ,71
+Fort Lauderdale:FL,Moss Town:The Bahamas,570
+Washington:DC,Copenhagen:Denmark,5583
+New York:NY,Armenia:Colombia,235
+Houston:TX,Morelia:Mexico,1579
+Winnipeg:Canada,Columbus:OH,3
+New York:NY,Riga:Latvia,264
+Dawson City:Canada,Fairbanks:AK,18
+St. Louis:MO,Tegucigalpa:Honduras,12
+Tokyo:Japan,Fairbanks:AK,115
+Chicago:IL,Karachi:Pakistan,395
+Chicago:IL,Hyderabad:India,1588
+Winnipeg:Canada,Omaha:NE,1
+Beijing:China,Houston:TX,426
+Monteria:Colombia,Miami:FL,22
+North Eleuthera:The Bahamas,Miami:FL,1079
+Delhi:India,Newark:NJ,7557
+Atlanta:GA,Moscow:Russia,1765
+Houston:TX,Port of Spain:Trinidad and Tobago,3044
+Munich:Germany,Fort Myers:FL,84
+Washington:DC,Punta Cana:Dominican Republic,235
+Edinburgh:United Kingdom,Newark:NJ,6329
+Glasgow:United Kingdom,Los Angeles:CA,38
+Aguascalientes:Mexico,Dallas/Fort Worth:TX,1097
+Freeport:The Bahamas,Charlotte:NC,1323
+Cincinnati:OH,Quebec:Canada,2
+Puerto Plata:Dominican Republic,Cincinnati:OH,12
+Halifax:Canada,Houston:TX,5
+Houston:TX,Rio de Janeiro:Brazil,5550
+Brisbane:Australia,New York:NY,523
+New York:NY,Santa Marta:Colombia,49
+Philadelphia:PA,Glasgow:United Kingdom,1741
+Geneva:Switzerland,Newark:NJ,4799
+Bristol:United Kingdom,Newark:NJ,3147
+Seattle:WA,Campbell River:Canada,3
+Old Crow:Canada,Fairbanks:AK,2
+Birmingham:AL,Halifax:Canada,1
+Santo Domingo:Dominican Republic,Aguadilla:PR,93
+Calgary:Canada,San Diego:CA,2278
+New York:NY,Santiago:Dominican Republic,26638
+Andros Town:The Bahamas,Fort Lauderdale:FL,56
+Jeddah:Saudi Arabia,Newark:NJ,2
+St. Kitts:Saint Kitts and Nevis,Hartford:CT,13
+Charlotte:NC,St. Kitts:Saint Kitts and Nevis,371
+Grand Cayman:Cayman Islands,Fort Lauderdale:FL,8
+White Plains:NY,Paris:France,1
+Managua:Nicaragua,Los Angeles:CA,9
+Charlotte:NC,San Jose del Cabo:Mexico,719
+Paris:France,White Plains:NY,1
+Washington:DC,Liberia:Costa Rica,4
+Port of Spain:Trinidad and Tobago,Houston:TX,3151
+Halifax:Canada,Oklahoma City:OK,1
+San Francisco:CA,Ho Chi Minh City:Vietnam,1355
+Tofino:Canada,Seattle:WA,7
+Hong Kong:Hong Kong,Atlanta:GA,15
+Bucaramanga:Colombia,Fort Lauderdale:FL,87
+Manzanillo:Mexico,Oakland:CA,6
+Atlanta:GA,Puerto Plata:Dominican Republic,831
+Hyderabad:India,Chicago:IL,1834
+Fort Lauderdale:FL,Medellin:Colombia,3229
+Leon/Guanajuato:Mexico,Sacramento:CA,11
+Lahore:Pakistan,Chicago:IL,246
+Tucson:AZ,Puerto Vallarta:Mexico,2
+Dublin:Ireland,Philadelphia:PA,4057
+Lajes:Portugal,Oakland:CA,253
+Burbank:CA,San Jose del Cabo:Mexico,2
+St. Johns:Antigua and Barbuda,Charlotte:NC,339
+Belize City:Belize,Newark:NJ,252
+Bimini:The Bahamas,Fort Lauderdale:FL,283
+Fort Lauderdale:FL,North Eleuthera:The Bahamas,539
+Providence:RI,Santo Domingo:Dominican Republic,1
+Guadalajara:Mexico,Milwaukee:WI,1
+Treasure Cay:The Bahamas,Fort Lauderdale:FL,322
+Newark:NJ,Delhi:India,7384
+Burbank:CA,Cancun:Mexico,5
+Vancouver:Canada,Raleigh/Durham:NC,12
+Cozumel:Mexico,Santa Ana:CA,1
+Washington:DC,Rio de Janeiro:Brazil,1248
+Inuvik:Canada,Fairbanks:AK,1
+Houston:TX,Queretaro:Mexico,1632
+Charlotte:NC,Freeport:The Bahamas,1330
+Charlotte:NC,Cozumel:Mexico,1015
+Los Angeles:CA,Merida:Mexico,24
+Halifax:Canada,Washington:DC,996
+Charlotte:NC,St. Lucia:Saint Lucia,493
+Fort Lauderdale:FL,Port of Spain:Trinidad and Tobago,3745
+Morelia:Mexico,Houston:TX,1401
+Dallas/Fort Worth:TX,Barbados/Bridgetown:Barbados,124
+Providence:RI,Punta Cana:Dominican Republic,18
+El Paso:TX,San Jose del Cabo:Mexico,2
+Newark:NJ,Managua:Nicaragua,25
+Nevis:Saint Kitts and Nevis,San Juan:PR,14
+Victoria:Canada,Friday Harbor:WA,2
+Toronto:Canada,Akron:OH,1
+Barcelona:Spain,Philadelphia:PA,2965
+Washington:DC,Ezeiza:Argentina,4045
+Orlando:FL,Morelia:Mexico,10
+Fairbanks:AK,Frankfurt:Germany,144
+Charlotte:NC,Providenciales:Turks and Caicos Islands,3796
+Washington:DC,Oslo:Norway,40
+Baltimore:MD,Santo Domingo:Dominican Republic,76
+Milwaukee:WI,Cozumel:Mexico,104
+Salt Lake City:UT,Mexico City:Mexico,1673
+Philipsburg:Netherlands Antilles,Wilmington:NC,1
+San Juan:PR,Nevis:Saint Kitts and Nevis,22
+Washington:DC,Santa Cruz:Bolivia,17
+Houston:TX,Durango:Mexico,376
+Fort Lauderdale:FL,Cali:Colombia,1300
+Halifax:Canada,Norfolk:VA,1
+Dallas/Fort Worth:TX,Aguascalientes:Mexico,1168
+Zurich:Switzerland,Teterboro:NJ,3
+Campbell River:Canada,Seattle:WA,4
+Austin:TX,Monterrey:Mexico,12
+Barrancabermeja:Colombia,Miami:FL,4
+Mobile:AL,Toronto:Canada,1
+Grand Rapids:MI,Vancouver:Canada,14
+Oslo:Norway,Washington:DC,28
+Pittsburgh:PA,Providenciales:Turks and Caicos Islands,1
+Houston:TX,Toluca:Mexico,1166
+Atlantic City:NJ,Cancun:Mexico,93
+Albuquerque:NM,Calgary:Canada,1
+Dublin:Ireland,Houston:TX,39
+New York:NY,Cucuta:Colombia,41
+Portland:ME,Toronto:Canada,387
+New York:NY,Brisbane:Australia,515
+Ottawa:Canada,Little Rock:AR,1
+Buffalo:NY,Mexico City:Mexico,8
+Cali:Colombia,Fort Lauderdale:FL,1259
+Panama City:Panama,Fort Lauderdale:FL,1439
+Washington:DC,Halifax:Canada,745
+Barrancabermeja:Colombia,New York:NY,2
+Rochester:NY,Montreal:Canada,1
+Cartagena:Colombia,Fort Lauderdale:FL,2959
+Acapulco:Mexico,Oakland:CA,83
+Atlantic City:NJ,Montego Bay:Jamaica,9
+Santiago:Dominican Republic,New York:NY,28092
+Las Vegas:NV,Manila:Philippines,1478
+Fort Lauderdale:FL,Pereira:Colombia,56
+San Jose:Costa Rica,Charlotte:NC,3094
+Ontario:CA,San Jose del Cabo:Mexico,7
+Charlotte:NC,St. Johns:Antigua and Barbuda,349
+Mexico City:Mexico,Huntsville:AL,1
+Chicago:IL,Saskatoon:Canada,588
+Santiago:Dominican Republic,Miami:FL,4918
+New York:NY,Pasto:Colombia,13
+Philadelphia:PA,Liberia:Costa Rica,29
+Karachi:Pakistan,Chicago:IL,355
+Paris:France,Westhampton:NY,1
+Detroit:MI,Quebec:Canada,2022
+Toronto:Canada,Panama City:FL,6
+Toronto:Canada,Manchester:NH,301
+Halifax:Canada,Omaha:NE,2
+Milwaukee:WI,Punta Cana:Dominican Republic,273
+Cancun:Mexico,Reno:NV,37
+St. Kitts:Saint Kitts and Nevis,Charlotte:NC,358
+Monterrey:Mexico,Colorado Springs:CO,1
+Dallas/Fort Worth:TX,Chihuahua:Mexico,1271
+Puerto Vallarta:Mexico,Oklahoma City:OK,3
+Washington:DC,Puerto Vallarta:Mexico,1
+Miami:FL,Villahermosa:Mexico,25
+Munich:Germany,Pittsburgh:PA,23
+Fort Lauderdale:FL,Treasure Cay:The Bahamas,335
+Pittsburgh:PA,Winnipeg:Canada,5
+Ontario:CA,Puerto Vallarta:Mexico,13
+Guatemala City:Guatemala,San Antonio:TX,52
+St. Lucia:Saint Lucia,Charlotte:NC,512
+Charlotte:NC,Munich:Germany,5990
+Charlotte:NC,Belize City:Belize,630
+Syracuse:NY,Cozumel:Mexico,3
+Miami:FL,Santiago:Dominican Republic,4837
+Philadelphia:PA,Venice:Italy,2051
+Denver:CO,Monterrey:Mexico,19
+Pasto:Colombia,Miami:FL,11
+Aruba:Aruba,Minneapolis:MN,29
+Barbados/Bridgetown:Barbados,Charlotte:NC,424
+Philipsburg:Netherlands Antilles,Atlanta:GA,2160
+Edmonton:Canada,Buffalo:NY,4
+San Jose:CA,Cancun:Mexico,3
+Punta Cana:Dominican Republic,Aguadilla:PR,66
+Punta Cana:Dominican Republic,Milwaukee:WI,282
+Sanford:FL,Nassau:The Bahamas,8
+Newark:NJ,Geneva:Switzerland,4865
+Providence:RI,Philipsburg:Netherlands Antilles,8
+Houston:TX,Ezeiza:Argentina,4196
+Wichita:KS,Nassau:The Bahamas,3
+Greer:SC,Nassau:The Bahamas,8
+Monterrey:Mexico,Miami:FL,445
+Whitehorse:Canada,Juneau:AK,14
+London:Canada,Philadelphia:PA,4
+Marsh Harbour:The Bahamas,Fort Lauderdale:FL,627
+Marsh Harbour:The Bahamas,West Palm Beach/Palm Beach:FL,1271
+Boston:MA,Praia:Cape Verde,1211
+Hartford:CT,Guatemala City:Guatemala,1
+Cozumel:Mexico,Milwaukee:WI,104
+Miami:FL,Valledupar:Colombia,16
+San Juan:PR,Porlamar:Venezuela,7
+Honolulu:HI,Toyama:Japan,16
+Fort Myers:FL,Munich:Germany,72
+Raleigh/Durham:NC,Panama City:Panama,5
+Providence:RI,Toronto:Canada,349
+New York:NY,Monteria:Colombia,22
+San Jose del Cabo:Mexico,El Paso:TX,11
+Montreal:Canada,South Bend:IN,1
+Hong Kong:Hong Kong,Newark:NJ,7630
+Montreal:Canada,Jackson/Vicksburg:MS,1
+Shanghai:China,Chicago:IL,12848
+Cancun:Mexico,Rockford:IL,271
+Copenhagen:Denmark,Washington:DC,5712
+Juneau:AK,Whitehorse:Canada,14
+Cincinnati:OH,San Jose:Costa Rica,6
+Atlanta:GA,Hong Kong:Hong Kong,24
+Puerto Vallarta:Mexico,Albuquerque:NM,27
+Philadelphia:PA,Barcelona:Spain,3007
+Newark:NJ,Bristol:United Kingdom,3010
+Fort Lauderdale:FL,Cucuta:Colombia,1
+Birmingham:AL,Ottawa:Canada,2
+San Jose del Cabo:Mexico,Pittsburgh:PA,10
+Montreal:Canada,Columbia:SC,1
+Providenciales:Turks and Caicos Islands,Washington:DC,80
+Riga:Latvia,New York:NY,259
+Dallas/Fort Worth:TX,Torreon:Mexico,818
+Buffalo:NY,Punta Cana:Dominican Republic,1
+Monterrey:Mexico,Denver:CO,11
+Rockford:IL,Cancun:Mexico,282
+Hamilton:Canada,Teterboro:NJ,1
+Farnborough:United Kingdom,Teterboro:NJ,2
+North Eleuthera:The Bahamas,Fort Lauderdale:FL,529
+Charlotte:NC,San Jose:Costa Rica,3154
+Syracuse:NY,Aruba:Aruba,2
+Houston:TX,Ciudad del Carmen:Mexico,844
+Manchester:United Kingdom,New Orleans:LA,63
+Port of Spain:Trinidad and Tobago,Atlanta:GA,128
+Houston:TX,Beijing:China,613
+Rio de Janeiro:Brazil,Houston:TX,5611
+Seattle:WA,Tofino:Canada,6
+New York:NY,Barrancabermeja:Colombia,3
+Managua:Nicaragua,Atlanta:GA,2019
+Punta Cana:Dominican Republic,Dallas/Fort Worth:TX,49
+Morelia:Mexico,Las Vegas:NV,6
+Luanda:Angola,Atlanta:GA,103
+Barcelona:Spain,Chicago:IL,555
+Friday Harbor:WA,Victoria:Canada,1
+St. Kitts:Saint Kitts and Nevis,Baltimore:MD,11
+Toronto:Canada,Lexington:KY,1
+Manchester:NH,Montego Bay:Jamaica,1
+Fresno:CA,Guadalajara:Mexico,1582
+Santa Cruz:Bolivia,Washington:DC,6
+Ixtapa/Zihuatanejo:Mexico,Las Vegas:NV,3
+Valledupar:Colombia,New York:NY,15
+St. Johns:Antigua and Barbuda,Atlanta:GA,457
+Philadelphia:PA,London:Canada,4
+Provideniya:Russia,Nome:AK,3
+San Salvador:El Salvador,San Antonio:TX,48
+St. Kitts:Saint Kitts and Nevis,Syracuse:NY,27
+Toronto:Canada,Duluth:MN,2
+Fort Drum:NY,Keflavik/Reykjavik:Iceland,8
+Albuquerque:NM,Puerto Vallarta:Mexico,6
+Geneva:Switzerland,White Plains:NY,2
+Montego Bay:Jamaica,Providence:RI,97
+Phoenix:AZ,San Salvador:El Salvador,171
+New Bight:The Bahamas,Fort Lauderdale:FL,36
+Ezeiza:Argentina,Houston:TX,4204
+Anchorage:AK,Whitehorse:Canada,14
+Shannon:Ireland,Lexington:KY,1
+Dallas/Fort Worth:TX,Moss Town:The Bahamas,7
+Houston:TX,Oaxaca:Mexico,832
+Providence:RI,Vancouver:Canada,20
+Newark:NJ,Willemstad:Netherlands Antilles,207
+Denver:CO,San Jose:Costa Rica,2392
+Nassau:The Bahamas,Manchester:NH,3
+Newark:NJ,Moss Town:The Bahamas,16
+Ottawa:Canada,Tulsa:OK,1
+Fort Myers:FL,Nassau:The Bahamas,5
+Philadelphia:PA,Dublin:Ireland,4119
+Seattle:WA,Nanaimo:Canada,4
+Dry Bay:AK,Whitehorse:Canada,14
+Ottawa:Canada,Knoxville:TN,2
+Baltimore:MD,Tarbes/Lourdes/Pyrenees:France,20
+Aguadilla:PR,Punta Cana:Dominican Republic,69
+Puerto Vallarta:Mexico,Atlanta:GA,1731
+Willemstad:Netherlands Antilles,Newark:NJ,209
+Whitehorse:Canada,Anchorage:AK,14
+Nassau:The Bahamas,Bristol/Johnson City/Kingsport:TN,12
+Omaha:NE,Ottawa:Canada,1
+Cleveland:OH,Regina:Canada,3
+Knoxville:TN,Ottawa:Canada,1
+Portland:OR,Amsterdam:Netherlands,4513
+Toyama:Japan,Honolulu:HI,16
+Tulsa:OK,Ottawa:Canada,3
+Edmonton:Canada,Detroit:MI,1
+Moline:IL,Cancun:Mexico,24
+Munich:Germany,Salt Lake City:UT,17
+Singapore:Singapore,Denver:CO,62
+Edmonton:Canada,Providence:RI,1
+New Orleans:LA,Derby:United Kingdom,24
+Las Vegas:NV,Morelia:Mexico,7
+Toronto:Canada,La Crosse:WI,2
+Monterrey:Mexico,Kansas City:MO,3
+Montreal:Canada,Morristown:NJ,1
+Richmond:VA,Barbados/Bridgetown:Barbados,2
+Austin:TX,Edmonton:Canada,2
+Charlotte:NC,Vancouver:Canada,28
+St. Louis:MO,San Jose:Costa Rica,6
+Newark:NJ,Tarbes/Lourdes/Pyrenees:France,26
+Greensboro/High Point:NC,St. Kitts:Saint Kitts and Nevis,12
+Duluth:MN,Paris:France,1
+Kelowna:Canada,Portland:OR,12
+Huntsville:AL,Montreal:Canada,3
+Nanaimo:Canada,Seattle:WA,3
+Santa Ana:CA,Belize City:Belize,11
+Guatemala City:Guatemala,Denver:CO,15
+Derby:United Kingdom,New Orleans:LA,22
+Guadalajara:Mexico,Salt Lake City:UT,1481
+Las Vegas:NV,Osaka:Japan,35
+Houston:TX,Bonaire:Netherlands Antilles,623
+Richmond:VA,Punta Cana:Dominican Republic,5
+Memphis:TN,Punta Cana:Dominican Republic,4
+Miami:FL,Berlin:Germany,364
+San Antonio:TX,San Salvador:El Salvador,56
+Oakland:CA,Lajes:Portugal,238
+Toronto:Canada,Augusta:GA,7
+Baltimore:MD,St. Kitts:Saint Kitts and Nevis,11
+Van Nuys:CA,Paris:France,1
+Charleston:SC,Punta Cana:Dominican Republic,5
+Mulhouse:France,Teterboro:NJ,1
+Baltimore:MD,Moss Town:The Bahamas,31
+Harrisburg:PA,Punta Cana:Dominican Republic,1
+Ontario:CA,Cancun:Mexico,4
+Cancun:Mexico,Harrisburg:PA,44
+Liberia:Costa Rica,Newark:NJ,581
+Portland:TN,Toronto:Canada,1
+Nassau:The Bahamas,Fort Myers:FL,10
+Orlando:FL,Moss Town:The Bahamas,7
+Atlanta:GA,Mumbai:India,328
+Portland:OR,Manzanillo:Mexico,6
+Calgary:Canada,Duluth:MN,8
+Toronto:Canada,Scranton/Wilkes-Barre:PA,1
+Pittsburgh:PA,St. Lucia:Saint Lucia,2
+Ottawa:Canada,Savannah:GA,2
+Winnipeg:Canada,Grand Rapids:MI,2
+Augusta:GA,Toronto:Canada,7
+Halifax:Canada,Cincinnati:OH,3
+Moss Town:The Bahamas,Orlando:FL,6
+Geneva:Switzerland,Teterboro:NJ,4
+Atlanta:GA,Barbados/Bridgetown:Barbados,382
+Barbados/Bridgetown:Barbados,Atlanta:GA,443
+Norfolk:VA,Halifax:Canada,4
+Nashville:TN,Puerto Vallarta:Mexico,7
+White Plains:NY,Montreal:Canada,2
+Dublin:Ireland,Bangor:ME,1
+Saipan:TT,Hiroshima:Japan,68
+Hiroshima:Japan,Saipan:TT,29
+Paris:France,Teterboro:NJ,5
+Kansas City:MO,San Jose del Cabo:Mexico,7
+Boston:MA,Moss Town:The Bahamas,15
+Teterboro:NJ,Mulhouse:France,1
+Myrtle Beach:SC,Punta Cana:Dominican Republic,1
+Morelia:Mexico,Orlando:FL,20
+Bangor:ME,Shannon:Ireland,3
+Toronto:Canada,Charlotte Amalie:VI,4
+Calgary:Canada,Dallas:TX,3
+Montreal:Canada,Newburgh/Poughkeepsie:NY,3
+Tarbes/Lourdes/Pyrenees:France,Newark:NJ,26
+Moscow:Russia,Teterboro:NJ,2
+Norfolk:VA,Gander:Canada,6
+Traverse City:MI,Toronto:Canada,3
+Atlanta:GA,Managua:Nicaragua,1952
+Bonaire:Netherlands Antilles,Houston:TX,635
+Las Vegas:NV,Torreon:Mexico,13
+Punta Cana:Dominican Republic,Providence:RI,14
+Villahermosa:Mexico,Miami:FL,41
+Lexington:KY,Shannon:Ireland,1
+Tarbes/Lourdes/Pyrenees:France,Baltimore:MD,20
+Teterboro:NJ,London:United Kingdom,5
+Baltimore:MD,Lagos:Nigeria,184
+Naples:Italy,New York:NY,384
+Neiva:Colombia,Miami:FL,13
+Ottawa:Canada,Peoria:IL,1
+Albany:NY,Hamilton:Canada,1
+Washington:DC,Istanbul:Turkey,440
+Los Angeles:CA,Stuttgart:Germany,19
+San Francisco:CA,Venice:Italy,20
+Buffalo:NY,Cozumel:Mexico,1
+Seattle:WA,Accra:Ghana,5
+El Paso:TX,San Pedro Sula:Honduras,56
+Miami:FL,Willemstad:Curacao,2737
+Saskatoon:Canada,Des Moines:IA,2
+Kuwait:Kuwait,Houston:TX,191
+Harlingen/San Benito:TX,San Pedro Sula:Honduras,186
+Toluca:Mexico,Los Angeles:CA,2192
+Seattle:WA,Beijing:China,4254
+San Diego:CA,Taipei:Taiwan,2
+Quebec:Canada,Cleveland:OH,40
+Moscow:Russia,Houston:TX,1417
+New York:NY,Valledupar:Colombia,12
+Washington:DC,Lima:Peru,177
+Norfolk:VA,Stuttgart:Germany,47
+Fort Lauderdale:FL,Lima:Peru,1159
+Philipsburg:Netherlands Antilles,Fort Lauderdale:FL,365
+Lima:Peru,Fort Lauderdale:FL,1307
+Washington:DC,Doha:Qatar,8608
+Charlotte:NC,Puerto Vallarta:Mexico,619
+Pisa:Italy,New York:NY,1973
+Manaus:Brazil,Atlanta:GA,904
+San Pedro Sula:Honduras,Fort Lauderdale:FL,1650
+Atlanta:GA,Dusseldorf:Germany,4737
+Lagos:Nigeria,Atlanta:GA,5188
+Sanford:FL,Keflavik/Reykjavik:Iceland,757
+Denver:CO,Brussels:Belgium,3
+Dubai:United Arab Emirates,Chicago:IL,227
+Farnborough:United Kingdom,Rochester:MN,1
+Edinburgh:United Kingdom,Boston:MA,1
+Salt Lake City:UT,Tokyo:Japan,1808
+Atlanta:GA,Moss Town:The Bahamas,154
+Philipsburg:Sint Maarten,Charlotte:NC,943
+Atlanta:GA,Brasilia:Brazil,2135
+Atlanta:GA,Lagos:Nigeria,4904
+Washington:DC,Moncton:Canada,9
+Tampa:FL,Manchester:United Kingdom,207
+San Francisco:CA,Dubai:United Arab Emirates,8738
+Kenmore:WA,Victoria:Canada,97
+Fortaleza:Brazil,Atlanta:GA,644
+Tel Aviv:Israel,Teterboro:NJ,1
+Rome:Italy,Charlotte:NC,3487
+Buffalo:NY,Grand Cayman:Cayman Islands,16
+Savannah:GA,Geneva:Switzerland,3
+Lagos:Nigeria,Baltimore:MD,93
+Philipsburg:Sint Maarten,Philadelphia:PA,270
+Atlanta:GA,Roatan Island:Honduras,621
+Atlanta:GA,Sydney:Australia,781
+Medellin:Colombia,Washington:DC,54
+Atlanta:GA,Accra:Ghana,1025
+Bristol/Johnson City/Kingsport:TN,Nassau:The Bahamas,6
+Washington:DC,Pereira:Colombia,27
+Alexandria:LA,Santo Domingo:Dominican Republic,90
+Chicago:IL,Quebec:Canada,1691
+Dallas/Fort Worth:TX,Venice:Italy,22
+Washington:DC,Bogota:Colombia,1332
+Houston:TX,Munich:Germany,239
+Munich:Germany,Houston:TX,219
+Salt Lake City:UT,Munich:Germany,13
+Dubai:United Arab Emirates,Atlanta:GA,7600
+Rabat:Morocco,Milwaukee:WI,1
+Rome:Italy,Seattle:WA,36
+Chicago:IL,Melbourne:Australia,326
+Newark:NJ,Barcelona:Spain,4348
+Edmonton:Canada,Kalispell:MT,5
+New York:NY,Popayan:Colombia,6
+Guadalajara:Mexico,Fresno:CA,1620
+Teterboro:NJ,Nice:France,1
+Barcelona:Spain,Boston:MA,297
+Mission/McAllen/Edinburg:TX,Monterrey:Mexico,8
+Los Angeles:CA,Dubai:United Arab Emirates,8341
+Tel Aviv:Israel,Philadelphia:PA,5740
+Chicago:IL,Fredericton:Canada,3
+Iwoto:Japan,Guam:TT,21
+Philadelphia:PA,Beijing:China,62
+Rio de Janeiro:Brazil,Philadelphia:PA,115
+Stuttgart:Germany,Norfolk:VA,50
+Atlanta:GA,Dubai:United Arab Emirates,6794
+Salt Lake City:UT,London:United Kingdom,206
+Zurich:Switzerland,Tampa:FL,40
+Gothenburg:Sweden,Washington:DC,11
+Tobago:Trinidad and Tobago,Atlanta:GA,105
+Pittsburgh:PA,Liberia:Costa Rica,1
+Baltimore:MD,Panama City:Panama,26
+White Plains:NY,Moscow:Russia,1
+Powell River:Canada,Kenmore:WA,21
+Philipsburg:Sint Maarten,Newark:NJ,623
+Bonaire:Bonaire:Sint Eustatius:and Saba,Atlanta:GA,150
+San Francisco:CA,Athens:Greece,13
+Houston:TX,Tuxtla Gutierrez:Mexico,228
+Oslo:Norway,Houston:TX,170
+East Hampton:NY,Lagos de Moreno:Mexico,1
+Moline:IL,Gander:Canada,4
+Sechelt:Canada,Kenmore:WA,2
+Rio de Janeiro:Brazil,New Orleans:LA,64
+Victoria:Canada,Roche Harbor:WA,2
+Barcelona:Spain,Detroit:MI,16
+Philipsburg:Sint Maarten,Fort Lauderdale:FL,130
+Berlin:Germany,Miami:FL,397
+Newark:NJ,Stephenville:Canada,3
+Santa Ana:CA,Guadalajara:Mexico,10
+Istanbul:Turkey,Washington:DC,354
+Accra:Ghana,Denver:CO,12
+Bucaramanga:Colombia,Washington:DC,23
+Beijing:China,Philadelphia:PA,88
+Salt Lake City:UT,Barcelona:Spain,82
+Raleigh/Durham:NC,Dusseldorf:Germany,19
+Rota:TT,Tokyo:Japan,154
+Bangor:ME,Quebec:Canada,3
+Barcelona:Spain,Salt Lake City:UT,29
+Santiago:Dominican Republic,Atlanta:GA,12
+Dusseldorf:Germany,Atlanta:GA,4934
+Washington:DC,San Jose del Cabo:Mexico,15
+Houston:TX,Dubai:United Arab Emirates,7651
+Shanghai:China,Minneapolis:MN,363
+Harlingen/San Benito:TX,San Salvador:El Salvador,256
+Keflavik/Reykjavik:Iceland,Seattle:WA,2491
+Montreal:Canada,Valparaiso:FL,5
+Orlando:FL,Bogota:Colombia,3032
+Atlanta:GA,Manaus:Brazil,904
+Manchester:NH,Liberia:Costa Rica,14
+San Jose del Cabo:Mexico,Mission/McAllen/Edinburg:TX,1
+Washington:DC,Manama:Bahrain,974
+Seattle:WA,Big Bay Marina:Canada,12
+Bristol:United Kingdom,Sanford:FL,327
+Morristown:NJ,Montreal:Canada,1
+Ottawa:Canada,Saginaw/Bay City/Midland:MI,2
+Singapore:Singapore,Hartford:CT,6
+Santo Domingo:Dominican Republic,San Antonio:TX,4
+Barranquilla:Colombia,Washington:DC,29
+Los Angeles:CA,Marseille:France,41
+Lansing:MI,Cancun:Mexico,205
+Austin:TX,London:United Kingdom,160
+Toronto:Canada,Flint:MI,2
+Omaha:NE,Monterrey:Mexico,6
+Atlanta:GA,Abuja:Nigeria,293
+Nice:France,Los Angeles:CA,19
+Kolkata:India,New York:NY,735
+Gdansk:Poland,New York:NY,17
+New York:NY,Gdansk:Poland,9
+Barcelona:Spain,Fort Lauderdale:FL,3
+Athens:Greece,San Francisco:CA,5
+San Francisco:CA,Geneva:Switzerland,4
+Bangkok:Thailand,Minneapolis:MN,3
+Osaka:Japan,Fairbanks:AK,79
+Paris:France,Salt Lake City:UT,4474
+Honolulu:HI,Shanghai:China,102
+San Juan:PR,Saint Barthelemy:Saint Barthelemy,167
+Tampa:FL,Medellin:Colombia,11
+Santo Domingo:Dominican Republic,Alexandria:LA,15
+Busan:South Korea,Honolulu:HI,6
+Quebec:Canada,Chicago:IL,1646
+London:Canada,Chicago:IL,1267
+El Paso:TX,Managua:Nicaragua,26
+Cincinnati:OH,Beijing:China,5
+Toluca:Mexico,Oakland:CA,382
+West Palm Beach/Palm Beach:FL,Andros Town:The Bahamas,897
+Appleton:WI,Toronto:Canada,4
+London:United Kingdom,Austin:TX,109
+Charlotte:NC,Rio de Janeiro:Brazil,4113
+Guatemala City:Guatemala,Alexandria:LA,50
+Houston:TX,Moscow:Russia,1426
+Boston:MA,Ho Chi Minh City:Vietnam,21
+Abuja:Nigeria,New York:NY,603
+Birmingham:AL,London:Canada,2
+Quebec:Canada,Washington:DC,329
+Denver:CO,Ho Chi Minh City:Vietnam,12
+Washington:DC,Medellin:Colombia,46
+Oslo:Norway,Raleigh/Durham:NC,13
+Washington:DC,Barcelona:Spain,88
+Wichita:KS,Tokyo:Japan,2
+Cali:Colombia,Washington:DC,88
+Wichita:KS,Vancouver:Canada,1
+Dublin:Ireland,Cincinnati:OH,9
+Havana:Cuba,New York:NY,379
+Atlanta:GA,Singapore:Singapore,448
+Taipei:Taiwan,Dallas/Fort Worth:TX,16
+Brussels:Belgium,Philadelphia:PA,2828
+Tuxtla Gutierrez:Mexico,Houston:TX,207
+Teterboro:NJ,Genoa:Italy,1
+New York:NY,Kolkata:India,735
+Kenmore:WA,Sullivan Bay:Canada,14
+Alexandria:LA,Bogota:Colombia,79
+Seattle:WA,Rome:Italy,35
+Atlanta:GA,Manila:Philippines,409
+Abuja:Nigeria,Atlanta:GA,226
+Montreal:Canada,Santa Ana:CA,31
+Newark:NJ,Bonaire:Netherlands Antilles,296
+Las Vegas:NV,Shannon:Ireland,2
+Columbus:OH,San Jose del Cabo:Mexico,15
+Grande Prairie:Canada,Anchorage:AK,20
+Rock Sound:The Bahamas,Columbia:SC,8
+Edmonton:Canada,Omaha:NE,2
+Houston:TX,Brussels:Belgium,252
+San Francisco:CA,Istanbul:Turkey,29
+Miami:FL,Ibague:Colombia,12
+Athens:Greece,Philadelphia:PA,1955
+Washington:DC,Dubai:United Arab Emirates,5854
+Monterrey:Mexico,Wichita:KS,2
+Oklahoma City:OK,Vancouver:Canada,4
+London:United Kingdom,Teterboro:NJ,4
+Winnipeg:Canada,Knoxville:TN,1
+Orlando:FL,Athens:Greece,3
+Alexandria:LA,Guatemala City:Guatemala,210
+Tulsa:OK,Cozumel:Mexico,1
+Jacksonville:FL,Lisbon:Portugal,3
+Jeju:South Korea,Guam:TT,4
+Accra:Ghana,Seattle:WA,4
+Philadelphia:PA,Lisbon:Portugal,1906
+Madrid:Spain,Detroit:MI,32
+Budapest:Hungary,Fort Lauderdale:FL,18
+Los Angeles:CA,Toluca:Mexico,2151
+Raleigh/Durham:NC,Belize City:Belize,10
+Denver:CO,Zurich:Switzerland,200
+Wichita:KS,Mexico City:Mexico,6
+Fort Lauderdale:FL,San Pedro Sula:Honduras,1630
+Philadelphia:PA,Tel Aviv:Israel,5644
+Kenmore:WA,Port McNeill:Canada,27
+Chicago:IL,Athens:Greece,73
+Miami:FL,Prague:Czech Republic,52
+Beijing:China,Honolulu:HI,65
+San Jose:Costa Rica,Detroit:MI,6
+Doha:Qatar,Houston:TX,6021
+Washington:DC,Bucaramanga:Colombia,31
+Washington:DC,Cartagena:Colombia,36
+Accra:Ghana,Chicago:IL,95
+Houston:TX,Manama:Bahrain,25
+Tegucigalpa:Honduras,Atlanta:GA,1543
+Akron:OH,Montreal:Canada,2
+Puerto Vallarta:Mexico,Charlotte:NC,782
+Oakland:CA,Tijuana:Mexico,86
+Harlingen/San Benito:TX,Guatemala City:Guatemala,342
+Hong Kong:Hong Kong,Cleveland:OH,18
+Winnipeg:Canada,Wichita:KS,1
+Dallas/Fort Worth:TX,Taipei:Taiwan,12
+Denver:CO,Singapore:Singapore,31
+Hartford:CT,Hong Kong:Hong Kong,13
+Saint Barthelemy:Saint Barthelemy,San Juan:PR,189
+Burlington:VT,Quebec:Canada,3
+Geneva:Switzerland,West Palm Beach/Palm Beach:FL,1
+Guam:TT,Nadi:Fiji,522
+Myrtle Beach:SC,Puerto Vallarta:Mexico,2
+Alexandria:LA,San Pedro Sula:Honduras,40
+San Salvador:El Salvador,White Plains:NY,6
+Neiva:Colombia,Fort Lauderdale:FL,2
+Recife:Brazil,San Juan:PR,8
+Abu Dhabi:United Arab Emirates,Chicago:IL,7352
+Santa Rosa:CA,Vancouver:Canada,1
+Washington:DC,Kuwait:Kuwait,4798
+New York:NY,Pisa:Italy,1931
+Amsterdam:Netherlands,Dallas/Fort Worth:TX,3732
+Washington:DC,Willemstad:Netherlands Antilles,13
+Barcelona:Spain,Newark:NJ,4166
+Montreal:Canada,Bloomington/Normal:IL,1
+Ontario:CA,Mazatlan:Mexico,1
+Chicago:IL,Barcelona:Spain,536
+Mayo:Canada,Fairbanks:AK,1
+New York:NY,Neiva:Colombia,7
+Guam:TT,Jeju:South Korea,5
+Orlando:FL,Johannesburg:South Africa,2
+Orlando:FL,Queretaro:Mexico,10
+Atlanta:GA,Beijing:China,179
+Riohacha:Colombia,New York:NY,1
+Medellin:Colombia,Hartford:CT,1
+Kiev:Ukraine,Portland:OR,21
+Gander:Canada,Washington:DC,1
+Milwaukee:WI,Edmonton:Canada,1
+Denver:CO,Accra:Ghana,5
+Samana:Dominican Republic,Miami:FL,20
+Baltimore:MD,Philipsburg:Sint Maarten,2
+Orlando:FL,Philipsburg:Sint Maarten,1
+Miami:FL,Popayan:Colombia,3
+Columbus:OH,Kingston:Jamaica,2
+Montego Bay:Jamaica,Charlotte Amalie:VI,1
+Phoenix:AZ,San Pedro Sula:Honduras,57
+Victoria:Canada,Kenmore:WA,97
+Gander:Canada,Portsmouth:NH,26
+Andros Town:The Bahamas,Mayport:FL,6
+Melbourne:Australia,Chicago:IL,424
+Lajes:Portugal,Washington:DC,16
+Des Moines:IA,Ottawa:Canada,3
+Vancouver:Canada,North Bend/Coos Bay:OR,5
+Newark:NJ,Athens:Greece,2353
+Chicago:IL,London:Canada,1411
+Beijing:China,Seattle:WA,4452
+Kenmore:WA,Vancouver:Canada,1
+Fort Pierce:FL,Moss Town:The Bahamas,1
+Honolulu:HI,Beijing:China,51
+Willemstad:Curacao,Miami:FL,2628
+New York:NY,Rzeszow:Poland,200
+Barcelona:Spain,Washington:DC,104
+Syracuse:NY,Providenciales:Turks and Caicos Islands,3
+Athens:Greece,Newark:NJ,2377
+Kenmore:WA,Nanaimo:Canada,23
+Fairbanks:AK,Mayo:Canada,1
+Rochester:NY,Punta Cana:Dominican Republic,1
+Orlando:FL,Maracaibo:Venezuela,62
+Moss Town:The Bahamas,Atlanta:GA,136
+Minneapolis:MN,Moscow:Russia,66
+Ibague:Colombia,New York:NY,10
+Philipsburg:Sint Maarten,Boston:MA,169
+Athens:Greece,Tampa:FL,32
+Salisbury:MD,Keflavik/Reykjavik:Iceland,1
+New Orleans:LA,Rio de Janeiro:Brazil,49
+Calgary:Canada,Kansas City:MO,9
+Philadelphia:PA,Athens:Greece,1955
+Dusseldorf:Germany,Raleigh/Durham:NC,27
+White Plains:NY,Zurich:Switzerland,2
+Willemstad:Curacao,Newark:NJ,16
+Vancouver:Canada,Missoula:MT,2
+Orlando:FL,Singapore:Singapore,19
+Bogota:Colombia,Washington:DC,1179
+Las Vegas:NV,Seoul:South Korea,1719
+Kolkata:India,Washington:DC,69
+Ho Chi Minh City:Vietnam,Los Angeles:CA,69
+New York:NY,Iquique:Chile,10
+Houston:TX,Doha:Qatar,5914
+New Orleans:LA,Rome:Italy,6
+New York:NY,Ibague:Colombia,8
+Montreal:Canada,Roanoke:VA,7
+Accra:Ghana,Washington:DC,1521
+Raleigh/Durham:NC,Oslo:Norway,12
+Monterey:CA,Vancouver:Canada,2
+Cortes Bay:Canada,Kenmore:WA,28
+Tokyo:Japan,Salt Lake City:UT,2118
+Nanaimo:Canada,Kenmore:WA,21
+Fort Lauderdale:FL,Budapest:Hungary,39
+Seoul:South Korea,Oakland:CA,1
+Singapore:Singapore,Orlando:FL,14
+Toronto:Canada,Chattanooga:TN,5
+Los Angeles:CA,Berlin:Germany,24
+Detroit:MI,San Jose:Costa Rica,2
+Andros Town:The Bahamas,West Palm Beach/Palm Beach:FL,927
+Port McNeill:Canada,Kenmore:WA,29
+Halifax:Canada,Chicago:IL,1479
+Ibague:Colombia,Miami:FL,10
+Chicago:IL,Accra:Ghana,57
+Philipsburg:Sint Maarten,San Juan:PR,348
+Minneapolis:MN,Santiago:Dominican Republic,2
+Hong Kong:Hong Kong,Denver:CO,68
+Praia:Cape Verde,Boston:MA,1278
+Kenmore:WA,Tofino:Canada,2
+Veracruz:Mexico,Las Vegas:NV,10
+Rio de Janeiro:Brazil,Charlotte:NC,4073
+Chennai:India,New York:NY,1757
+Orlando:FL,North Eleuthera:The Bahamas,4
+Seoul:South Korea,Las Vegas:NV,2562
+Bangkok:Thailand,Detroit:MI,273
+Miami:FL,Philipsburg:Sint Maarten,1703
+Tampa:FL,Paris:France,20
+Prague:Czech Republic,Fort Lauderdale:FL,39
+Manchester:United Kingdom,Tampa:FL,173
+Zurich:Switzerland,White Plains:NY,3
+Tampa:FL,Zurich:Switzerland,41
+Venice:Italy,Atlanta:GA,1467
+Kenmore:WA,Campbell River:Canada,60
+Fayetteville:AR,Toronto:Canada,6
+Atlanta:GA,Cairo:Egypt,408
+Teterboro:NJ,Nassau:The Bahamas,2
+Belize City:Belize,Los Angeles:CA,81
+Saint Barthelemy:Saint Barthelemy,Charlotte Amalie:VI,1
+San Francisco:CA,Santiago:Chile,43
+Tulsa:OK,Regina:Canada,1
+Boston:MA,Maracaibo:Venezuela,6
+Campbell River:Canada,Kenmore:WA,59
+Accra:Ghana,Cincinnati:OH,12
+Washington:DC,Barranquilla:Colombia,32
+Beijing:China,Guam:TT,28
+Charlotte:NC,Glasgow:United Kingdom,47
+Waco:TX,Nassau:The Bahamas,4
+Ibague:Colombia,Fort Lauderdale:FL,2
+Roatan Island:Honduras,Atlanta:GA,648
+Saskatoon:Canada,New York:NY,3
+Toronto:Canada,Richmond:VA,599
+El Paso:TX,Monterrey:Mexico,3
+Alexandria:LA,San Salvador:El Salvador,81
+Atlanta:GA,Fortaleza:Brazil,628
+Nagoya:Japan,Fairbanks:AK,30
+Liberia:Costa Rica,Hartford:CT,14
+Fresno:CA,Ixtapa/Zihuatanejo:Mexico,13
+Panama City:Panama,Boston:MA,20
+Atlanta:GA,Delhi:India,26
+Lake Simcoe:Canada,Fort Myers:FL,1
+Moscow:Russia,Minneapolis:MN,41
+Philadelphia:PA,Oslo:Norway,1599
+Singapore:Singapore,Atlanta:GA,402
+Manama:Bahrain,Houston:TX,28
+Tokyo:Japan,Augusta:GA,1
+St. Louis:MO,Maracaibo:Venezuela,1
+Burbank:CA,Kosipe:Papua New Guinea,1
+Halifax:Canada,Philadelphia:PA,1583
+Barcelona:Spain,Minneapolis:MN,5
+Lagos:Nigeria,Houston:TX,30
+Salt Lake City:UT,Cranbrook:Canada,62
+Dubai:United Arab Emirates,San Francisco:CA,8793
+Nassau:The Bahamas,Allentown/Bethlehem/Easton:PA,24
+Teterboro:NJ,Geneva:Switzerland,4
+Dakar:Senegal,Washington:DC,1279
+Myrtle Beach:SC,Montego Bay:Jamaica,1
+Reno:NV,San Jose:Costa Rica,1
+Tokyo:Japan,Rota:TT,155
+Regina:Canada,Chicago:IL,441
+Zurich:Switzerland,Denver:CO,204
+Fort Lauderdale:FL,Managua:Nicaragua,1099
+Washington:DC,Accra:Ghana,1554
+Calgary:Canada,Milwaukee:WI,5
+Las Vegas:NV,Hamilton:Bermuda,32
+Houston:TX,Kuwait:Kuwait,156
+Caracas:Venezuela,Aguadilla:PR,20
+Kenmore:WA,Greenway Sound:Canada,2
+Sanford:FL,Bournemouth:United Kingdom,46
+Nadi:Fiji,Guam:TT,527
+Las Vegas:NV,Valencia:Spain,1
+Stockholm:Sweden,White Plains:NY,1
+Cranbrook:Canada,Salt Lake City:UT,62
+Victoria:Canada,San Francisco:CA,2318
+Ezeiza:Argentina,Seattle:WA,1
+Phoenix:AZ,Frankfurt:Germany,404
+New Orleans:LA,Liberia:Costa Rica,9
+West Palm Beach/Palm Beach:FL,Paris:France,1
+Phoenix:AZ,Tokyo:Japan,44
+Delhi:India,Atlanta:GA,10
+Buffalo:NY,Cologne:Germany,2
+Washington:DC,Cali:Colombia,79
+Venice:Italy,Las Vegas:NV,14
+Geneva:Switzerland,Miami:FL,1
+Los Angeles:CA,Ho Chi Minh City:Vietnam,50
+Mexico City:Mexico,Aguadilla:PR,21
+Fargo:ND,London:United Kingdom,1
+Allentown/Bethlehem/Easton:PA,Grand Cayman:Cayman Islands,1
+Aguadilla:PR,Caracas:Venezuela,9
+Ho Chi Minh City:Vietnam,Houston:TX,18
+Philadelphia:PA,Rio de Janeiro:Brazil,115
+Beijing:China,Boston:MA,298
+Cancun:Mexico,Lansing:MI,190
+Copenhagen:Denmark,San Francisco:CA,5
+Kenmore:WA,Sechelt:Canada,4
+London:Canada,Des Moines:IA,1
+Manchester:United Kingdom,Hartford:CT,1
+Cedar Rapids/Iowa City:IA,Toronto:Canada,1
+Dalton:GA,Toronto:Canada,2
+Ixtapa/Zihuatanejo:Mexico,Sacramento:CA,33
+Santiago:Dominican Republic,Fort Lauderdale:FL,1830
+Washington:DC,Kolkata:India,61
+Dubai:United Arab Emirates,Los Angeles:CA,8098
+Atlantic City:NJ,St. Kitts:Saint Kitts and Nevis,12
+Laredo:TX,Saltillo:Mexico,1
+Sapporo:Japan,Miami:FL,12
+Kingston:Jamaica,San Antonio:TX,3
+Desolation Sound:Canada,Kenmore:WA,23
+Lansing:MI,Toronto:Canada,2
+Raleigh/Durham:NC,Frankfurt:Germany,31
+Guam:TT,Beijing:China,28
+Cincinnati:OH,Tokyo:Japan,29
+Paris:France,West Palm Beach/Palm Beach:FL,1
+Goose Bay:Canada,Minneapolis:MN,3
+Bloomington/Normal:IL,Toronto:Canada,1
+Lisbon:Portugal,Pittsburgh:PA,23
+Doha:Qatar,Washington:DC,9207
+New York:NY,San Jose del Cabo:Mexico,17
+Managua:Nicaragua,Fort Lauderdale:FL,1180
+Winnipeg:Canada,Louisville:KY,1
+Mazatlan:Mexico,Newark:NJ,3
+Cartagena:Colombia,Washington:DC,42
+San Francisco:CA,Victoria:Canada,2385
+Singapore:Singapore,Houston:TX,2662
+New York:NY,Naples:Italy,362
+Columbus:GA,San Pedro Sula:Honduras,44
+Shanghai:China,Cleveland:OH,220
+Salt Lake City:UT,Paris:France,4295
+Los Angeles:CA,Hamilton:Canada,1
+Boca Raton:FL,Toronto:Canada,1
+Guayaquil:Ecuador,Alexandria:LA,25
+Port McNeill:Canada,Seattle:WA,15
+Salt Lake City:UT,Hong Kong:Hong Kong,102
+Burbank:CA,Kingston:Jamaica,1
+Lima:Peru,Salt Lake City:UT,85
+Shanghai:China,Guam:TT,25
+Miami:FL,Neiva:Colombia,13
+Halifax:Canada,Atlanta:GA,46
+Pittsburgh:PA,Lisbon:Portugal,24
+Fort Lauderdale:FL,Philipsburg:Sint Maarten,136
+Alexandria:LA,Guayaquil:Ecuador,28
+Myrtle Beach:SC,Hamilton:Canada,1
+Washington:DC,Lajes:Portugal,15
+Ottawa:Canada,South Bend:IN,1
+Guadalajara:Mexico,Santa Ana:CA,1
+Tokyo:Japan,Hartford:CT,1
+Toronto:Canada,Brunswick:GA,10
+Phoenix:AZ,Hong Kong:Hong Kong,7
+Montreal:Canada,Appleton:WI,2
+Copenhagen:Denmark,Detroit:MI,12
+Orlando:FL,Tenerife:Spain,10
+New York:NY,Charlottetown:Canada,160
+Teterboro:NJ,Farnborough:United Kingdom,1
+Memphis:TN,Providenciales:Turks and Caicos Islands,5
+Chicago:IL,Moss Town:The Bahamas,17
+Newark:NJ,Lajes:Portugal,26
+Miami:FL,Samana:Dominican Republic,21
+Kansas City:MO,Halifax:Canada,1
+Vancouver:Canada,Monterey:CA,2
+Cairo:Egypt,Atlanta:GA,192
+Philadelphia:PA,Brussels:Belgium,2975
+Fairbanks:AK,Osaka:Japan,78
+Kuwait:Kuwait,Washington:DC,4827
+Charlottetown:Canada,New York:NY,134
+New York:NY,Liberia:Costa Rica,8
+Tampa:FL,Accra:Ghana,3
+Honolulu:HI,Mexico City:Mexico,8
+Washington:DC,Dakar:Senegal,1450
+Philadelphia:PA,Halifax:Canada,1672
+Willemstad:Curacao,Denver:CO,3
+Amman:Jordan,Atlanta:GA,55
+Ponce:PR,Santo Domingo:Dominican Republic,12
+Fairbanks:AK,Grande Prairie:Canada,10
+Hong Kong:Hong Kong,Salt Lake City:UT,101
+Bogota:Colombia,St. Louis:MO,5
+Sydney:Australia,Atlanta:GA,580
+Cedar Rapids/Iowa City:IA,Winnipeg:Canada,1
+Detroit:MI,Santiago:Dominican Republic,15
+Fort Lauderdale:FL,Moncton:Canada,7
+Tel Aviv:Israel,Charlotte:NC,16
+Atlanta:GA,Venice:Italy,1349
+Fargo:ND,Moscow:Russia,1
+Johannesburg:South Africa,Orlando:FL,51
+Managua:Nicaragua,San Antonio:TX,14
+Seattle:WA,Abbotsford:Canada,1
+Tofino:Canada,Portland:OR,1
+Port-au-Prince:Haiti,Atlanta:GA,37
+Houston:TX,Kingston:Jamaica,11
+Athens:Greece,Chicago:IL,68
+Big Bay Marina:Canada,Kenmore:WA,27
+Atlanta:GA,Fort de France:Martinique,14
+Charlottetown:Canada,Columbus:OH,2
+Atlanta:GA,Port-au-Prince:Haiti,92
+Chicago:IL,Dubai:United Arab Emirates,249
+Philipsburg:Sint Maarten,New York:NY,1404
+Cayman Brac:Cayman Islands,Houston:TX,7
+San Francisco:CA,Copenhagen:Denmark,2
+Newark:NJ,Rzeszow:Poland,253
+Tuktoyaktuk:Canada,Fairbanks:AK,1
+Los Angeles:CA,Berne:Switzerland,1
+Raleigh/Durham:NC,Willemstad:Curacao,3
+Santa Barbara:CA,Vancouver:Canada,1
+Atlanta:GA,Amman:Jordan,69
+Orlando:FL,Berlin:Germany,46
+Lima:Peru,Orlando:FL,36
+Dubai:United Arab Emirates,Washington:DC,5615
+Teterboro:NJ,Vancouver:Canada,1
+Minneapolis:MN,Shanghai:China,328
+Berlin:Germany,Orlando:FL,79
+Houston:TX,Oslo:Norway,220
+Manizales:Colombia,Washington:DC,3
+Toronto:Canada,Appleton:WI,1
+Toronto:Canada,Long Beach:CA,4
+Beijing:China,Pittsburgh:PA,18
+Victorville:CA,Fredericton:Canada,6
+Oslo:Norway,Chicago:IL,43
+Las Vegas:NV,Budapest:Hungary,1
+Montreal:Canada,Akron:OH,3
+Denver:CO,Nice:France,4
+Pittsburgh:PA,Amsterdam:Netherlands,14
+White Plains:NY,Marrakech:Morocco,1
+Burbank:CA,Berlin:Germany,1
+Burbank:CA,Venice:Italy,1
+Rapid City:SD,Toronto:Canada,1
+Stuttgart:Germany,Los Angeles:CA,15
+Las Vegas:NV,Prague:Czech Republic,6
+St. Louis:MO,Philipsburg:Netherlands Antilles,5
+Willemstad:Curacao,San Juan:PR,66
+Nice:France,Rochester:MN,1
+Paris:France,Tampa:FL,1
+Cancun:Mexico,San Jose:CA,2
+New York:NY,Abuja:Nigeria,474
+Teterboro:NJ,Philipsburg:Sint Maarten,1
+Detroit:MI,Manchester:United Kingdom,3
+Honolulu:HI,Paris:France,1
+Samana:Dominican Republic,San Juan:PR,12
+Edmonton:Canada,Cheyenne:WY,12
+San Juan:PR,Samana:Dominican Republic,13
+Calgary:Canada,Oklahoma City:OK,1
+North Bend/Coos Bay:OR,Vancouver:Canada,5
+Toronto:Canada,Elmira/Corning:NY,1
+Sanford:FL,Leeds/Bradford:United Kingdom,44
+Gander:Canada,Nashville:TN,3
+Teterboro:NJ,Venice:Italy,1
+Hartford:CT,Cozumel:Mexico,6
+Keflavik/Reykjavik:Iceland,Sanford:FL,797
+Reno:NV,San Jose del Cabo:Mexico,1
+Atlanta:GA,Tegucigalpa:Honduras,1538
+Las Vegas:NV,Hamilton:Canada,1
+Ho Chi Minh City:Vietnam,Boston:MA,19
+Seattle:WA,Keflavik/Reykjavik:Iceland,2465
+Pereira:Colombia,Washington:DC,28
+Miami:FL,Riohacha:Colombia,2
+Toronto:Canada,Wilmington:NC,6
+Harlingen/San Benito:TX,Tegucigalpa:Honduras,48
+San Pedro Sula:Honduras,San Antonio:TX,33
+Teterboro:NJ,Moscow:Russia,2
+San Juan:PR,Philipsburg:Sint Maarten,406
+Chicago:IL,Philipsburg:Sint Maarten,23
+Ponce:PR,Punta Cana:Dominican Republic,40
+Willemstad:Netherlands Antilles,Los Angeles:CA,6
+Nashville:TN,Kingston:Jamaica,2
+Hartford:CT,Kingston:Jamaica,24
+Palm Springs:CA,Mexico City:Mexico,1
+Guangzhou:China,Anchorage:AK,26
+Hartford:CT,Liberia:Costa Rica,16
+Kenmore:WA,Powell River:Canada,20
+Miami:FL,Manila:Philippines,11
+Kenmore:WA,Gorge Harbor:Canada,2
+Kenmore:WA,Big Bay Marina:Canada,26
+Saint Barthelemy:Saint Barthelemy,Christiansted:VI,1
+Brownsville:TX,Grand Cayman:Cayman Islands,1
+Atlanta:GA,Port of Spain:Trinidad and Tobago,94
+Bogota:Colombia,Alexandria:LA,13
+Miami:FL,Farnborough:United Kingdom,1
+Quebec:Canada,Kalamazoo:MI,3
+Buffalo:NY,San Jose:Costa Rica,2
+Portsmouth:NH,Shannon:Ireland,16
+Berlin:Germany,Teterboro:NJ,1
+Accra:Ghana,Atlanta:GA,1094
+Montreal:Canada,Moline:IL,1
+Miami:FL,Geneva:Switzerland,1
+Toronto:Canada,Saginaw/Bay City/Midland:MI,2
+San Pedro Sula:Honduras,Phoenix:AZ,31
+Toronto:Canada,Jackson/Vicksburg:MS,1
+San Salvador:El Salvador,Harlingen/San Benito:TX,23
+Tokyo:Japan,Phoenix:AZ,1
+Portland:OR,Kiev:Ukraine,17
+Anacortes:WA,Victoria:Canada,1
+Valencia:Spain,New York:NY,762
+Edmonton:Canada,Anchorage:AK,9
+Bonaire:Bonaire:Sint Eustatius:and Saba,Houston:TX,188
+Washington:DC,Quebec:Canada,234
+Fayetteville:AR,Monterrey:Mexico,1
+Minneapolis:MN,Sao Paulo:Brazil,13
+Colorado Springs:CO,Hahn:Germany,19
+Wilmington:NC,Montego Bay:Jamaica,1
+Prague:Czech Republic,Las Vegas:NV,9
+Riohacha:Colombia,Miami:FL,3
+San Jose del Cabo:Mexico,Palm Springs:CA,1
+Newark:NJ,Willemstad:Curacao,34
+New York:NY,Chennai:India,1663
+Las Vegas:NV,Dusseldorf:Germany,20
+Houston:TX,Singapore:Singapore,2851
+Oklahoma City:OK,Acapulco:Mexico,1
+Leipzig:Germany,Savannah:GA,25
+Toronto:Canada,Evansville:IN,1
+Boston:MA,Beijing:China,275
+Roatan Island:Honduras,Newark:NJ,49
+London:Canada,Greer:SC,1
+Lagos:Nigeria,Washington:DC,32
+Eagle:CO,Toronto:Canada,1
+Venice:Italy,Dallas/Fort Worth:TX,24
+Ottawa:Canada,Louisville:KY,2
+Fort Wayne:IN,Toronto:Canada,2
+St. Louis:MO,Philipsburg:Sint Maarten,6
+Tenerife:Spain,Miami:FL,247
+Toronto:Canada,Battle Creek:MI,1
+Edmonton:Canada,Burbank:CA,1
+Fairbanks:AK,Inuvik:Canada,1
+Chicago:IL,Abu Dhabi:United Arab Emirates,6898
+London:Canada,Harrisburg:PA,1
+Miami:FL,Ciudad del Carmen:Mexico,2
+Helsinki:Finland,Chicago:IL,1
+Bonaire:Bonaire:Sint Eustatius:and Saba,Newark:NJ,49
+Las Vegas:NV,Veracruz:Mexico,10
+Moscow:Russia,Newark:NJ,1
+Houston:TX,Cayman Brac:Cayman Islands,7
+Port-au-Prince:Haiti,Sanford:FL,27
+Honolulu:HI,Kuwait:Kuwait,8
+Tegucigalpa:Honduras,Memphis:TN,2
+Santiago:Dominican Republic,Washington:DC,29
+Turin:Italy,Newark:NJ,4
+Edinburgh:United Kingdom,Bangor:ME,1
+Neiva:Colombia,New York:NY,11
+Gorge Harbor:Canada,Kenmore:WA,3
+Greensboro/High Point:NC,Lake Simcoe:Canada,1
+Sullivan Bay:Canada,Kenmore:WA,13
+Fairbanks:AK,Kagoshima:Japan,5
+Big Bay Marina:Canada,Seattle:WA,7
+Kansas City:MO,Providenciales:Turks and Caicos Islands,1
+Lexington:KY,Farnborough:United Kingdom,1
+Cancun:Mexico,Santa Ana:CA,9
+Camp Springs:MD,Guantanamo:Cuba,14
+Geneva:Switzerland,Detroit:MI,19
+Minneapolis:MN,Busan:South Korea,86
+Hong Kong:Hong Kong,Hartford:CT,12
+Grande Prairie:Canada,Juneau:AK,3
+Ottawa:Canada,Colorado Springs:CO,4
+Providence:RI,Providenciales:Turks and Caicos Islands,1
+Sacramento:CA,Acapulco:Mexico,25
+Victorville:CA,Edmonton:Canada,22
+Portland:OR,Berlin:Germany,1
+Savannah:GA,Montreal:Canada,4
+Kenmore:WA,Desolation Sound:Canada,22
+Greenway Sound:Canada,Kenmore:WA,2
+Barbados/Bridgetown:Barbados,Fort Myers:FL,7
+San Antonio:TX,Providenciales:Turks and Caicos Islands,2
+Rifle:CO,North Eleuthera:The Bahamas,1
+Indianapolis:IN,Kitchener:Canada,10
+Richmond:VA,Providenciales:Turks and Caicos Islands,2
+Raleigh/Durham:NC,Moss Town:The Bahamas,16
+Hartford:CT,Singapore:Singapore,6
+Norfolk:VA,Goose Bay:Canada,8
+Frankfurt:Germany,Phoenix:AZ,426
+Charlottesville:VA,Toronto:Canada,1
+Monterrey:Mexico,Dayton:OH,2
+Queretaro:Mexico,Seattle:WA,3
+Barbados/Bridgetown:Barbados,Houston:TX,10
+Houston:TX,Barbados/Bridgetown:Barbados,9
+Nice:France,Teterboro:NJ,2
+Beijing:China,Atlanta:GA,135
+Dallas:TX,Providenciales:Turks and Caicos Islands,4
+Oslo:Norway,Philadelphia:PA,1637
+Newark:NJ,La Macaza:Canada,72
+Boston:MA,Akureyri:Iceland,14
+Manama:Bahrain,Washington:DC,879
+Finningley:United Kingdom,Sanford:FL,44
+Hamilton:Canada,Erie:PA,1
+Chicago:IL,Halifax:Canada,1305
+Los Angeles:CA,Moss Town:The Bahamas,13
+Dallas/Fort Worth:TX,Willemstad:Netherlands Antilles,7
+Tegucigalpa:Honduras,San Antonio:TX,13
+Riyadh:Saudi Arabia,Boston:MA,3
+New York:NY,Tampere:Finland,21
+Tampa:FL,Stuttgart:Germany,11
+London:United Kingdom,Jacksonville:FL,4
+Sal Island:Cape Verde,San Juan:PR,6
+Atlanta:GA,Philipsburg:Sint Maarten,277
+Orlando:FL,Beijing:China,4
+Fort Lauderdale:FL,Santiago:Dominican Republic,1725
+Newark:NJ,Glasgow/Prestwick:United Kingdom,13
+Newark:NJ,Roatan Island:Honduras,55
+Jacksonville:FL,London:United Kingdom,7
+Denver:CO,Geneva:Switzerland,26
+Puerto Vallarta:Mexico,Fresno:CA,1
+Jeddah:Saudi Arabia,Cleveland:OH,1
+East Farmingdale:NY,Vancouver:Canada,4
+Camp Springs:MD,Puerto Plata:Dominican Republic,9
+Charleston/Dunbar:WV,London:Canada,1
+Tampa:FL,Port of Spain:Trinidad and Tobago,9
+Anchorage:AK,Inuvik:Canada,1
+Atlanta:GA,St. John's:Canada,17
+Jakarta:Indonesia,Guam:TT,2
+Manila:Philippines,Atlanta:GA,329
+Newark:NJ,Farnborough:United Kingdom,1
+Milwaukee:WI,San Jose:Costa Rica,8
+Salt Lake City:UT,Nassau:The Bahamas,1
+Nice:France,Miami:FL,1
+Edmonton:Canada,Albany:NY,1
+Hamilton:Canada,Los Angeles:CA,1
+Salt Lake City:UT,Lima:Peru,84
+Teterboro:NJ,Hamilton:Canada,3
+Rzeszow:Poland,Newark:NJ,246
+Dubai:United Arab Emirates,Houston:TX,7153
+Knoxville:TN,Quebec:Canada,2
+Cleveland:OH,Shanghai:China,168
+La Macaza:Canada,Newark:NJ,69
+Pittsburgh:PA,Beijing:China,8
+Houston:TX,Hong Kong:Hong Kong,61
+Nootka Sound:Canada,Tacoma:WA,2
+London:United Kingdom,Salt Lake City:UT,135
+Burbank:CA,London:United Kingdom,1
+Bangor:ME,Leipzig:Germany,11
+Los Angeles:CA,Yinchuan:China,1
+Eagle River:WI,Vancouver:Canada,1
+Philipsburg:Sint Maarten,Miami:FL,1649
+Moss Town:The Bahamas,Detroit:MI,7
+Kingston:Jamaica,Hartford:CT,3
+Panama City:Panama,Baltimore:MD,12
+Fort Lauderdale:FL,Armenia:Colombia,1168
+Asheville:NC,Quebec:Canada,1
+Toronto:Canada,Cheyenne:WY,5
+Burbank:CA,Flores:Guatemala,1
+Puerto Vallarta:Mexico,Long Beach:CA,1
+Houston:TX,Bonaire:Bonaire:Sint Eustatius:and Saba,208
+Seattle:WA,Port McNeill:Canada,14
+Tacoma:WA,Port McNeill:Canada,2
+Kalamazoo:MI,Toronto:Canada,2
+Pullman:WA,Vancouver:Canada,1
+Kenmore:WA,Port Hardy:Canada,2
+Dallas/Fort Worth:TX,Port-au-Prince:Haiti,27
+Stuttgart:Germany,Tampa:FL,23
+Columbus:OH,Moss Town:The Bahamas,10
+Buffalo:NY,Philipsburg:Netherlands Antilles,1
+Tampa:FL,Prague:Czech Republic,25
+Lisbon:Portugal,Philadelphia:PA,1974
+Willemstad:Curacao,Los Angeles:CA,7
+Lima:Peru,Denver:CO,5
+Riverside:CA,Hahn:Germany,21
+Ottawa:Canada,Huntsville:AL,6
+Rome:Italy,San Diego:CA,3
+New York:NY,Valencia:Spain,730
+Paris:France,Charlotte Amalie:VI,1
+Minneapolis:MN,Trondheim:Norway,10
+Fort Yukon:AK,Old Crow:Canada,1
+Acapulco:Mexico,Austin:TX,2
+Las Vegas:NV,Karlsruhe/Baden-Baden:Germany,1
+Brussels:Belgium,Syracuse:NY,13
+Anchorage:AK,Tuktoyaktuk:Canada,1
+Charlotte:NC,Rome:Italy,3461
+Cape Town:South Africa,New York:NY,8
+London:United Kingdom,Bedford:MA,1
+Moscow:Russia,Las Vegas:NV,8
+Atlanta:GA,Tobago:Trinidad and Tobago,85
+Coeur d'Alene:ID,Vancouver:Canada,1
+Seattle:WA,Cortes Bay:Canada,1
+Toronto:Canada,Monticello:NY,1
+Allentown/Bethlehem/Easton:PA,Providenciales:Turks and Caicos Islands,1
+Farnborough:United Kingdom,Los Angeles:CA,1
+Philipsburg:Sint Maarten,Washington:DC,87
+Brasilia:Brazil,Atlanta:GA,2028
+Bangor:ME,Geneva:Switzerland,1
+Fargo:ND,Santa Cruz/Huatulco:Mexico,14
+Montego Bay:Jamaica,Wilmington:NC,1
+Tampa:FL,Willemstad:Curacao,2
+San Diego:CA,Athens:Greece,12
+Tegucigalpa:Honduras,Alexandria:LA,26
+Karlsruhe/Baden-Baden:Germany,Easton:MD,1
+Victorville:CA,Ottawa:Canada,217
+New York:NY,Moss Town:The Bahamas,15
+Nassau:The Bahamas,Teterboro:NJ,3
+Lexington:KY,Toronto:Canada,4
+Augusta:GA,Tokyo:Japan,1
+Detroit:MI,Guatemala City:Guatemala,10
+El Paso:TX,Guatemala City:Guatemala,193
+Baltimore:MD,Monterrey:Mexico,3
+Tampa:FL,Athens:Greece,22
+Sacramento:CA,Ixtapa/Zihuatanejo:Mexico,33
+Hartford:CT,St. Johns:Antigua and Barbuda,12
+Niagara Falls:NY,Stephenville:Canada,13
+Akureyri:Iceland,Seattle:WA,10
+London:United Kingdom,Boca Raton:FL,1
+Rockford:IL,Windsor:Canada,2
+Fort Lauderdale:FL,Istanbul:Turkey,4
+Teterboro:NJ,Manchester:United Kingdom,1
+Detroit:MI,Bangkok:Thailand,308
+Moscow:Russia,Duluth:MN,1
+Athens:Greece,Hartford:CT,18
+Boston:MA,Stockholm:Sweden,3
+Kodiak:AK,St. Lucia:Saint Lucia,1
+San Antonio:TX,Tegucigalpa:Honduras,54
+Miami:FL,Karlsruhe/Baden-Baden:Germany,1
+Fargo:ND,Geneva:Switzerland,1
+Reno:NV,Cancun:Mexico,39
+Los Angeles:CA,Belize City:Belize,59
+Victoria:Canada,Westsound:WA,1
+Geneva:Switzerland,Duluth:MN,1
+Galena:AK,St. Pierre:Saint Pierre and Miquelon,1
+Denver:CO,Hong Kong:Hong Kong,36
+Kenmore:WA,Cortes Bay:Canada,28
+Venice:Italy,Teterboro:NJ,1
+Van Nuys:CA,Papeete:French Polynesia,1
+Hong Kong:Hong Kong,Houston:TX,67
+San Luis Potosi:Mexico,Laredo:TX,2
+Edinburgh:United Kingdom,Sanford:FL,21
+Philadelphia:PA,Philipsburg:Sint Maarten,298
+Miami:FL,The Valley:Anguilla,2
+Washington:DC,Bordeaux:France,21
+Orlando:FL,Manila:Philippines,1
+Guam:TT,Luzon Island:Philippines,9
+Iqaluit:Canada,San Diego:CA,1
+Penticton:Canada,Eagle River:WI,1
+Oakland:CA,Toluca:Mexico,337
+Seattle:WA,Madrid:Spain,7
+Miami:FL,Tenerife:Spain,238
+Rzeszow:Poland,New York:NY,206
+Tel Aviv:Israel,Bangor:ME,1
+Miami:FL,Athens:Greece,1
+Napa:CA,Vancouver:Canada,1
+Van Nuys:CA,San Jose del Cabo:Mexico,1
+Rota:TT,Sendai:Japan,6
+Atlanta:GA,Bonaire:Bonaire:Sint Eustatius:and Saba,148
+Istanbul:Turkey,San Francisco:CA,38
+Christiansted:VI,St. Kitts:Saint Kitts and Nevis,13
+Guam:TT,Iwoto:Japan,21
+Zurich:Switzerland,Indianapolis:IN,1
+Mexico City:Mexico,Bangor:ME,13
+Akron:OH,St. Kitts:Saint Kitts and Nevis,27
+San Diego:CA,Rome:Italy,10
+Freeport:The Bahamas,Tuscaloosa:AL,3
+Regina:Canada,Milwaukee:WI,11
+Houston:TX,Ho Chi Minh City:Vietnam,21
+St. Johns:Antigua and Barbuda,Hartford:CT,6
+Rapid City:SD,Cancun:Mexico,3
+Columbus:GA,Guatemala City:Guatemala,31
+Tofino:Canada,Kenmore:WA,2
+Cortes Bay:Canada,Seattle:WA,1
+The Valley:Anguilla,Fort Lauderdale:FL,2
+Edmonton:Canada,San Jose:CA,7
+Tokyo:Japan,Baltimore:MD,14
+Montego Bay:Jamaica,Seattle:WA,18
+Calgary:Canada,East Farmingdale:NY,3
+Sanford:FL,Bristol:United Kingdom,398
+Portland:OR,Tofino:Canada,1
+Detroit:MI,Okinawa:Japan,3
+Madrid:Spain,Teterboro:NJ,2
+Athens:Greece,Teterboro:NJ,1
+New Orleans:LA,Barbados/Bridgetown:Barbados,1
+Chihuahua:Mexico,Las Vegas:NV,7
+Demopolis:AL,Hamilton:Canada,1
+Nashville:TN,Moss Town:The Bahamas,4
+Monrovia:Liberia,Atlanta:GA,126
+Prague:Czech Republic,Tampa:FL,21
+Westsound:WA,Victoria:Canada,1
+Kuwait:Kuwait,Orlando:FL,1
+Boston:MA,Mumbai:India,22
+Stockholm:Sweden,Boston:MA,1
+Madrid:Spain,Seattle:WA,3
+Laredo:TX,San Pedro Sula:Honduras,10
+New York:NY,Peterborough:Canada,1
+Brize Norton:United Kingdom,San Diego:CA,7
+San Antonio:TX,Managua:Nicaragua,5
+Havana:Cuba,Fort Lauderdale:FL,3
+London:United Kingdom,Fargo:ND,1
+Mazatlan:Mexico,Reno:NV,9
+Nashville:TN,Charlottetown:Canada,2
+Columbus:GA,San Salvador:El Salvador,16
+Tijuana:Mexico,Oakland:CA,117
+Minneapolis:MN,San Salvador:El Salvador,4
+Winnipeg:Canada,Springfield:MO,2
+Roche Harbor:WA,Victoria:Canada,1
+Nassau:The Bahamas,Waco:TX,4
+Sanford:FL,Newquay:United Kingdom,23
+Dublin:Ireland,Minneapolis:MN,5
+Philipsburg:Sint Maarten,Atlanta:GA,226
+Hahn:Germany,Cherry Point:NC,22
+Boston:MA,Moscow:Russia,5
+Seville:Spain,Bangor:ME,1
+Denver:CO,Derby:United Kingdom,19
+Minneapolis:MN,Moss Town:The Bahamas,11
+Houston:TX,Lagos:Nigeria,22
+Mexico City:Mexico,Buffalo:NY,9
+Keflavik/Reykjavik:Iceland,Atlanta:GA,1
+East Farmingdale:NY,Saskatoon:Canada,3
+San Juan:PR,Sal Island:Cape Verde,20
+Toronto:Canada,Rochester:MN,3
+Allentown/Bethlehem/Easton:PA,Nassau:The Bahamas,12
+Denver:CO,Dubai:United Arab Emirates,29
+Vancouver:Canada,Flagstaff:AZ,1
+Portland:OR,Goose Bay:Canada,20
+Dallas:TX,Calgary:Canada,4
+Evansville:IN,Montreal:Canada,2
+Santo Domingo:Dominican Republic,Charleston:SC,1
+San Pedro Sula:Honduras,Alexandria:LA,5
+Tacoma:WA,Nootka Sound:Canada,2
+Vancouver:Canada,Santa Rosa:CA,1
+Kingston:Jamaica,Dallas/Fort Worth:TX,10
+Baltimore:MD,Havana:Cuba,13
+Toronto:Canada,Kalamazoo:MI,1
+East Farmingdale:NY,Quebec:Canada,3
+Port of Spain:Trinidad and Tobago,Atlantic City:NJ,2
+Laredo:TX,Tegucigalpa:Honduras,12
+Dusseldorf:Germany,Las Vegas:NV,7
+Savannah:GA,Punta Cana:Dominican Republic,1
+Des Moines:IA,Winnipeg:Canada,1
+Denver:CO,Pisa:Italy,3
+San Pedro Sula:Honduras,Boston:MA,32
+Boston:MA,Winnipeg:Canada,6
+Beijing:China,Orlando:FL,4
+Atlanta:GA,Monrovia:Liberia,146
+Lagos de Moreno:Mexico,East Hampton:NY,1
+Minneapolis:MN,Barcelona:Spain,6
+Vancouver:Canada,Kotzebue:AK,1
+Toronto:Canada,Peoria:IL,1
+Seattle:WA,Akureyri:Iceland,36
+Kansas City:MO,San Pedro Sula:Honduras,3
+Fayetteville:AR,Montreal:Canada,1
+Busan:South Korea,Minneapolis:MN,74
+Clifton:AZ,Toronto:Canada,1
+Osan:South Korea,Riverside:CA,22
+White Plains:NY,La Macaza:Canada,1
+Santa Cruz/Huatulco:Mexico,Fargo:ND,14
+Bangor:ME,Toulouse:France,1
+Hartford:CT,Caracas:Venezuela,6
+Anchorage:AK,Edmonton:Canada,8
+Salt Lake City:UT,Milan:Italy,3
+Ho Chi Minh City:Vietnam,Denver:CO,18
+Newark:NJ,Port-au-Prince:Haiti,4
+San Diego:CA,Monterrey:Mexico,3
+Boston:MA,Philipsburg:Sint Maarten,188
+Berlin:Germany,Boston:MA,20
+Little Rock:AR,Ottawa:Canada,1
+Edmonton:Canada,San Diego:CA,22
+Mayport:FL,Andros Town:The Bahamas,3
+Newark:NJ,Philipsburg:Sint Maarten,698
+Tokyo:Japan,Camp Springs:MD,8
+Manchester:United Kingdom,Detroit:MI,11
+Berne:Switzerland,Dallas:TX,1
+Newark:NJ,Bonaire:Bonaire:Sint Eustatius:and Saba,64
+Geneva:Switzerland,Savannah:GA,2
+Hamilton:Bermuda,Portland:ME,1
+Kagoshima:Japan,Anchorage:AK,5
+San Salvador:El Salvador,Phoenix:AZ,43
+Armenia:Colombia,Washington:DC,3
+San Jose del Cabo:Mexico,Memphis:TN,3
+Boston:MA,San Pedro Sula:Honduras,51
+Farnborough:United Kingdom,Fort Lauderdale:FL,1
+Charleston:SC,Ottawa:Canada,12
+Philipsburg:Netherlands Antilles,Greer:SC,5
+Fairbanks:AK,Fukuoka:Japan,12
+Edmonton:Canada,Tampa:FL,1
+Fort Lauderdale:FL,Barcelona:Spain,11
+New Orleans:LA,Moss Town:The Bahamas,15
+Punta Cana:Dominican Republic,Ponce:PR,41
+Bullhead City:AZ,Toronto:Canada,21
+Lagos:Nigeria,Chicago:IL,3
+Minneapolis:MN,Jeju:South Korea,4
+Great Falls:MT,Edmonton:Canada,29
+Latrobe:PA,Nassau:The Bahamas,6
+Budapest:Hungary,Las Vegas:NV,1
+Amman:Jordan,Boston:MA,2
+Toronto:Canada,Hickory:NC,1
+Charleston/Dunbar:WV,Edmonton:Canada,2
+Santa Ana:CA,Guatemala City:Guatemala,3
+Charlotte Amalie:VI,Saint Barthelemy:Saint Barthelemy,1
+Quito:Ecuador,Albany:NY,1
+Cardiff:United Kingdom,Atlanta:GA,22
+Matsumoto:Japan,Guam:TT,9
+Charleston:SC,Cozumel:Mexico,1
+Frankfurt:Germany,Raleigh/Durham:NC,20
+Little Rock:AR,Montreal:Canada,1
+Osan:South Korea,Kansas City:MO,11
+Winnipeg:Canada,Moline:IL,1
+Venice:Italy,Tampa:FL,5
+Colorado Springs:CO,San Jose del Cabo:Mexico,4
+Quebec:Canada,Tulsa:OK,1
+El Paso:TX,San Salvador:El Salvador,76
+Grand Cayman:Cayman Islands,Brownsville:TX,1
+Stockholm:Sweden,Detroit:MI,13
+Dallas/Fort Worth:TX,St. Johns:Antigua and Barbuda,6
+Moultrie:GA,London:United Kingdom,1
+Atlanta:GA,Newcastle:United Kingdom,18
+Calgary:Canada,El Paso:TX,1
+Hahn:Germany,Philadelphia:PA,27
+Dakar:Senegal,Atlanta:GA,5
+Rogers:AR,Toronto:Canada,1
+Fort de France:Martinique,Atlanta:GA,14
+Cologne:Germany,East Farmingdale:NY,1
+Tel Aviv:Israel,New Orleans:LA,4
+Long Beach:CA,Calgary:Canada,1
+Jackson:WY,Cancun:Mexico,1
+Guam:TT,Matsumoto:Japan,9
+Chicago:IL,Lagos:Nigeria,1
+Charlotte:NC,Philipsburg:Sint Maarten,1019
+Riverside:CA,Osan:South Korea,22
+White Plains:NY,San Salvador:El Salvador,6
+St. Kitts:Saint Kitts and Nevis,Norfolk:VA,10
+San Diego:CA,Goose Bay:Canada,1
+Harrisburg:PA,Nassau:The Bahamas,5
+London:Canada,West Palm Beach/Palm Beach:FL,1
+Aguadilla:PR,Mexico City:Mexico,55
+Nassau:The Bahamas,Baton Rouge:LA,4
+Appleton:WI,Winnipeg:Canada,1
+Easton:MD,Karlsruhe/Baden-Baden:Germany,1
+Portland:ME,Keflavik/Reykjavik:Iceland,4
+Philipsburg:Sint Maarten,Chicago:IL,13
+Hickory:NC,Toronto:Canada,1
+Omaha:NE,Halifax:Canada,3
+Quebec:Canada,Little Rock:AR,2
+Athens:Greece,Miami:FL,1
+Accra:Ghana,Tampa:FL,1
+Stockholm:Sweden,Cleveland:OH,14
+New York:NY,Philipsburg:Sint Maarten,1549
+Nassau:The Bahamas,Wilmington:NC,1
+Anchorage:AK,Grande Prairie:Canada,20
+Missoula:MT,Hamilton:Canada,1
+Santa Ana:CA,San Jose:Costa Rica,6
+Nassau:The Bahamas,Chattanooga:TN,9
+Richmond:VA,St. Lucia:Saint Lucia,1
+Victoria:Canada,Los Angeles:CA,1
+Madison:WI,Toronto:Canada,2
+Santa Monica:CA,San Jose del Cabo:Mexico,1
+St. Petersburg:Russia,Las Vegas:NV,1
+Alexandria:LA,Tegucigalpa:Honduras,168
+Atlanta:GA,Halifax:Canada,54
+Port-au-Prince:Haiti,Richmond:VA,6
+Fort Lauderdale:FL,Munich:Germany,1
+Washington:DC,Gothenburg:Sweden,10
+Nuremberg:Germany,Baltimore:MD,15
+Monticello:NY,Toronto:Canada,2
+Lima:Peru,Tampa:FL,1
+Des Moines:IA,Hamilton:Canada,3
+Salt Lake City:UT,Amsterdam:Netherlands,25
+Corpus Christi:TX,Nassau:The Bahamas,6
+Nome:AK,Vancouver:Canada,10
+Honolulu:HI,Busan:South Korea,9
+Port Hardy:Canada,Kenmore:WA,1
+Newark:NJ,Chennai:India,3
+Chihuahua:Mexico,Albuquerque:NM,5
+Columbia:SC,Rock Sound:The Bahamas,8
+Winnipeg:Canada,Appleton:WI,1
+Belize City:Belize,Brownsville:TX,1
+Abbotsford:Canada,Seattle:WA,1
+Los Angeles:CA,Abbotsford:Canada,1
+Andros Town:The Bahamas,Miami:FL,1
+Flagstaff:AZ,Vancouver:Canada,1
+San Francisco:CA,Lille:France,17
+Memphis:TN,San Jose del Cabo:Mexico,1
+Portland:OR,Winnipeg:Canada,6
+Cancun:Mexico,Aguadilla:PR,19
+Cozumel:Mexico,Nashville:TN,3
+Zurich:Switzerland,Morristown:NJ,1
+Barbados/Bridgetown:Barbados,Phoenix:AZ,1
+Rochester:MN,Nice:France,1
+Los Angeles:CA,Keflavik/Reykjavik:Iceland,1
+Zurich:Switzerland,New Orleans:LA,1
+Guam:TT,Shanghai:China,25
+Jersey:United Kingdom,Philadelphia:PA,1
+Teterboro:NJ,Stuttgart:Germany,1
+Kochi:Japan,Honolulu:HI,15
+Tuktoyaktuk:Canada,Anchorage:AK,1
+Vancouver:Canada,Nome:AK,12
+Edmonton:Canada,Kansas City:MO,3
+Northway:AK,Dawson City:Canada,4
+Ottawa:Canada,Las Vegas:NV,69
+Salt Lake City:UT,Nice:France,4
+Keflavik/Reykjavik:Iceland,Teterboro:NJ,1
+Desolation Sound:Canada,Seattle:WA,1
+Dallas:TX,San Pedro Sula:Honduras,2
+Toronto:Canada,Westhampton:NY,1
+Norfolk:VA,Keflavik/Reykjavik:Iceland,7
+Bloomington/Normal:IL,Cancun:Mexico,11
+Portland:ME,St. Kitts:Saint Kitts and Nevis,1
+Minneapolis:MN,Dublin:Ireland,21
+Punta Cana:Dominican Republic,Buffalo:NY,7
+Peterborough:Canada,New York:NY,1
+Norfolk:VA,Nassau:The Bahamas,5
+Christiansted:VI,Saint Barthelemy:Saint Barthelemy,1
+Providence:RI,Puerto Plata:Dominican Republic,2
+Budapest:Hungary,Atlanta:GA,14
+Tokyo:Japan,Kahului:HI,1
+Stephenville:Canada,Newark:NJ,1
+Washington:DC,Queretaro:Mexico,5
+Norfolk:VA,St. Kitts:Saint Kitts and Nevis,10
+Dallas:TX,Guadalajara:Mexico,8
+Barcelona:Spain,Charlotte:NC,15
+Vancouver:Canada,Santa Barbara:CA,1
+Grande Prairie:Canada,Fairbanks:AK,10
+Atlanta:GA,Willemstad:Curacao,5
+Riyadh:Saudi Arabia,Cleveland:OH,1
+Mexico City:Mexico,Spokane:WA,1
+Providence:RI,Grand Cayman:Cayman Islands,1
+Kitchener:Canada,Indianapolis:IN,10
+San Juan:PR,Santa Cruz:Bolivia,1
+Geneva:Switzerland,Baltimore:MD,1
+Evansville:IN,Toronto:Canada,2
+Guantanamo:Cuba,Camp Springs:MD,16
+Cancun:Mexico,Belleville:IL,12
+Santo Domingo:Dominican Republic,Cincinnati:OH,15
+New York:NY,Pau:France,23
+Bangor:ME,Marrakech:Morocco,1
+Hamilton:Bermuda,Teterboro:NJ,1
+Veracruz:Mexico,Aguadilla:PR,11
+Sendai:Japan,Rota:TT,6
+Vancouver:Canada,Dallas:TX,4
+Philadelphia:PA,Luxembourg:Luxembourg,13
+Burbank:CA,Victoria:Canada,1
+Atlanta:GA,Cologne:Germany,2
+Oaxaca:Mexico,Los Angeles:CA,44
+Liberia:Costa Rica,Manchester:NH,14
+Stuttgart:Germany,Jacksonville:FL,1
+Port McNeill:Canada,Tacoma:WA,2
+Washington:DC,Monrovia:Liberia,1
+Stuttgart:Germany,Teterboro:NJ,1
+Oakland:CA,Santiago de Compostela:Spain,1
+Burbank:CA,Goose Bay:Canada,1
+Keflavik/Reykjavik:Iceland,Bedford:MA,7
+San Jose:CA,Kazan:Russia,1
+Fargo:ND,Ottawa:Canada,1
+Teterboro:NJ,Cologne:Germany,1
+Albuquerque:NM,Chihuahua:Mexico,5
+Dallas/Fort Worth:TX,Milan:Italy,20
+Hamilton:Canada,Miami:FL,1
+Lansing:MI,Montego Bay:Jamaica,13
+Newark:NJ,Katowice:Poland,16
+La Macaza:Canada,White Plains:NY,1
+Newport News/Hampton:VA,Port-au-Prince:Haiti,16
+Portland:ME,Madrid:Spain,1
+San Jose del Cabo:Mexico,Columbus:OH,3
+Nassau:The Bahamas,Youngstown/Warren:OH,10
+Miami:FL,Turku:Finland,57
+Pisa:Italy,Los Angeles:CA,1
+Monterrey:Mexico,Omaha:NE,2
+Washington:DC,Philipsburg:Sint Maarten,109
+Newark:NJ,Sydney:Canada,4
+Ontario:CA,Calgary:Canada,4
+Milwaukee:WI,Panama City:Panama,7
+Albany:GA,Montreal:Canada,7
+Montrose/Delta:CO,Toronto:Canada,1
+Geneva:Switzerland,Savoonga:AK,1
+San Francisco:CA,Toluca:Mexico,1
+Fukuoka:Japan,Fairbanks:AK,16
+Toronto:Canada,Pueblo:CO,5
+Luanda:Angola,Miami:FL,4
+Hamilton:Bermuda,Syracuse:NY,8
+Georgetown:Guyana,Atlanta:GA,13
+Shannon:Ireland,Teterboro:NJ,1
+San Antonio:TX,Ciudad Victoria:Mexico,3
+Tampa:FL,Venice:Italy,5
+Toluca:Mexico,San Francisco:CA,1
+Ottawa:Canada,Des Moines:IA,1
+Ottawa:Canada,Dallas:TX,4
+Aguascalientes:Mexico,Laredo:TX,1
+St. John's:Canada,Atlanta:GA,13
+Osaka:Japan,Las Vegas:NV,43
+Vancouver:Canada,Pullman:WA,1
+Belize City:Belize,Portsmouth:NH,6
+Vancouver:Canada,Coeur d'Alene:ID,1
+Memphis:TN,San Jose:Costa Rica,1
+Brunswick:GA,Toronto:Canada,11
+Fairbanks:AK,Nagoya:Japan,61
+Seattle:WA,Montego Bay:Jamaica,2
+Youngstown/Warren:OH,Nassau:The Bahamas,11
+Sydney:Canada,Newark:NJ,4
+Savannah:GA,Halifax:Canada,2
+Winnipeg:Canada,Flint:MI,1
+Raleigh/Durham:NC,San Jose:Costa Rica,2
+Cunnamulla:Australia,Grand Junction:CO,1
+Dawson City:Canada,Northway:AK,4
+Toronto:Canada,Huntsville:AL,1
+Tuscaloosa:AL,Freeport:The Bahamas,3
+Gulfport/Biloxi:MS,Guatemala City:Guatemala,1
+Hamilton:Canada,Atlantic City:NJ,1
+Myrtle Beach:SC,St. Kitts:Saint Kitts and Nevis,12
+Aguadilla:PR,Veracruz:Mexico,8
+Ixtapa/Zihuatanejo:Mexico,Fresno:CA,13
+New York:NY,Akureyri:Iceland,14
+Missoula:MT,Vancouver:Canada,1
+Cedar Rapids/Iowa City:IA,Montreal:Canada,1
+Grand Cayman:Cayman Islands,Laredo:TX,6
+Lake Simcoe:Canada,Greensboro/High Point:NC,1
+Honolulu:HI,Kochi:Japan,14
+Tokyo:Japan,Cincinnati:OH,1
+Washington:DC,Lagos:Nigeria,28
+Nice:France,Boston:MA,1
+Dubai:United Arab Emirates,Denver:CO,44
+Los Angeles:CA,El Palomar:Argentina,1
+Baton Rouge:LA,Nassau:The Bahamas,4
+Pittsburgh:PA,Port-au-Prince:Haiti,4
+St. Louis:MO,Moss Town:The Bahamas,7
+Danang:Vietnam,Guam:TT,5
+Istanbul:Turkey,Newark:NJ,4
+Christiansted:VI,Pointe A Pitre:Guadeloupe,4
+Bangor:ME,Montego Bay:Jamaica,14
+South Bend:IN,Montreal:Canada,2
+Port-au-Prince:Haiti,Norfolk:VA,13
+Dallas:TX,Vancouver:Canada,3
+Columbus:OH,Aruba:Aruba,1
+Leipzig:Germany,Bangor:ME,9
+San Juan:PR,Willemstad:Curacao,55
+New York:NY,Cape Town:South Africa,8
+Charleston:SC,Geneva:Switzerland,1
+Kotzebue:AK,Vancouver:Canada,1
+Santa Barbara:CA,Nassau:The Bahamas,1
+Barcelona:Spain,Seattle:WA,2
+San Pedro Sula:Honduras,Laredo:TX,5
+Toronto:Canada,Montrose/Delta:CO,1
+Ciudad del Carmen:Mexico,San Antonio:TX,3
+Juneau:AK,Grande Prairie:Canada,3
+Greer:SC,Philipsburg:Netherlands Antilles,5
+San Antonio:TX,Kingston:Jamaica,2
+Montpellier:France,Boston:MA,1
+Atlanta:GA,Cardiff:United Kingdom,21
+Tulsa:OK,Edmonton:Canada,1
+Malaga:Spain,Oakland:CA,1
+Pittsburgh:PA,Dusseldorf:Germany,14
+Kazan:Russia,San Jose:CA,1
+Boston:MA,Belfast:United Kingdom,5
+Port of Spain:Trinidad and Tobago,Alexandria:LA,2
+Tampa:FL,San Salvador:El Salvador,11
+Dallas:TX,Tegucigalpa:Honduras,9
+Sanford:FL,Port-au-Prince:Haiti,4
+Istanbul:Turkey,Teterboro:NJ,1
+Farnborough:United Kingdom,Nantucket:MA,1
+San Diego:CA,Geneva:Switzerland,1
+Helena:MT,Calgary:Canada,7
+Charlottetown:Canada,Orlando:FL,10
