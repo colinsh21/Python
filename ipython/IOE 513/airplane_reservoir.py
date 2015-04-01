@@ -50,9 +50,9 @@ class Model(object):
                 self.num_infected+=self.g.node[node_id]['infected']
                 neighbors = self.g.neighbors(node_id)
                 for neighbor_id in neighbors: #set throttling for routes
-                    print 'before throttle',self.g.edge[node_id][neighbor_id]['weight']
+                    #print 'before throttle',self.g.edge[node_id][neighbor_id]['weight']
                     self.g.edge[node_id][neighbor_id]['weight']=int(np.ceil(self.g.edge[node_id][neighbor_id]['weight']*(1-self.throttle)))
-                    print 'after throttle',self.g.edge[node_id][neighbor_id]['weight']
+                    #print 'after throttle',self.g.edge[node_id][neighbor_id]['weight']
             else:
                 self.g.node[node_id]['infected']=0
                 self.g.node[node_id]["state"] = "S"
