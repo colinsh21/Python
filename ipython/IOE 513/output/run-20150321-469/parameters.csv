@@ -1,8 +1,0 @@
-,parameter,value
-0,probability_of_flying_day,0.0005
-1,transmission_rate,0.05
-2,initial_infected,"[[366], [3000]]"
-3,passengers_per_flight,150
-4,effective_contacts,15
-5,probability_of_flying,0.014891755791629935
-6,reproduction_number,0.75
