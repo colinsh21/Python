@@ -988,7 +988,7 @@ class Space(object):
         """
         #Step for each ant
         for c in xrange(self.num_colonies):
-            print 'colony:',c
+            #print 'colony:',c
             for i in xrange(self.num_ants):
                 self.add_ant((i,c),self.ant_graphs)
                 

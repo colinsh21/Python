@@ -144,56 +144,58 @@ def store(space,results,pareto_history,ant_graphs,output_path='output'):
     
 #Run through dissipation rates
 
-dissipation_list=[0,.1,.2,.3,.4,.5,.6,.7,.8,.9]
+dissipation_list=[.6,.7,.8,.9]
 out_p='output'
+num_trials=5
 results_list=[]
-
 for c in xrange(len(dissipation_list)):
-    #initialize with dissipation rate
-    s=Space(size=[4,4],num_ants=10,num_colonies=10,
-       source=[[(0,0)],[(3,3)]],source_magnitude=[[20],[10]],
-       sink=[[(3,3),(1,3)],[(0,0),(2,0)]],sink_magnitude=[[10,10],[5,5]], sink_threshold=[[.5,1.0],[1.0,1.0]],
-       links=[(1,0,(3,3))],capacities=[[5,10],[5]],edge_capacity=20,percent_removals=1.0,
-       dissipation=dissipation_list[c],initial_pheromone=1.0,initial_termination=1.0,
-       alpha=1.0,beta=1.0)
+    print 'Running dissipation =',dissipation_list[c]
+    for n in xrange(num_trials):
+        #initialize with dissipation rate
+        s=Space(size=[4,4],num_ants=10,num_colonies=10,
+           source=[[(0,0)],[(3,3)]],source_magnitude=[[20],[10]],
+           sink=[[(3,3),(1,3)],[(0,0),(2,0)]],sink_magnitude=[[10,10],[5,5]], sink_threshold=[[.5,1.0],[1.0,1.0]],
+           links=[(1,0,(3,3))],capacities=[[5,10],[5]],edge_capacity=20,percent_removals=1.0,
+           dissipation=dissipation_list[c],initial_pheromone=1.0,initial_termination=1.0,
+           alpha=1.0,beta=1.0)
+        
+        #iterate until coverged
+        converged=0
+        i=1
+        pareto_history=[]
+        criteria=0
+        while not converged:
+            ant_graphs=s.step()
     
-    #iterate until coverged
-    converged=0
-    i=1
-    pareto_history=[]
-    criteria=0
-    while not converged:
-        ant_graphs=s.step()
-
-        paretoPoints=[]
-        for ant in xrange(len(ant_graphs)):
-            paretoPoints.append(ant_graphs[ant][-1])
-
-        pareto_history.append(paretoPoints)
-        if i>5 and pareto_history[-1]==pareto_history[-2]:
-            criteria+=1
-        else:
-            criteria=0
-
-        #print 'Pareto front of generation',i,':',paretoPoints, criteria #'\r',
-        if criteria>10:
-            converged=1
-
-        i+=1
-        if i>25:
-            converged=1
+            paretoPoints=[]
+            for ant in xrange(len(ant_graphs)):
+                paretoPoints.append(ant_graphs[ant][-1])
     
-    #calculate metrics
-    ini_utopia=get_closest_to_utopia(pareto_history[0])
-    ini_spread=get_spread(pareto_history[0])
-    last_utopia=get_closest_to_utopia(pareto_history[-1])
-    last_spread=get_spread(pareto_history[-1])
+            pareto_history.append(paretoPoints)
+            if i>5 and pareto_history[-1]==pareto_history[-2]:
+                criteria+=1
+            else:
+                criteria=0
     
-    #save run results
-    results=[dissipation_list[c],ini_utopia[0],ini_utopia[1],ini_spread,last_utopia[0],last_utopia[1],last_spread]
-    #print results
-    results_list.append(results)
-    store(s,results,pareto_history,ant_graphs,output_path=out_p)
+            print 'Pareto front of run', c,'trial',n,'generation',i,':',paretoPoints #'\r',
+            if criteria>10:
+                converged=1
+    
+            i+=1
+            if i>25:
+                converged=1
+        
+        #calculate metrics
+        ini_utopia=get_closest_to_utopia(pareto_history[0])
+        ini_spread=get_spread(pareto_history[0])
+        last_utopia=get_closest_to_utopia(pareto_history[-1])
+        last_spread=get_spread(pareto_history[-1])
+        
+        #save run results
+        results=[dissipation_list[c],ini_utopia[0],ini_utopia[1],ini_spread,last_utopia[0],last_utopia[1],last_spread]
+        #print results
+        results_list.append(results)
+        store(s,results,pareto_history,ant_graphs,output_path=out_p)
     
 store_all_results(results_list,output_path=out_p)    
     
