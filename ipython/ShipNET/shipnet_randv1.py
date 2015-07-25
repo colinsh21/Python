@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created on Tue Jul 21 09:52:03 2015
+
+@author: colinsh
+"""
+
+# -*- coding: utf-8 -*-
+"""
 Created on Sat Jul 18 09:56:27 2015
 
 @author: colinsh
@@ -196,15 +203,17 @@ class ShipNET(object):
                         s_g.add_edge(j,k,streets=available_streets)
             self.transfer_types[transfer]=s_g
             
-    def set_dc_config(self,water_tight_bulkheads,dc_deck_level,exception=[]):
+    def set_dc_config(self,water_tight_bulkheads,dc_deck_level,exception=[],p=0.0):
         self.num_bh=len(water_tight_bulkheads)
         self.height_dc=dc_deck_level
+        self.permeability=p
         dc_deck='H{}'.format(self.height_dc)
         for u,v in self.ship.edges():
             #print (u,v), self.relative_position(dc_deck,u)
             #print (u,v),(self.ship[u][v]['penetration'] in water_tight_bulkheads) and (not self.relative_position(dc_deck,u))
             if (self.ship[u][v]['penetration'] in water_tight_bulkheads) and (not self.relative_position(dc_deck,u)):
-                self.ship[u][v]['availability']=exception
+                if numpy.random.rand(1)[0]>self.permeability: #if true, create watertight bh
+                    self.ship[u][v]['availability']=exception
     
     def gen_disjoint_sets(self,affordance_multiplex,method,k=10):
         self.affordance_multiplex=affordance_multiplex
