@@ -161,7 +161,7 @@ class ShipNET(object):
         self.ship.remove_node(node_name)
     
     def remove_ship_edge(self,edge_name):
-        self.ship.remove_edge(edge_name)
+        self.ship.remove_edge(*edge_name)
     
     def relative_position(self,structure,node):
         if self.dual_streets[structure]['orientation'] is 'transverse':
