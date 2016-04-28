@@ -757,13 +757,42 @@ class Ant(object):
         """
         Removes nodes from sos.
         """
-        nodes_to_remove=sample(self.model.spatial.nodes(),
-                               self.model.removals)
+        targets=sample(self.model.spatial.nodes(),
+                               self.model.removals[1])
         #print 'removed', nodes_to_remove
+        #Get radius
+        nodes_to_remove=set()
+        #print 'num', self.model.removals[0]
         
+        
+        nodes_to_remove.update(targets)
+        
+        #print nodes_to_remove
+        
+        for n in targets:
+            path=nx.single_source_shortest_path(self.model.spatial,
+                                                n,
+                                                cutoff=self.model.removals[0])
+            for t in path:
+                nodes_to_remove.update(path[t])
+#        
+#        for i in xrange(self.model.removals[0]):
+#            new=[]
+#            for n in nodes_to_remove:
+#                new.append(nx.neighbors(self.model.spatial,n))
+#            new=[item for sublist in new for item in sublist]    
+#            #print new
+#            nodes_to_remove.update(new)
+#            
+            
+            
+        #print 'final',nodes_to_remove
+                                                   
+                                                   
         #Remove node in each system                       
         for sys,g in sos.iteritems():
             for n in nodes_to_remove:
+                
                 if n in g:
                     g.remove_node(n)
                     
@@ -805,7 +834,7 @@ class Space(object):
                                    (2,0):{'d':5,'l':[(2,1.0)]}}},
                  capacities={1:[5,10],2:[5]},
                  max_cap=20,
-                 tests=30,removals=4,
+                 tests=30,removals=(1,1), #removals=(neighbors,number)
                  alpha=1.0,beta=1.0,
                  initial_pheromone=.5,dissipation=.2,
                  keep_best=0,
