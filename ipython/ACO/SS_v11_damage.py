@@ -13,9 +13,12 @@ import itertools
 # Scientific computing imports
 import numpy
 import matplotlib.pyplot as plt
+from matplotlib import colors
 import networkx as nx
 import pandas
+import pickle
 import collections
+from datetime import datetime
 from capacity_scaling import capacity_scaling 
 from relabel_nodes import convert_node_labels_to_integers
 from collections import Iterable
@@ -217,7 +220,12 @@ class Ant(object):
         """
         Reduce pheromone by a factor
         """
-        factor=.1
+        
+#        if key==(1,1,0):
+#            print p[sys][(1,1,0)][col][0][t]            
+#            print sys,key,col,t,dec
+        
+        factor=self.model.dissipation
         p[sys][key][col][0][t][dec]*=(1.0-factor)
         p[sys][key][col][1][t][dec]*=(1.0-factor)
         
@@ -834,7 +842,7 @@ class Space(object):
                                    (2,0):{'d':5,'l':[(2,1.0)]}}},
                  capacities={1:[5,10],2:[5]},
                  max_cap=20,
-                 tests=30,removals=(1,1), #removals=(neighbors,number)
+                 tests=30,removals=(0,1), #removals=(neighbors,number)
                  alpha=1.0,beta=1.0,
                  initial_pheromone=.5,dissipation=.2,
                  keep_best=0,
@@ -941,6 +949,7 @@ class Space(object):
             #node level
             for n in s[sys].nodes():
                 #colony level
+                #print n, s[sys].neighbors(n)
                 ph_struct[sys][n]={}
                 for c in xrange(n_col):
                     #objective level
@@ -1151,6 +1160,8 @@ class Space(object):
         for ant in p_id:
             s=self.ant_by_id(ant).score
             f[0]+=s[0]/p_bounds[0]
+            if f[0]==0.0:
+                f[0]=1.0
             f[1]+=p_bounds[1]/s[1]
             
         #print f
@@ -1158,6 +1169,10 @@ class Space(object):
             s=self.ant_by_id(ant).score
             inc=[s[0]/p_bounds[0],p_bounds[1]/s[1]]
             inc=[inc[0]/f[0],inc[1]/f[1]]
+            
+#            if numpy.isnan(inc).any():
+#                print inc, p_bounds, self.ant_by_id(ant).score
+            
             self.ph_addition(ant,inc)
         
         
@@ -1185,6 +1200,7 @@ class Space(object):
         """
         #inc=[theta_1,theta_2]
         add=[inc[0]*self.dissipation, inc[1]*self.dissipation]
+
         #add=list(inc)
         #print add
         
@@ -1284,6 +1300,8 @@ class Space(object):
         self.pareto_scores.append(front_scores)
         
         #Update pheromones
+        if pareto_bounds[0]==0.0:
+            pareto_bounds[0]=1.0
         self.ph_update(pareto_id,pareto_bounds)
         
         #Only keep pareto ants for next generation        
@@ -1417,9 +1435,10 @@ class Space(object):
         cax2=div2.append_axes('right',size='7%',pad=.05)
         cbar=plt.colorbar(im2,cax=cax2) 
         cbar.set_label('Generation', size=13)
-        ax2.set_xlabel('Survivability', size=13)
+        ax2.set_xlabel(r'Survivability, $\bar{\phi}$', size=13)
+        ax2.set_xlim(right=1.0)
         #ax2.set_ylabel('Complexity',size=13)
-        ax2.set_title("Pareto front by generation",size=15)   
+        ax2.set_title("Non-Dominated Front by Generation",size=15)   
         
         #Get full history
         x=[]
@@ -1449,16 +1468,27 @@ class Space(object):
             x_p.append(s[0])
             y_p.append(s[1])
             colony.append(ant_id[1])
-            
-        ax1.scatter(x,y,color='grey',label='Dominated points')    
-        im1=ax1.scatter(x_p,y_p,c=colony,cmap=cm.rainbow)
+        
+        #set up colorbar
+        rainbow=cm.get_cmap('rainbow',self.n_col)
+        bounds=[i for i in xrange(self.n_col)]
+        #print bounds
+        norm=colors.BoundaryNorm(bounds,rainbow.N)         
+        
+        
+        
+        ax1.scatter(x,y,color='grey',label='Dominated points')  
+        
+        im1=ax1.scatter(x_p,y_p,c=colony,cmap=rainbow)
         div1=make_axes_locatable(ax1)
         cax1=div1.append_axes('right',size='7%',pad=.05)
-        cbar=plt.colorbar(im1,cax=cax1) 
-        cbar.set_label('Non-Dominated Points Colony of Origin', size=13)
-        ax1.set_xlabel('Survivability', size=13)
-        #ax2.set_ylabel('Complexity',size=13)
-        ax1.set_title("Final Pareto front by colony",size=15)
+        cbar=plt.colorbar(im1,cax=cax1,norm=norm,ticks=bounds) 
+        cbar.set_label('Colony of Origin', size=13)
+        ax1.set_xlabel(r'Survivability, $\bar{\phi}$', size=13)
+        ax1.set_ylabel(r'Cost, $\psi$',size=13)
+        ax1.set_xlim(right=1.0)
+        ax1.set_ylim(bottom=0.0)
+        ax1.set_title("Final Non-Dominated Front by Colony",size=15)
         ax1.legend(shadow=True,frameon=True)
             
             
@@ -1494,6 +1524,23 @@ class Space(object):
         ax2.set_xlabel('Generation',size=15)
         
         ax2.legend()
+
+    def save(self):
+        """
+        Saves the space
+        """
+        ts=datetime.now().strftime('%Y-%m-%d %H%M%S')
+        fo=open(ts,'wb')
+        pickle.dump(self,fo)
+        fo.close()
+        
+        """
+        Load with:
+        fileObject = open(file_Name,'r')
+        b = pickle.load(fileObject)
+        """
+        
+
         
 if __name__=='__main__':
     space=Space(n_col=2,n_ant=2,keep_best=1,tests=10)
@@ -1509,7 +1556,7 @@ if __name__=='__main__':
 #    for a in space.all_ants:
 #        space.vizualize_sos(a.ant_id)
     #print space.p
-    space.vizualize_systems()
+    #space.vizualize_systems()
         
     
         
