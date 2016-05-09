@@ -83,12 +83,12 @@ n_a=5
 cap={1:[1,3,6],2:[1,3,6]}
 max_c=25
 t=50
-r=(1,1)
+r=(0,4)
 a=1.0
 b=0.0
 ini_p=1.0
 diss=0.2
-keep=1
+keep=0
 f_size=9
 
 #Initialize space
