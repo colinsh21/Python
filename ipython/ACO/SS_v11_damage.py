@@ -34,7 +34,8 @@ from random import sample
 import matplotlib.cm as cm
 #from matplotlib import rc
 from mpl_toolkits.axes_grid1 import make_axes_locatable
-get_ipython().magic(u'matplotlib inline')
+#get_ipython().magic(u'matplotlib inline')
+
 
 import seaborn; seaborn.set()
 
@@ -1344,6 +1345,7 @@ class Space(object):
                            figsize=(self.figure_size*self.n_sys,
                                     self.figure_size),
                             dpi=1000,sharey=True)
+
         
         #Set boundaries
         cut = 1.15
@@ -1399,6 +1401,7 @@ class Space(object):
                                          label_pos=.27,font_color=color,
                                          font_size=15,ax=ax_g)
             plot_count+=1
+
         
     def vizualize_pf(self):
         """
@@ -1503,6 +1506,7 @@ class Space(object):
 #        ax1.legend(shadow=True,frameon=True)
         
         plt.tight_layout(pad=1.5)
+        #plt.show()
         
     def vizualize_c_f(self):
         """
@@ -1524,6 +1528,7 @@ class Space(object):
         ax2.set_xlabel('Generation',size=15)
         
         ax2.legend()
+        #plt.show()
 
     def save(self):
         """
@@ -1557,6 +1562,8 @@ if __name__=='__main__':
 #        space.vizualize_sos(a.ant_id)
     #print space.p
     #space.vizualize_systems()
+    #plt.show()
+    #raw_input()
         
     
         
